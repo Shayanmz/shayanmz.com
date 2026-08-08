@@ -1,15 +1,28 @@
-/* shayanmz.com — recreation of the Notion/Super look the site has always had,
-   including the custom CSS Shy ran on Super (nav/footer hover effects, blog
-   card gradient hover, grayscale cover images, compact footer spacing). */
+/* shayanmz.com — faithful recreation of the Notion/Super rendering the site
+   has always had. Values below are lifted verbatim from Super's shipped CSS
+   (notion.css / super.css, dark theme) plus the custom CSS Shy ran on Super.
+
+   Key Super values:
+     text #e1e1e1 on #272727, Inter, body 1rem/1.5, weight 400
+     title 2.5rem/700 · h1 1.875rem · h2 1.5rem · h3 1.25rem — headings 600
+     content column: max-width 900px, side padding 96px  (=> 708px text)
+     card bg #212121, radius 5px · gallery large: minmax(320px,1fr), gap 16px,
+     cover 200px · gray #9b9a97 · border #373737 · quote 1.2rem, no bg */
 
 :root {
   --bg: #272727;
   --text: #e1e1e1;
-  --text-muted: #bebebe;
-  --text-faint: #9b9b9b;
+  --text-gray: #9b9a97;
+  --nav-item: #bebebe;
   --link: #4d91ff;
-  --divider: #373737;
-  --card-bg: #333333;
+  --border: #373737;
+  --card-bg: #212121;
+  --hover-bg: #292929;
+  --title-size: 2.5rem;
+  --heading1-size: 1.875rem;
+  --heading2-size: 1.5rem;
+  --heading3-size: 1.25rem;
+  --padding-layout: 0.6rem;
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -24,15 +37,17 @@ html {
 body {
   margin: 0;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
-    'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', 'Segoe UI',
+    Roboto, 'Noto Sans', sans-serif;
   font-size: 16px;
+  font-weight: 400;
   line-height: 1.5;
   color: var(--text);
   background: var(--bg);
   -webkit-font-smoothing: antialiased;
 }
 
-/* ── Nav ─────────────────────────────────────────────────────────── */
+/* ── Nav (Super navbar + Shy's hover CSS) ────────────────────────── */
 
 .site-nav {
   display: flex;
@@ -44,14 +59,13 @@ body {
 }
 
 .site-nav a {
-  color: var(--text-muted);
+  color: var(--nav-item);
   text-decoration: none;
   font-size: 16px;
   display: inline-block;
   transition: all 0.1s ease-in-out;
 }
 
-/* the Super-era hover: fade + grow */
 .site-nav a:hover {
   opacity: 70%;
   transform: scale(1.1);
@@ -69,60 +83,77 @@ body {
   }
 }
 
-/* ── Page column ─────────────────────────────────────────────────── */
+/* ── Page column (Super: 900px + 96px side padding) ──────────────── */
 
 .page {
-  max-width: 708px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 40px 24px 48px;
+  padding: 40px 96px 48px;
 }
 
-.page-wide {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 40px 24px 48px;
+/* blog index runs full-width like Super collection pages */
+.page-full {
+  padding: 40px 96px 48px;
 }
 
-.page h1.page-title {
-  font-size: 40px;
+@media (max-width: 900px) {
+  .page,
+  .page-full {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+.page-title {
+  font-size: var(--title-size);
   font-weight: 700;
-  line-height: 1.1;
+  line-height: var(--title-size);
   margin: 0 0 24px;
+  padding: 2px;
   color: var(--text);
 }
 
-/* ── Prose (markdown content) ────────────────────────────────────── */
+/* ── Prose — Notion block rendering ──────────────────────────────── */
 
 .prose-site {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Notion text blocks: margin 1px + padding 3px 2px => tight paragraph rhythm */
+.prose-site p {
+  margin: 1px 0;
+  padding: 3px 2px;
+}
+
+/* heading sizes/weights exactly as Super ships them */
+.prose-site h2,
+.prose-site h3,
+.prose-site h4 {
+  font-weight: 600;
+  line-height: 1.3em;
+  margin-bottom: 1px;
+  padding: 3px 2px;
+  color: var(--text);
 }
 
 .prose-site h2 {
-  font-size: 24px;
-  font-weight: 600;
-  margin: 32px 0 8px;
+  font-size: var(--heading1-size);
+  margin-top: 2rem;
 }
 
 .prose-site h3 {
-  font-size: 20px;
-  font-weight: 600;
-  margin: 24px 0 8px;
+  font-size: var(--heading2-size);
+  margin-top: 1.4rem;
 }
 
 .prose-site h4 {
-  font-size: 17px;
-  font-weight: 600;
-  margin: 20px 0 6px;
-}
-
-.prose-site p {
-  margin: 0 0 12px;
+  font-size: var(--heading3-size);
+  margin-top: 0.75rem;
 }
 
 .prose-site a {
   color: var(--link);
-  font-weight: 600;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
@@ -133,48 +164,57 @@ body {
 
 .prose-site hr {
   border: none;
-  border-top: 1px solid var(--divider);
-  margin: 24px 0;
+  border-top: 1px solid var(--border);
+  margin: 13px 2px;
 }
 
 .prose-site ul,
 .prose-site ol {
-  margin: 0 0 12px;
-  padding-left: 26px;
+  margin: 2px 0;
+  padding-inline-start: calc(1.5em + 4px);
+  line-height: 1.5;
 }
 
 .prose-site li {
-  margin: 4px 0;
+  margin: 2px 0;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 
+.prose-site li > ul,
+.prose-site li > ol {
+  margin: 0;
+}
+
+/* Notion quote: thick current-color left border, 1.2rem, NO background */
 .prose-site blockquote {
-  margin: 12px 0;
-  padding: 12px 16px;
-  border-left: 3px solid var(--text);
-  background: rgba(255, 255, 255, 0.03);
+  border-inline-start: 3px solid currentcolor;
+  margin: 0.5rem 0;
+  padding: 0.1rem 0.9rem;
+  font-size: 1.2rem;
 }
 
 .prose-site blockquote p {
-  margin: 0;
+  margin: 1px 0;
+  padding: 3px 2px;
 }
 
 .prose-site img {
   max-width: 100%;
-  border-radius: 4px;
-  margin: 8px 0;
+  margin: 4px 0;
 }
 
 .prose-site code {
   background: #3a3a3a;
   border-radius: 4px;
   padding: 2px 5px;
-  font-size: 14px;
+  font-size: 85%;
   color: #eb5757;
 }
 
 .prose-site pre {
   background: #1f1f1f;
-  border-radius: 6px;
+  border-radius: 5px;
   padding: 16px;
   overflow-x: auto;
 }
@@ -186,33 +226,34 @@ body {
 }
 
 .prose-site details {
-  margin: 0 0 12px;
-  padding: 8px 12px;
-  border-radius: 4px;
-  background: rgba(255, 255, 255, 0.03);
+  margin: 2px 0;
+  padding: 3px 2px;
 }
 
 .prose-site details summary {
   cursor: pointer;
-  font-weight: 600;
+  padding: 3px 2px;
 }
 
 .prose-site details[open] summary {
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
-/* ── Blog index cards ────────────────────────────────────────────── */
+/* ── Blog index (Super gallery.large + Shy's custom hover CSS) ───── */
 
 .blog-desc {
   font-size: 16px;
-  color: var(--text-muted);
-  margin: 0 0 24px;
+  color: var(--text);
+  margin: 0 0 8px;
+  padding: 3px 2px;
 }
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
 }
 
 .post-card {
@@ -220,8 +261,11 @@ body {
   text-decoration: none;
   color: var(--text);
   background: var(--card-bg);
-  border-radius: 6px;
+  border-radius: 5px;
   overflow: hidden;
+  box-shadow:
+    rgba(15, 15, 15, 0.1) 0px 0px 0px 1px,
+    rgba(15, 15, 15, 0.1) 0px 2px 4px;
   transition: var(--transition);
 }
 
@@ -231,17 +275,19 @@ body {
   background: linear-gradient(140deg, #4e5f6c 27%, #808080 100%);
 }
 
-/* covers sit dimmed + half-grayscale until hover */
+/* covers: 200px tall, dimmed + half-grayscale until hover */
 .post-card .cover {
-  aspect-ratio: 5 / 3;
+  height: 200px;
+  min-height: 115px;
   overflow: hidden;
   background: #2f2f2f;
 }
 
 .post-card .cover img {
   width: 100%;
-  height: 100%;
+  height: 200px;
   object-fit: cover;
+  object-position: center 50%;
   opacity: 0.5;
   filter: grayscale(0.5);
   -webkit-filter: grayscale(0.5);
@@ -255,34 +301,56 @@ body {
 }
 
 .post-card .card-body {
-  padding: 12px 14px 14px;
+  padding: var(--padding-layout);
 }
 
 .post-card .card-title {
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 0.875rem;
+  font-weight: 500;
   line-height: 1.35;
-  margin: 0 0 6px;
+  margin: 0 0 4px;
+  color: #ffffff;
 }
 
 .post-card .card-date {
-  font-size: 13px;
-  color: var(--text-faint);
+  font-size: 0.75rem;
+  color: var(--text-gray);
 }
 
-/* ── Post page ───────────────────────────────────────────────────── */
+/* ── Post pages (Super page header: 30vh cover, 78px icon overlap) ─ */
+
+.post-cover {
+  height: 30vh;
+  max-height: calc(100vh - 56px);
+  overflow: hidden;
+}
+
+.post-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 50%;
+  display: block;
+}
 
 .post-header .post-icon {
-  font-size: 56px;
-  line-height: 1;
+  font-size: 78px;
+  line-height: 78px;
   display: block;
-  margin-bottom: 12px;
 }
 
-.post-header .post-date {
-  color: var(--text-faint);
-  font-size: 14px;
-  margin-bottom: 24px;
+/* icon straddles the cover edge, Notion-style */
+.has-cover .post-header .post-icon {
+  margin-top: -44px;
+  position: relative;
+}
+
+.post-header .page-title {
+  margin: 8px 0 4px;
+}
+
+.post-header {
+  margin-bottom: 20px;
 }
 
 /* resume cover strip, capped like the Super custom CSS did */
@@ -299,10 +367,10 @@ body {
   display: block;
 }
 
-/* ── Footer ──────────────────────────────────────────────────────── */
+/* ── Footer (Super footer + Shy's hover CSS) ─────────────────────── */
 
 .site-footer {
-  border-top: 1px solid var(--divider);
+  border-top: 1px solid var(--border);
   margin-top: 24px;
   padding: 20px 24px 28px;
   display: flex;
@@ -314,7 +382,7 @@ body {
 }
 
 .site-footer a {
-  color: var(--text-muted);
+  color: var(--nav-item);
   text-decoration: none;
   display: inline-block;
   transition: all 0.1s ease-in-out;
