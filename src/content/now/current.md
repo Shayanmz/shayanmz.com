@@ -9,7 +9,7 @@ For years I've told myself I wanted to get my CSCS but always made reasons to be
 
 For now, I'm enjoying learning much more deeply about exercise science and the human body.
 
-### [Shyops.com](shyops.com) consulting
+### [Shyops.com](https://shyops.com) consulting
 
 I'm still doing part-time random (and I mean, random) operations, forward deployed, and growth gigs while I transition.
 

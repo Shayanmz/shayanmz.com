@@ -637,12 +637,8 @@ html {
   border-radius: 4px;
 }
 
-/* linked headings inherit the heading color (Super: .notion-link color inherit) */
-.prose-site h2 a,
-.prose-site h3 a,
-.prose-site h4 a {
-  color: inherit;
-}
+/* A hyperlink is blue everywhere, including inside a heading — headings
+   don't get a special case, they just inherit .prose-site a. */
 
 /* ── Blog index (Super gallery.large + Shy's custom hover CSS) ───── */
 
