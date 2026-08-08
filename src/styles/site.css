@@ -120,9 +120,9 @@ body {
   line-height: 1.5;
 }
 
-/* Notion text blocks: margin 1px + padding 3px 2px => tight paragraph rhythm */
+/* Notion text blocks: no margin, padding 3px 2px => tight paragraph rhythm */
 .prose-site p {
-  margin: 1px 0;
+  margin: 0;
   padding: 3px 2px;
 }
 
@@ -144,13 +144,33 @@ body {
 
 .prose-site h3 {
   font-size: var(--heading2-size);
-  margin-top: 1.4rem;
+  margin-top: 1rem;
 }
 
 .prose-site h4 {
   font-size: var(--heading3-size);
   margin-top: 0.75rem;
 }
+
+/* Notion blank block — Super renders these as 32px spacers */
+.prose-site .nb {
+  height: 26px;
+  padding: 3px 2px;
+}
+
+/* Notion text colors, dark theme (values from Super's .theme-dark vars) */
+.tc-gray   { color: hsl(0, 0%, 61%); }
+.tc-blue   { color: hsl(217, 100%, 65%); }
+.tc-green  { color: hsl(146, 32%, 47%); }
+.tc-orange { color: hsl(25, 54%, 53%); }
+.tc-pink   { color: hsl(329, 57%, 58%); }
+.tc-red    { color: hsl(1, 69%, 60%); }
+.tc-yellow { color: hsl(38, 54%, 54%); }
+.tc-purple { color: hsl(270, 55%, 62%); }
+.tc-brown  { color: hsl(18, 35%, 58%); }
+
+/* colored links keep their span color, not the default blue */
+.tc-gray a { color: inherit; }
 
 .prose-site a {
   color: var(--link);
@@ -165,7 +185,7 @@ body {
 .prose-site hr {
   border: none;
   border-top: 1px solid var(--border);
-  margin: 13px 2px;
+  margin: 8px 0;
 }
 
 .prose-site ul,

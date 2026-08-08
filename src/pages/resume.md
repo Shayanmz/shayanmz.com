@@ -6,15 +6,19 @@ description: "Shayan Memarzadeh's resume"
 active: resume
 ---
 
-Last updated on March 5, 2025.
+<span class="tc-gray">Last updated on March 5, 2025.</span>
 
 > 8+ years across customer success, RevOps, and most recently, light data engineering. I'm at my best when I can sit at the intersection of business strategy and technical execution - building the systems, pipelines, and tools that make teams more effective. You'd get even more value from me if your organization sits in the Fitness, Healthcare, Business Insights, or Organizational Tools spaces, as these are where my interests and expertise run deepest. If you're looking for someone who thinks like an operator, builds like an engineer, and obsesses over understanding your customers — keep reading.
 
+<div class="nb"></div>
+
 **Get in touch with me:**
 
-📧  **[shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)**
+📧  <span class="tc-blue">**[shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)**</span>
 
-🔗  **[https://www.linkedin.com/in/shayan-memarzadeh/](https://www.linkedin.com/in/shayan-memarzadeh/)**
+🔗  <span class="tc-blue">**[https://www.linkedin.com/in/shayan-memarzadeh/](https://www.linkedin.com/in/shayan-memarzadeh/)**</span>
+
+<div class="nb"></div>
 
 ---
 
@@ -22,24 +26,26 @@ Last updated on March 5, 2025.
 
 ### GTM Engineer
 
-***[Gorgias](https://www.gorgias.com/)**, Toronto, Canada – (Dec 2024 - Present)*
+<span class="tc-blue">***[Gorgias](https://www.gorgias.com/)***</span><span class="tc-gray">*, Toronto, Canada – (Dec 2024 - Present)*</span>
 
 Currently focused on RevOps for our CX & sales teams
 
 ### Customer Success Manager (Bilingual)
 
-***[Gorgias](https://www.gorgias.com/)**, Toronto, Canada – (Dec 2023 - Dec 2024)*
+<span class="tc-blue">***[Gorgias](https://www.gorgias.com/)***</span><span class="tc-gray">*, Toronto, Canada – (Dec 2023 - Dec 2024)*</span>
 
 - Managed a BoB of 80+ accounts, totalling ~1.2MM ARR
 - Oversaw our entire french market (France based customers) for 4 months while we were hiring CSMs for our Paris team
-- Developed 3 customers into successful case studies: **[Ekster](https://www.gorgias.com/customers/ekster)**, **[Jonas Paul](https://www.gorgias.com/customers/jonas-paul-eyewear)**, & **[Cornbread Hemp](https://www.gorgias.com/customers/cornbread-hemp)**
+- Developed 3 customers into successful case studies: <span class="tc-blue">**[Ekster](https://www.gorgias.com/customers/ekster)**</span>, <span class="tc-blue">**[Jonas Paul](https://www.gorgias.com/customers/jonas-paul-eyewear)**</span>, & <span class="tc-blue">**[Cornbread Hemp](https://www.gorgias.com/customers/cornbread-hemp)**</span>
 - Hit every OKR over my 3 full quarters, which were mainly around NRR, cross-sell/expansion, and getting customers to adopt more automation across our product
 - Got promoted from L2 > L3 in ~9 months
 - Helped scale and maintain the use of Vitally across our team and the broader company. This is what began my transition into my GTM Engineer role
 
+<div class="nb"></div>
+
 ### Customer Success Manager
 
-***[Bluescape](https://www.bluescape.com/)**, Remote, Canada – (Jan 2022 - Dec 2023)*
+<span class="tc-blue">***[Bluescape](https://www.bluescape.com/)***</span><span class="tc-gray">*, Remote, Canada – (Jan 2022 - Dec 2023)*</span>
 
 - Managed an enterprise BoB focusing on our studio animation customers: Disney, Marvel, Pixar, Warner Bros, Netflix, DNEG, and our major apparel clients such as Levi’s, Steve Madden, and Dockers, with ARR totalling over $1.5 million
 - Acted as Voice of Customer (VoC) through product discovery sessions and created a 50+ page research document for the executive team outlining our Ideal Customer Profile (ICP) and how we can continue building for them
@@ -51,7 +57,7 @@ Currently focused on RevOps for our CX & sales teams
 
 ### Senior Client Success Associate
 
-***[Phreesia](https://www.phreesia.com/)**, Remote, Canada – (Oct 2020 - Oct 2021)*
+<span class="tc-blue">***[Phreesia](https://www.phreesia.com/)***</span><span class="tc-gray">*, Remote, Canada – (Oct 2020 - Oct 2021)*</span>
 
 - Concurrently managed partnership with up to 25 clients totalling over $2MM+ in ACV
 - Conducted regular end-user trainings of all functionalities across Phreesia product suite
@@ -63,15 +69,15 @@ Currently focused on RevOps for our CX & sales teams
 
 ### Product Specialist
 
-***[Apple Store](https://www.apple.com/ca/retail/conestoga/)** (Conestoga Mall), Waterloo, ON – (Sept 2019 - Nov 2020)*
+<span class="tc-blue">***[Apple Store](https://www.apple.com/ca/retail/conestoga/)***</span> <span class="tc-gray">*(Conestoga Mall), Waterloo, ON  – (Sept 2019 - Nov 2020)*</span>
 
 ### Sales Associate
 
-***[American Eagle](https://storelocations.ae.com/ca/on/waterloo/00903-550-king-street-north.html)** (Conestoga Mall), Waterloo, ON – (Sept 2018 - Sept 2019)*
+<span class="tc-blue">**[American Eagle](https://storelocations.ae.com/ca/on/waterloo/00903-550-king-street-north.html)**</span> <span class="tc-gray">*(Conestoga Mall), Waterloo, ON  – (Sept 2018 - Sept 2019)*</span>
 
 ### QA Analyst
 
-***[Kik Interactive](https://www.kik.com/)**, Kitchener, ON – (May 2019 - Aug 2019)*
+<span class="tc-blue">***[Kik Interactive](https://www.kik.com/)***</span><span class="tc-gray">*, Kitchener, ON – (May 2019 - Aug 2019)*</span>
 
 - Identified defects as lead QA on product squad, and worked with devs to solve issues according to spec
 - Supported the development and implementations of feature-specific A/B tests
@@ -81,7 +87,7 @@ Currently focused on RevOps for our CX & sales teams
 
 ### Business Systems Project Manager
 
-***[PWO Canada](https://www.progress-werk.de/en/)**, Kitchener, ON – (Jan 2019 - Apr 2019)*
+<span class="tc-blue">***[PWO Canada](https://www.progress-werk.de/en/)***</span><span class="tc-gray">*, Kitchener, ON – (Jan 2019 - Apr 2019)*</span>
 
 - Lead the Tableau integration project, involving several presentations for plant executives to emphasize the importance of product floor data visualization for decision making
 - Lead the planned vs. actual time discrepancy project, and through iterative learning, leading to production floor behavioural and process changes
@@ -91,20 +97,20 @@ Currently focused on RevOps for our CX & sales teams
 
 ### Team Coordinator
 
-***[Care Partners](https://www.carepartners.ca/)**, Waterloo, ON – (May 2018 - Sept 2018)*
+<span class="tc-blue">***[Care Partners](https://www.carepartners.ca/)***</span><span class="tc-gray">,</span> <span class="tc-gray">*Waterloo, ON*</span> <span class="tc-gray">*– (May 2018 - Sept 2018)*</span>
 
 - Produced schedules and comprehensive reports for entire region of care
 - Regularly communicated with patients, PSW's, funders, and various CHS departments to ensure patient health & wellbeing standards
 
 ### Cook / Front of House
 
-***Thrive Kitchen, Kitchener**, ON – (March 2018 - April 2018)*
+<span class="tc-gray">***Thrive Kitchen, Kitchener***</span><span class="tc-gray">*, ON*</span> <span class="tc-gray">*– (March 2018 - April 2018)*</span>
 
 Small stint in a vegan restaurant until they shutdown
 
 ### Business Analyst
 
-***[Scotiabank](https://www.scotiabank.com/ca/en/personal.html)**, Toronto, ON – (Sept 2017 - Dec 2017)*
+<span class="tc-blue">***[Scotiabank](https://www.scotiabank.com/ca/en/personal.html)***</span><span class="tc-gray">*, Toronto, ON – (Sept 2017 - Dec 2017)*</span>
 
 - Ensured trade repository product followed all required functionalities, leading to several escalation and development initiatives
 - Created several functional and non-functional requirement documents for new development initiatives
@@ -112,7 +118,7 @@ Small stint in a vegan restaurant until they shutdown
 
 ### QA Technician
 
-***[Farm Business Consultants](https://fbc.ca/)** (FBC), London, ON – (Jan 2017 - May 2017)*
+<span class="tc-blue">***[Farm Business Consultants](https://fbc.ca/)***</span> <span class="tc-gray">***(FBC)***</span><span class="tc-gray">*, London, ON – (Jan 2017 - May 2017)*</span>
 
 - Reviewed accuracy and finalized 100+ tax returns per week for submission to CRA during peak of tax season
 - Ranked 3rd out of 12 students for cumulative efficiency and number of tax returns filed
@@ -137,7 +143,7 @@ Sales, Customer Service, Consulting, Training & Coaching, Communications, Leader
 
 #### Certifications
 
-Certified Associate Project Manager (**[CAPM](https://www.pmi.org/certifications/certified-associate-capm)**), **[Brainstation](https://brainstation.io/)** Product Management Certification, **[Designlab](https://designlab.com/)** UX Academy Foundations, **[Notion Essentials](/3dc79ca1aae24f9a81e7a1e2ab74f5de)** Certification, **[Pre-Script L1](https://www.pre-script.com/)** (Personal Training), Functional Patterns
+Certified Associate Project Manager (<span class="tc-blue">**[CAPM](https://www.pmi.org/certifications/certified-associate-capm)**</span>), <span class="tc-blue">**[Brainstation](https://brainstation.io/)**</span> Product Management Certification, <span class="tc-blue">**[Designlab](https://designlab.com/)**</span> UX Academy Foundations, <span class="tc-blue">**[Notion Essentials](/3dc79ca1aae24f9a81e7a1e2ab74f5de)**</span> Certification, <span class="tc-blue">**[Pre-Script L1](https://www.pre-script.com/)**</span> (Personal Training), Functional Patterns
 
 ---
 
@@ -159,6 +165,8 @@ Basic/conversational speaker
 
 Basic/conversational speaker
 
+<div class="nb"></div>
+
 ---
 
 ## 📅 What do I do in a day?
@@ -176,9 +184,11 @@ Basic/conversational speaker
 
 ### Bachelors of Honours Economics & Business
 
-*University of Waterloo, 2015 - 2020*
+<span class="tc-gray">*University of Waterloo, 2015 - 2020*</span>
 
 - Played 5 years on the Men's Varsity Soccer Team
 - Was an upper year mentor for the Economics Society
+
+<div class="nb"></div>
 
 ---

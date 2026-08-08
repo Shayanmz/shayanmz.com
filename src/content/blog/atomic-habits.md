@@ -9,9 +9,11 @@ cover: /images/blog/cover-atomic-habits-0.webp
 
 ## The Book in 3 Sentences
 
-1. By understanding the **[habit loop ](https://jamesclear.com/habit-triggers)** (Cue ➡️ Craving ➡️ Response ➡️ Reward) and the 4 laws outlined in this book (make it obvious, make it attractive, make it easy, make it satisfying) you can create, remove, or shape any just about any habit.
+1. By understanding the <span class="tc-blue">**[habit loop](https://jamesclear.com/habit-triggers)**</span> (Cue ➡️ Craving ➡️ Response ➡️ Reward) and the 4 laws outlined in this book (make it obvious, make it attractive, make it easy, make it satisfying) you can create, remove, or shape any just about any habit.
 2. Humans are naturally time-inconsistent when it comes to what we value (i.e. we value the present more than the future, we value money now more than money later), which competes against the reality that habits rely on time to compound into greater future outcomes; your outcomes are a lagging measure of your habits.
-3. There are a ton of tools & tactics one can use to change their habits (some mentioned in the **[‘how it changed me’](/blog/atomic-habits#block-140ebf98e4d14e8482ed6cbe9f8f49b9)** section below), however the two most important ways to make them stick are:
+3. There are a ton of tools & tactics one can use to change their habits (some mentioned in the <span class="tc-blue">**[‘how it changed me’](/blog/atomic-habits#block-140ebf98e4d14e8482ed6cbe9f8f49b9)**</span> section below), however the two most important ways to make them stick are:
+
+<div class="nb"></div>
 
 ## Impressions 🤔
 
@@ -19,9 +21,13 @@ I find that self-help books tend to get pretty repetitive at times in the messag
 
 Just like every good self-help book, there were dozens of quotable lines, so I found myself going “Woah, so true” many times.
 
+<div class="nb"></div>
+
 ## Who Should Read It❓
 
 After having read a few different habit-focused self-help books, I would recommend Atomic Habits as a more practical tool for anyone who only wants to read one book on how habits work and how to get the best out of them. I’m not a big fan of being told what habits I should have in my life, as I believe that it's more of a self-discovery process that comes with time and experimentation, but this book gives very practical tools & tactics that anyone could immediately implement into your daily life to help make habits stick!
+
+<div class="nb"></div>
 
 ## How the Book Changed Me 💯
 
@@ -34,7 +40,7 @@ After having read a few different habit-focused self-help books, I would recomme
 
 ## My Top 5 Quotes 🗣
 
-I’m a sucker for good quotes, so I’ve changed this to a ‘Top 5’ 🙂
+<span class="tc-gray">I’m a sucker for good quotes, so I’ve changed this to a ‘Top 5’</span> 🙂
 
 - “Habits are the compound interest of self-improvement”
 - “Every action you take is a vote for the type of person you wish to become”

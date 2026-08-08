@@ -7,7 +7,11 @@ cover: /images/blog/cover-i-prioritized-working-out-for-the-past-10-years-0.webp
 
 Picture this: you’re walking out of a midterm that just gave you a nice slap across the face, leaving you with anxiety so overwhelming that you can't decide whether to burst into tears or laugh it off.
 
+<div class="nb"></div>
+
 ![image](/images/blog/i-prioritized-working-out-for-the-past-10-years-7.gif)
+
+<div class="nb"></div>
 
 That was me. After every midterm during my first year in university.
 
@@ -19,11 +23,19 @@ To top it off, before every single one of these midterms, I always made sure to 
 
 I did end up graduating (with honours), but boy oh boy did I learn a little thing or two about **prioritization**.
 
+<div class="nb"></div>
+
 Now, many years have passed since those dark days and I’d like to believe that I have a much more mature perspective on the priority that I place on the gym. It was around halfway through my undergrad that I started taking weightlifting a little more seriously and started educating myself. Through trial & error, injuries, youtube videos, certification courses, and hundreds of $$ on different programs, I realized that the way I was structuring my time and workouts was totally wrong.
+
+<div class="nb"></div>
 
 Below, I’ll be sharing the main things I’ve learned over the past ~10 years of working out, basically so you **don’t** do what I did. Don’t be 1st year Shy.
 
+<div class="nb"></div>
+
 Some lessons are focused on my story above, but most are specific to my weightlifting journey.
+
+<div class="nb"></div>
 
 ---
 
@@ -37,6 +49,8 @@ Nowadays, if it’s 10pm and I still haven’t gotten my workout in for the day,
 
 It’s amazing to see sleep being highly emphasized on social media nowadays - if you’re interested in learning more about this, just watch any podcast episode with Matthew Walker on it.
 
+<div class="nb"></div>
+
 ### “Don’t miss twice”
 
 I don’t even remember where I heard this anymore, but I’ve been using this for years.
@@ -45,6 +59,8 @@ It’s pretty straight forward. Unless there are some circumstances that prevent
 
 This ties into 👇🏽
 
+<div class="nb"></div>
+
 ### Missing 1 workout isn’t the end of the world
 
 Believe it or not, I needed to hear this earlier on in my lifting journey.
@@ -52,6 +68,8 @@ Believe it or not, I needed to hear this earlier on in my lifting journey.
 A lot of the time, when I miss a workout, my session the next day is always 100x better anyway.
 
 Your strength and/or physique will be fine too, btw.
+
+<div class="nb"></div>
 
 ### Prioritize what matters most
 
@@ -62,6 +80,8 @@ For me, exercise and movement is a non-negotiable. I feel horrible when I don’
 That all being said, when you have moments of competing priorities across your life, make sure you critically think about which one is more important.
 
 The repercussions I had to face by chosing to go to the gym over things like: studying, seeing my girlfriend, and sleeping, were often far worse than if I chose to miss a workout here and there.
+
+<div class="nb"></div>
 
 ### Some types of training drains you more than others
 
@@ -75,15 +95,23 @@ Powerlifting → Hypertrophy → Strength/Power → Extra-Long Endurance → HII
 
 This obviously depends on what your modifiable variables look like, but keep this in mind if you notice yourself getting more tired than usual after working out.
 
+<div class="nb"></div>
+
 ---
 
 ### Consistency is only one part of the puzzle
 
+<div class="nb"></div>
+
 > “The literature will show very clearly that **adherence** is the number one predictor of physical fitness outcomes”
 
-Heard the above from **[Andy Galpin](https://www.andygalpin.com/)** on a podcast and although it’s obvious, depending on what you want your “outcome” to be, some other extremely important factors are: smart programming, nutrition, and generally just pushing yourself.
+<div class="nb"></div>
+
+Heard the above from <span class="tc-blue">**[Andy Galpin](https://www.andygalpin.com/)**</span> on a podcast and although it’s obvious, depending on what you want your “outcome” to be, some other extremely important factors are: smart programming, nutrition, and generally just pushing yourself.
 
 You could be working out for 10 years but still look and feel like a blob - this just means you didn’t do the additional things properly.
+
+<div class="nb"></div>
 
 ### Weightlifting is a skill
 
@@ -97,11 +125,15 @@ Get a coach or study the movement patterns that you want to get good at.
 
 If you want to get better at a specific movement, just do more of it.
 
+<div class="nb"></div>
+
 ### Record yourself lift
 
 In similar vain as 👆🏽, recording yourself is a great way to catch movement inefficiencies and fix your technique.
 
 Plus, you’ll have a bunch of cool lifting videos over the years.
+
+<div class="nb"></div>
 
 ### Lift heavy things
 
@@ -111,6 +143,8 @@ Don’t sacrifice technique breakdown for bigger numbers, but also don’t be af
 
 This is where you grow.
 
+<div class="nb"></div>
+
 ### Eat more protein
 
 I used to think that I ate more than enough protein, but for many goals in the gym and as an athlete, your protein intake needs to be high.
@@ -119,11 +153,15 @@ I used to think that I ate more than enough protein, but for many goals in the g
 
 I noticed immediate differences once I bumped up my protein intake.
 
+<div class="nb"></div>
+
 ### Eat healthy
 
 Nutrition is a whole can of worms, but to keep this one simple, just eat your veggies & fruits, get your protein, and don’t eat too much processed junk.
 
 If someone tries to tell you kale is bad for you, turn around and walk away.
+
+<div class="nb"></div>
 
 ### Listen to your body & trust your instincts
 
@@ -134,6 +172,8 @@ Figure out what it is early and address it.
 Don’t let other people tell you how you feel.
 
 You know what feels normal and what doesn’t.
+
+<div class="nb"></div>
 
 ### Injuries are a part of the journey
 
@@ -147,9 +187,11 @@ If you’re doing exercises that involve a lot more variability, then the injury
 
 But if you practice, make sure you move well, and progress gradually, you should have a long and healthy career.
 
+<div class="nb"></div>
+
 ### Injury-prone ≠ Injury-predisposed
 
-Heard this from **[Eric Cressey](https://ericcressey.com/)** on a podcast recently.
+Heard this from <span class="tc-blue">**[Eric Cressey](https://ericcressey.com/)**</span> on a podcast recently.
 
 Injury-prone is a joke used for people who always get injured or whatever.
 
@@ -159,11 +201,15 @@ For example, if you are a 50-year-old trying to get into olympic lifting, you’
 
 You can still do it, but you’ll need a much more thoughtful process to get there.
 
+<div class="nb"></div>
+
 ### You don’t have to destroy yourself every workout
 
 If you’re having an off day, it’s ok to scale your workout back a little.
 
 In the long run, it will save you from stupid injuries.
+
+<div class="nb"></div>
 
 ### Educate yourself
 
@@ -179,11 +225,15 @@ Some recommendations:
 
 Or you could just hire a good trainer that would help with all this.
 
+<div class="nb"></div>
+
 ### Don’t workout without a plan
 
 Whether you buy an app, a digital workout program, or an actual coach that helps you with your goals and programming, just make sure you have **something**.
 
 You’ll waste a lot of time and effort with minimal results without a good plan.
+
+<div class="nb"></div>
 
 ### When you first get started, anything works
 
@@ -195,6 +245,8 @@ So, when you’re starting out, don’t worry as much about what the “perfect 
 
 Just eat good, rest well, and push yourself with good form.
 
+<div class="nb"></div>
+
 ### There are 7 modifiable variables you can tweak in your programs
 
 1. Exercise choice
@@ -204,6 +256,8 @@ Just eat good, rest well, and push yourself with good form.
 5. Volume (reps x sets)
 6. Intensity (% of 1RM or % of Max Heart Rate/VO2 Max)
 7. Rest (how long you rest between sets & exercises)
+
+<div class="nb"></div>
 
 ### There are 9 adaptations you can work on
 
@@ -229,6 +283,8 @@ I’ve injured myself so many times trying to do too many things at once. It’s
 
 Use Mesocycle & Macrocycle training blocks if you’re training for something specific, like an Iron Man.
 
+<div class="nb"></div>
+
 ### Over the long-term, add exercise variation
 
 Unless you’re regularly specializing in something like powerlifting, over the long-term make sure to add exercise variation.
@@ -239,6 +295,8 @@ Squat, hinge, push, pull, carry, rotate, move fast, move slow, isometrics, etc.
 
 Over-specifying for long periods of time is generally not ideal for moving well.
 
+<div class="nb"></div>
+
 ### Don’t follow too many fitness social media accounts at once
 
 It depends what you’re interested in learning about, but don’t get caught up following so many different styles of fitness that you get confused as to what you should be doing.
@@ -246,6 +304,8 @@ It depends what you’re interested in learning about, but don’t get caught up
 If you want to get into powerlifting, find a few good powerlifting accounts.
 
 If you want to get into gymnastics, find a few good gymnastic accounts.
+
+<div class="nb"></div>
 
 ### Most people are roided up
 
@@ -260,6 +320,8 @@ Don’t compare yourself or your results to any of these people.
 
 Compare yourself to your past self.
 
+<div class="nb"></div>
+
 ### Don’t ever base your schedule around someone else’s plans
 
 If you really want it, they are never as serious as you.
@@ -270,17 +332,29 @@ The amount of times I’ve moved my schedule around to accommodate for someone e
 
 Having the right workout partner can be amazing, but focus on yourself and your own schedule first.
 
+<div class="nb"></div>
+
 I’ll stop there for now…
+
+<div class="nb"></div>
 
 These are my learnings 10 years in, we’ll see what changes in the next 10.
 
+<div class="nb"></div>
+
 The beauty of exercise & physical fitness in general, is that everything **ALWAYS depends on context.**
+
+<div class="nb"></div>
 
 If you want to ask me any questions or tell me why I’m wrong, feel free to reach out 👇🏽
 
+<div class="nb"></div>
+
 ---
 
-Thank you for making it this far! Please give me feedback. Writing is hard.
+<div class="nb"></div>
+
+<span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
 
 ### Contact Me
 

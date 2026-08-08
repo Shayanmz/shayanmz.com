@@ -19,13 +19,17 @@ Well, there are a lot of things that product teams do that naturally encourage i
 
 ### Product teams rely on continuous Feedback Loops
 
-Ah yes, the trendy term you might have heard many times by now.. Just in case though you might not have come across it, the term 'feedback loop' is just a way to define the cyclical nature of things. They exist everywhere, in nature, in business, in human biology, in investing, etc. If you want to learn more on how to structure feedback loops, here are a few books I enjoyed reading: **[The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)**, **[Atomic Habits](https://www.amazon.ca/dp/B07D23CFGR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**, and **[The Lean Startup](https://www.amazon.ca/dp/B004J4XGN6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**.
+Ah yes, the trendy term you might have heard many times by now.. Just in case though you might not have come across it, the term 'feedback loop' is just a way to define the cyclical nature of things. They exist everywhere, in nature, in business, in human biology, in investing, etc. If you want to learn more on how to structure feedback loops, here are a few books I enjoyed reading: <span class="tc-blue">**[The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)**</span>, <span class="tc-blue">**[Atomic Habits](https://www.amazon.ca/dp/B07D23CFGR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**</span>, and <span class="tc-blue">**[The Lean Startup](https://www.amazon.ca/dp/B004J4XGN6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**</span>.
 
-In James Clear's **[short article](https://jamesclear.com/feedback-loops)**, he states that "feedback loops are the invisible forces that shape human behavior". By extending this, I am saying that feedback loops are the invisible forces that shape all business behavior. As you will see in all the resources I have linked above, feedback loops are everywhere, but it is how you use them that will determine your success, which is what the best product teams out there have mastered.
+In James Clear's <span class="tc-blue">**[short article](https://jamesclear.com/feedback-loops)**</span>, he states that "feedback loops are the invisible forces that shape human behavior". By extending this, I am saying that feedback loops are the invisible forces that shape all business behavior. As you will see in all the resources I have linked above, feedback loops are everywhere, but it is how you use them that will determine your success, which is what the best product teams out there have mastered.
 
 There is a natural iterability deeply ingrained into all successful businesses, however, it is important to emphasize that iterating and creating feedback loops should not JUST be for product development teams or strategy decision makers. There is great value in creating a culture of dedicating time to 'retrospectives', which can be weekly, bi-weekly, or even monthly (I tend to like more regular meetings than monthly because new ideas and learnings are susceptible to recency bias) problem-solving sessions where groups of employees work together to come up with creative solutions to problems that they themselves, or their customers/users have faced or continue to face. These meetings aren't meant to give vague suggestions either - they are meant to be specific and actionable. The best feedback loops are ones that can give measurable and comparable results. In product sprint retrospectives, teams go into detail about what went well, what didn't go well, and how they can change moving forward. My tip would be to have a mix of 'senior' and 'junior' people so that there is a balanced dialogue and someone will be able to answer questions like "Why do we do ___ that way?" or "What is the value of this?". It is also worth emphasizing that these suggestions can be for both internal and external facing feedback loops, meaning that product team retros might be more easily quantifiable and user data focused than other teams, but that's ok, the key is to give time to work as a team to 'tweak' your systems.
 
+<div class="nb"></div>
+
 > ❗ Processes won't change as quickly as they should unless you give dedicated time for team "retros" or ideation
+
+<div class="nb"></div>
 
 That being said, this is easier said than done for non-technical teams, as they usually do not participate in structured, reflective brainstorming sessions the same way technical teams do. Technical teams have work that is generally more dependent or closely tied to each other's outputs, whereas non-technical teams have outputs that are generally independent of what their colleagues are doing, leading to individual results and learnings. This means that less collaborative teams will have to get more comfortable speaking up during their time together, which brings me to my next point.
 
@@ -33,7 +37,7 @@ That being said, this is easier said than done for non-technical teams, as they 
 
 One thing that the best product managers do well, is understand that every individual on their team has so much value and knowledge to bring to the table, so by creating an environment that encourage dialogue, the probably for success is much greater. One of the most overlooked aspects of any successful culture is communication. Without appropriate communication, the so called 'feedback' needed to change will either be wrong or simply nonexistent.
 
-In the book **[Inspired](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** by Marty Cagan, he consistently emphasizes that team collaboration is key and that the best product ideas usually come from your engineering team. So, by making your engineering team comfortable giving feedback and participating, you are tapping into possibly some of the most valuable pieces of insight about your product/business. The only way to do this is by giving them a platform and creating feedback loops!
+In the book <span class="tc-blue">**[Inspired](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)**</span> by Marty Cagan, he consistently emphasizes that team collaboration is key and that the best product ideas usually come from your engineering team. So, by making your engineering team comfortable giving feedback and participating, you are tapping into possibly some of the most valuable pieces of insight about your product/business. The only way to do this is by giving them a platform and creating feedback loops!
 
 This idea does not change for other teams. With the pre-requirement that an organization has done a good job in hiring motivated and willing individuals, I can guarantee that no matter what department you try this in, if you create an environment where the ones who are building your product and interacting with customers are comfortable sharing their insights on a regular basis, you will get the following results:
 
@@ -42,11 +46,15 @@ This idea does not change for other teams. With the pre-requirement that an orga
 
 ### Product teams are transparent
 
-I contemplated putting this section first, because I believe that transparency is the glue that holds every single idea mentioned in this blog post together. In this **[Glassdoor article](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)**, the team there argues that transparency can benefit your workplace by encouraging communication and sharing, increasing employee engagement and happiness, creating a stronger workplace culture and alignment of values, and as a result, better customer relations. From my personal experience, I feel that transparency is one of, if not the most important factor that leads to loyal teams and a well-functioning business.
+I contemplated putting this section first, because I believe that transparency is the glue that holds every single idea mentioned in this blog post together. In this <span class="tc-blue">**[Glassdoor article](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)**</span>, the team there argues that transparency can benefit your workplace by encouraging communication and sharing, increasing employee engagement and happiness, creating a stronger workplace culture and alignment of values, and as a result, better customer relations. From my personal experience, I feel that transparency is one of, if not the most important factor that leads to loyal teams and a well-functioning business.
 
 I have recently found that a lot of employees leaving negative reviews very commonly complain about the organizations' overall lack of transparency behind their decision making. Whether the feedback directly or indirectly used the word transparency, they all seem to be emphasizing that there are too many barriers between leadership and the ones at the ground level doing the work.
 
+<div class="nb"></div>
+
 > ❗ The lack of transparency and bottom-up communication in organizations are killing productivity and future business success!
+
+<div class="nb"></div>
 
 Transparency is a very specific thing that seems to be is deeply rooted in product development teams. If a product manager does not explain to the rest of the development team why they are building something, you could expect to miss out on a lot of opportunities and you will probably have a team that is generally less engaged and excited. Product teams understand that knowledge is power, and the only way to achieve a shared vision is by being transparent, truthful, and open about what the priorities are and how they can work together to achieve desired business outcomes.
 
@@ -82,6 +90,10 @@ I could go on for hours about how this would create a more knowledgeable, confid
 
 Unfortunately, this tactic won't create the direct transparency and camaraderie that I mentioned earlier due to it's non-interactive, impersonal nature, however anonymous surveys still work by giving a lot of insight as to what the different members of organizations have to say about their experience. This could be more general questions like "How has your experience been at ___ over the past year?", or it could be as specific as "What are your thoughts on the new sales structure?". There are so many cheap tools out there that could do this for you, like Google Forms, Survey Monkey, Typeform, and Lattice, just to name a few.
 
+<div class="nb"></div>
+
+<div class="nb"></div>
+
 #### Reoccurring reflective meetings
 
 This is the most obvious one, but it would probably be surprising to see how many teams don't use these meetings effectively. The key word here is *reflective*, meaning that teams take time to think deeply or carefully about their work and the business. I already mentioned some of these above, but here are some structures this could follow:
@@ -92,14 +104,14 @@ This is the most obvious one, but it would probably be surprising to see how man
 
 One of the keys for success for reflective learning sessions is to document and summarize the most important/key learnings. From here, you could then tie it back into my conversational outlets suggestion by sharing these learnings with an entire department or across the whole organization
 
-(Also worth mentioning that all 3 of the above mentioned structures are usually implemented by the best product teams)
+<span class="tc-gray">(Also worth mentioning that all 3 of the above mentioned structures are usually implemented by the best product teams)</span>
 
 #### Internal knowledge base solutions
 
 This is my most non-trivial suggestion because most companies already do this, but it is more about *how* they are doing it. Building knowledge bases that are organized and very easily searchable is the key to creating extremely efficient teams. Now, I'm not going to go into detail about HOW you should structure your knowledge bases, because that could have its own entire blog post, but what I will mention some of the ideas that have crossed my mind in this regard:
 
-- I have come across some really interesting intelligent AI powered searching softwares that use integrations to search across all your various platforms that keep your company's information. I think that over the next several years, as APIs continue to grow, and internal platform-based integrations extend, AI powered search tools will be commonplace in the workplace. A couple companies I have come across: **[Elastic Search](https://www.elastic.co/enterprise-search)** and **[Coveo Intelligent Search](https://www.coveo.com/en/platform/intelligent-search)**.
-- Another idea that I feel has been attempted by some organizations before is a company's own 'Intranet', where employees basically live out of and put all their notes and work through integrations to other tools. There are many companies doing this, so if you're interested in seeing some of them, here's a link to **[G2's review](https://www.g2.com/categories/employee-intranet)** of the best softwares out there. I'm personally not the biggest fan of this idea, but I feel like it is inevitable that there will be some similar structure with my next point.
+- I have come across some really interesting intelligent AI powered searching softwares that use integrations to search across all your various platforms that keep your company's information. I think that over the next several years, as APIs continue to grow, and internal platform-based integrations extend, AI powered search tools will be commonplace in the workplace. A couple companies I have come across: <span class="tc-blue">**[Elastic Search](https://www.elastic.co/enterprise-search)**</span> and <span class="tc-blue">**[Coveo Intelligent Search](https://www.coveo.com/en/platform/intelligent-search)**</span>.
+- Another idea that I feel has been attempted by some organizations before is a company's own 'Intranet', where employees basically live out of and put all their notes and work through integrations to other tools. There are many companies doing this, so if you're interested in seeing some of them, here's a link to <span class="tc-blue">**[G2's review](https://www.g2.com/categories/employee-intranet)**</span> of the best softwares out there. I'm personally not the biggest fan of this idea, but I feel like it is inevitable that there will be some similar structure with my next point.
 - All the largest communication/collaboration tools that companies are now using will end up converging into being the 'single platform' that employees live out of, only accessing other tools through on-platform integrations. For example, as Slack continues to build out integrations with other 3rd party tools (this has already been accelerated with them being acquired by Salesforce in July 2021), they are trying to keep you working out of their platform for as much of the day as possible.
 
 #### Create the culture first
@@ -108,7 +120,9 @@ The problem when it comes to implementing all my suggestions above, is that it's
 
 ---
 
-Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.
+<div class="nb"></div>
+
+<span class="tc-gray">Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.</span>
 
 ### Contact Me
 

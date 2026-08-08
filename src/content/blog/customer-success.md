@@ -51,7 +51,7 @@ It’s a must read for every & all CSMs and their managers. I’ve noticed throu
 
 I would also highly encourage any founder/C-suite at scaling companies (not just technology companies) to read this as well. Even if you don’t decide to build a Customer Success department, you will at the very least learn the importance of retention and the chain-reaction of value that it can provide your organization.
 
-Product managers should also read this book. I’m a big believer that product managers and CSMs should understand each other’s workflows in great depth. In my opinion, CSMs are **[customer facing product managers](/blog/what-you-should-consider-when-selling-to-established-customers#e700037580b4481b9d48ee9773231aee:~:text=be%20that%20person.-,Customer%20facing%20product%20managers,-You%20must%20understand)** and the more of a feedback loop that exists between CSMs and PM’s, the more successful the organization will be.
+Product managers should also read this book. I’m a big believer that product managers and CSMs should understand each other’s workflows in great depth. In my opinion, CSMs are <span class="tc-blue">**[customer facing product managers](/blog/what-you-should-consider-when-selling-to-established-customers#e700037580b4481b9d48ee9773231aee:~:text=be%20that%20person.-,Customer%20facing%20product%20managers,-You%20must%20understand)**</span> and the more of a feedback loop that exists between CSMs and PM’s, the more successful the organization will be.
 
 ## How the Book Changed Me 💯
 
@@ -61,7 +61,7 @@ Because I’ve been in a CSM role for the past 2+ years, the way I think about C
 
 - CS, marketing, sales, and community should also be working together REGULARLY to create a consistent experience. Personalized KPI/milestone triggers and feedback loop expansion is what I’m focused on.
 - Answering the question of “who is our ‘right’ customer”? We currently have customers in very different industries asking for very different things, so this has led me to be more aggressive in probing my executive stakeholders for deep clarification of our product & organizational visions.
-- I’ve been doing a lot of personalized outbound work to end users to schedule 1:1 user discovery interviews. Although I have my template questions below, I allow the conversation to be free flowing. If you want to learn more about user discovery sessions, I recommend taking a look at **[Marty Cagan's *Inspired*](/blog/inspired-how-to-create-tech-products-customers-love)**.
+- I’ve been doing a lot of personalized outbound work to end users to schedule 1:1 user discovery interviews. Although I have my template questions below, I allow the conversation to be free flowing. If you want to learn more about user discovery sessions, I recommend taking a look at <span class="tc-blue">**[Marty Cagan’s,](/blog/inspired-how-to-create-tech-products-customers-love)**</span><span class="tc-blue">***[Inspired](/blog/inspired-how-to-create-tech-products-customers-love)***</span>.
 - Currently working on building other processes across the revenue organization: creating and maintaining referenceable contacts (through Salesforce), creating a more useful analytics dashboard with relevant KPIs, creating ROI estimates based on in-product activities, and establishing customer health metrics that we can consistently report on.
 - Lastly and probably most importantly:
 
@@ -76,3 +76,5 @@ Because I’ve been in a CSM role for the past 2+ years, the way I think about C
 > “Ninety percent of all churn happens at the time of sale.”
 
 > “In a recurring revenue business, there's no such thing as post-sales. Every single activity is a pre-sales activity.”
+
+<div class="nb"></div>

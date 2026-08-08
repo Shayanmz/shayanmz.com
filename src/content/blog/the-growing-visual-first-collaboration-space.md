@@ -7,7 +7,7 @@ cover: /images/blog/cover-the-growing-visual-first-collaboration-space-0.webp
 
 ---
 
-> 🥱 **TL;DR** I accepted an offer from [Bluescape](https://www.bluescape.com/) as a CSMI believe that collaboration tools will eventually all converge into one global platform, where all cross-functional teams will work out ofAll software apps that we use are just glorified filing cabinets, and our brains love itDeeply integrated infinite canvas apps are disruptive to the collaboration space - they will become much more popular over the coming yearsCommunicating the value of collaboration tools is easy, quantifying it is hardAlthough quantifying value can really help, it’s not requiredThis **[Notion case study ](https://foundationinc.co/lab/notion-strategy)** demonstrates why it’s not
+> 🥱 **TL;DR**I accepted an offer from <span class="tc-blue">[Bluescape](https://www.bluescape.com/)</span> as a CSMI believe that collaboration tools will eventually all converge into one global platform, where all cross-functional teams will work out ofAll software apps that we use are just glorified filing cabinets, and our brains love itDeeply integrated infinite canvas apps are disruptive to the collaboration space - they will become much more popular over the coming yearsCommunicating the value of collaboration tools is easy, quantifying it is hardAlthough quantifying value can really help, it’s not requiredThis <span class="tc-blue">**[Notion case study](https://foundationinc.co/lab/notion-strategy)**</span> demonstrates why it’s not
 
 ---
 
@@ -17,19 +17,25 @@ It’s official! I am extremely excited to share that I have accepted an offer t
 
 For several years, I have been extremely interested in how collaboration platforms can create more efficient and productive teams. Even in my personal life; I have tested and played around with many different tools to get a better understanding of how they could help me personally, and how they can extend into larger teams and business outcomes. With that, I couldn’t be more excited to join the Bluescape team in a growing space to help build the worlds best visual collaboration product🎉
 
+<div class="nb"></div>
+
+<div class="nb"></div>
+
 In spirit of starting my journey at Bluescape, I’m writing this quick post on why I believe visual tools are the future of the collaboration space by explaining what industry barriers ‘whiteboard’ or ‘canvas’ style products are breaking, and why ‘quantifying’ business outcomes for SaaS products is becoming less important (at least for collaboration tools).
 
 And listen, I’m no fool - I definitely have a lot of gaps in my current knowledge when it comes to properly scaling new ideas or disruptive technologies into the world, so please do share your thoughts and let me know if you agree or disagree.
 
 With that in mind, here are a few resources that are on my roadmap of learning that will definitely bring new perspectives to my ideas laid out in this blog post:
 
-1. **[The Cold Start Problem](https://www.amazon.ca/dp/B08HZ5XY7X/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** - Andrew Chen
-2. **[Customer Success](https://www.amazon.ca/dp/B01BWM41GS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** - Nick Mehta
+1. <span class="tc-blue">**[The Cold Start Problem](https://www.amazon.ca/dp/B08HZ5XY7X/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**</span> - Andrew Chen
+2. <span class="tc-blue">**[Customer Success](https://www.amazon.ca/dp/B01BWM41GS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**</span> - Nick Mehta
 3. My experience at Bluescape (well, duh)
+
+<div class="nb"></div>
 
 ### Defining ‘Collaboration Tools’
 
-In a recent [blog post](/blog/what-we-can-learn-from-product-teams#block-bf4584ea8e434e0299a143c94941c494) of mine, I explained that as companies continue to grow and expand their suite of tools, you tend to see them trying to become the one stop shop for most of a teams work. Because of this, it’s becoming increasingly difficult to ‘classify’ collaboration tools into their own little niches as the line continues to fade between their use cases.
+In a recent <span class="tc-blue">[blog post](/blog/what-we-can-learn-from-product-teams#block-bf4584ea8e434e0299a143c94941c494)</span> of mine, I explained that as companies continue to grow and expand their suite of tools, you tend to see them trying to become the one stop shop for most of a teams work. Because of this, it’s becoming increasingly difficult to ‘classify’ collaboration tools into their own little niches as the line continues to fade between their use cases.
 
 > 💡 Collaboration in the workplace has traditionally been separated by the type of work being done
 
@@ -46,13 +52,15 @@ Here are some of the various ‘buckets’ of tools that different teams need:
 
 The way I see it, the next natural iteration of collaboration growth is to bring all these cross-functional team members into one space. With the use of visual ‘canvas’ style platforms, where teams can bring all of their work together and place it strategically to inspire a larger scale collaboration process, this might become possible.
 
+<div class="nb"></div>
+
 ### How do we store our ideas, anyway?
 
 To start, I wanted to review what fundamental systems allowed for collaboration tools to take off in the first place. It just feels natural nowadays to document our work and ideas into different spaces, which we now refer to has ‘files’ or ‘folders’, but I hope that you all aren’t taking this system for granted, as this wasn’t always the case..
 
-> 💭 As with all pre-invention ways of living, I found it very entertaining to see **[how written information was stored in the good ol’ days](https://collation.folger.edu/2013/03/filing-seventeenth-century-style/#:~:text=I%E2%80%99ve%20always%20liked%20this%20print%20by%20Abraham%20Bosse%20at%20the%20Folger%20because%20it%20shows%20a%20number%20of%20filing%20systems%20at%20work.)**.
+> 💭 As with all pre-invention ways of living, I found it very entertaining to see <span class="tc-blue">**[how written information was stored in the good ol’ days](https://collation.folger.edu/2013/03/filing-seventeenth-century-style/#:~:text=I%E2%80%99ve%20always%20liked%20this%20print%20by%20Abraham%20Bosse%20at%20the%20Folger%20because%20it%20shows%20a%20number%20of%20filing%20systems%20at%20work.)**</span>.
 
-It wasn’t until the 1890’s that the filing cabinet came into existence and changed the way we orient ourselves with respect to all of our documented ‘stuff’. Craig Robertson, the author of ***[The Filing Cabinet - A Vertical History of Information](https://www.amazon.ca/dp/B092RTDCFZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)***, explains that filing cabinets encouraged “the drive to break more and more of life and its everyday routines into discrete, observable, and manageable parts.” And yes, you read that right; there is an entire 300+ page book on filing cabinets - hopefully everyone here knows what a filing cabinet is, but after reading **[this article](https://www.theverge.com/22684730/st)**, I’m not so sure I can count on that.
+It wasn’t until the 1890’s that the filing cabinet came into existence and changed the way we orient ourselves with respect to all of our documented ‘stuff’. Craig Robertson, the author of <span class="tc-blue">***[The Filing Cabinet - A Vertical History of Information](https://www.amazon.ca/dp/B092RTDCFZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)***</span>, explains that filing cabinets encouraged “the drive to break more and more of life and its everyday routines into discrete, observable, and manageable parts.” And yes, you read that right; there is an entire 300+ page book on filing cabinets - hopefully everyone here knows what a filing cabinet is, but after reading <span class="tc-blue">**[this article](https://www.theverge.com/22684730/st)**</span>, I’m not so sure I can count on that.
 
 So, you might be asking why I just wasted 30 seconds of your lives reviewing what filing cabinets are. Well, 1. I just wanted to remind you that we’ve come a long way from holding paper documents in stockings and 2. The logic behind the storage structure of folders exist in some of the most innovative technologies and tools that use today. The filing cabinet is really our first principles understanding of how the computer directory structure functions; a hierarchical system of folders that are nested within one another until you get to that final document/file you want do access.
 
@@ -78,15 +86,17 @@ Now, if I were to visualize the same thing in terms of how the underlying folder
 
 Although I wouldn’t be able to tell you how every app in the world structures their data, I could guarantee that a very high level the same ideas apply.
 
+<div class="nb"></div>
+
 ### Expanding the Scope of Collaboration with Infinite Canvases
 
 Ok great, we have these amazing tools that create an extremely user friendly interface, with cloud based technologies that allow for real-time collaboration, now what? Well, I still can’t help but ask myself “what is the next iteration of this”?
 
 As ‘pretty’ as some of these platforms are, we are still confined to the list of available actions (mainly restricted by design) in the immediate environment we are in. What if we gave free-reign to the user to do whatever they wanted instead? What if they could decide on the entire the visual structure on their own? That’s exactly what visual-first collaboration tools do.
 
-If you want a demo of what kind of platforms I am referring to, please check out **[Bluescape](https://www.bluescape.com/)**, **[Miro](https://miro.com/)**, or **[Mural](https://www.mural.co/)**, as they seem to be the top players in this space. I don’t want to beat around the bush either; after trying to explain what Bluescape does to my family & friends, I am very aware that it looks like a digitally glorified whiteboard. But that’s exactly why it’s exciting! Throughout university, I have seen many professors and students alike, making any excuse to get on a whiteboard and teach or share their ideas there. My roommates and I even went out of our way to each buy a whiteboard for our own bedrooms, convinced that it was more efficient than just writing in our notebooks or tablets (We both got **[this one](https://www.staples.ca/products/919427-en-quartet-espresso-magnetic-dry-erase-board-24-x-36)**).
+If you want a demo of what kind of platforms I am referring to, please check out <span class="tc-blue">**[Bluescape](https://www.bluescape.com/)**</span>, <span class="tc-blue">**[Miro](https://miro.com/)**</span>, or <span class="tc-blue">**[Mural](https://www.mural.co/)**</span>, as they seem to be the top players in this space. I don’t want to beat around the bush either; after trying to explain what Bluescape does to my family & friends, I am very aware that it looks like a digitally glorified whiteboard. But that’s exactly why it’s exciting! Throughout university, I have seen many professors and students alike, making any excuse to get on a whiteboard and teach or share their ideas there. My roommates and I even went out of our way to each buy a whiteboard for our own bedrooms, convinced that it was more efficient than just writing in our notebooks or tablets <span class="tc-gray">(We both got</span> <span class="tc-blue">**[this one](https://www.staples.ca/products/919427-en-quartet-espresso-magnetic-dry-erase-board-24-x-36)**</span><span class="tc-gray">)</span>.
 
-We have had digital whiteboard solutions around for many years now, but the education world seems to be resistant to give up their high inducing dry-erase markers. It’s even still surprisingly common to see business teams having physical brainstorming sessions or “**[war rooms](https://www.bluescape.com/solutions/war-room/)**” with physical whiteboards and hundreds of sticky notes.
+We have had digital whiteboard solutions around for many years now, but the education world seems to be resistant to give up their high inducing dry-erase markers. It’s even still surprisingly common to see business teams having physical brainstorming sessions or “<span class="tc-blue">**[war rooms](https://www.bluescape.com/solutions/war-room/)**</span>” with physical whiteboards and hundreds of sticky notes.
 
 Now, there are several reasons for why these technologies might not have been widely adopted yet, some of which I’ve listed below, but these reasons are the exact ones that lead me to believe that visual collaboration is a disruptive innovation in the collaboration space.
 
@@ -120,13 +130,15 @@ In comes the design world! As the competitive landscape stands right now, I have
 
 Whether or not you agree that it is disruptive, or will be added to most collaboration spaces, I’m sure you can see the possible use cases here. Which begs the question: how can the success of visual tools be measured over time? We’ll get to that.
 
+<div class="nb"></div>
+
 ### The Nature of Value
 
 Something I’ve noticed over the years of trying to encourage my friends and family to use Notion and other tools to track their life and create better systems is that: a lot of the time they already have systems, and they work!
 
 > 💡 One of the hardest things to do is take someone from what they are currently using and convince them that your way is:Better&Worth the hassle of switching (effort to implement < perceived benefit)
 
-What makes it even harder is that this perceived benefit is usually different for each individual, which depends on several things, but the main being a combination of where they lie on the **[customer adoption curve](https://www.crazyegg.com/blog/product-adoption-to-transform-marketing/#:~:text=Here%E2%80%99s%20what%20a%20product%20adoption%20curve%20looks%20like%3A)** (laggards would almost be impossible to convince over an innovator), and some of the reasons I **[mentioned above](/blog/the-growing-visual-first-collaboration-space)**.
+What makes it even harder is that this perceived benefit is usually different for each individual, which depends on several things, but the main being a combination of where they lie on the <span class="tc-blue">**[customer adoption curve](https://www.crazyegg.com/blog/product-adoption-to-transform-marketing/#:~:text=Here%E2%80%99s%20what%20a%20product%20adoption%20curve%20looks%20like%3A)**</span> (laggards would almost be impossible to convince over an innovator), and some of the reasons I <span class="tc-blue">**[mentioned above](/blog/the-growing-visual-first-collaboration-space)**</span>.
 
 One of the key benefits of using technologies to organize, collaborate, track, store, is that they are infinitely more scalable than physical or non-dynamic means. Recall what I said earlier, our brains are lazy; they don’t want to memorize a bunch of unnecessary information when it knows you can just document it all and come back to it when it’s needed. Also, depending on the technologies at hand, you might see it where one is significantly more efficient and scalable than another - consider Microsoft Word docs before their live collaboration functionality existed vs. Google Docs.
 
@@ -140,9 +152,11 @@ Unfortunately, the problem we run into with collaboration tools is that although
 
 So, how do we quantify the above problems? Well, that’s the hard (and probably expensive) part.
 
+<div class="nb"></div>
+
 ### Quantifying Subjective Experiences
 
-In preparation for my interviews with Bluescape, I came across their *Total Economic Impact Study* (you can get it **[here](https://create.bluescape.com/evaluation-bluescape-total-economic-impact-2021)**), which was done by an independent research-based consulting firm, Forrester Consulting. I’m not going to summarize it here, but this study aimed to do exactly what I was mentioning above; giving tangible ROI metrics associated with the implementation and use of Bluescape’s platform. Here is a little snippet of one customer speaking to the benefit they saw in their sales cycles (I’ve gone ahead and highlighted the pieces that emphasize my earlier points about problems that collaboration tools aim to solve):
+In preparation for my interviews with Bluescape, I came across their *Total Economic Impact Study* <span class="tc-gray">(you can get it</span> <span class="tc-blue">**[here](https://create.bluescape.com/evaluation-bluescape-total-economic-impact-2021)**</span><span class="tc-gray">)</span>, which was done by an independent research-based consulting firm, Forrester Consulting. I’m not going to summarize it here, but this study aimed to do exactly what I was mentioning above; giving tangible ROI metrics associated with the implementation and use of Bluescape’s platform. Here is a little snippet of one customer speaking to the benefit they saw in their sales cycles (I’ve gone ahead and highlighted the pieces that emphasize my earlier points about problems that collaboration tools aim to solve):
 
 > “Bluescape keeps everyone aligned so much better. If you are meeting every week in the same Bluescape session and you have to revisit something, you can go back and look at it quickly to review a full report. It just keeps everyone aligned by having all the information in one source.”
 
@@ -163,13 +177,17 @@ For many organizations, paying for a 3rd party research firm to do a study like 
 
 Honestly, I had a hard time coming up with these or any more metrics that could be tracked within the product’s utilization itself, as most of the outcome based data comes from the actual user experience, not the current scale of the products general usage. Which brings me to my final point:
 
+<div class="nb"></div>
+
 ### You don’t HAVE to quantify everything
 
 You really don’t! As I mentioned in my foreward, *The Cold Start Problem* by Andrew Chen will be a great read to learn more about how the value of a platform is directly associated with the number of users that engage with it. Meaning, if you’ve done your research and created a really good product that has seen high levels of organic adoption, you probably won’t have to spend as much time, if at all, quantifying all the outcomes that users will see with it, because they already do.
 
-As Marty Cagan put it in his book ***[INSPIRED](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/ref=sr_1_1?crid=6KIK98Y052SR&keywords=inspired&qid=1642620304&s=digital-text&sprefix=inspired%2Cdigital-text%2C96&sr=1-1)***:
+As Marty Cagan put it in his book <span class="tc-blue">***[INSPIRED](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/ref=sr_1_1?crid=6KIK98Y052SR&keywords=inspired&qid=1642620304&s=digital-text&sprefix=inspired%2Cdigital-text%2C96&sr=1-1)***</span>:
 
 > “Life is too short for bad products”
+
+<div class="nb"></div>
 
 ### Wrapping up with a Notion case study
 
@@ -177,13 +195,19 @@ As I was writing this post, I came across this amazing article that ties a lot o
 
 Although Notion is not a ‘visual’ collaboration tool in the way that I described in this post, you’ll notice that a lot of the analysis done is similar, and can be applied to the visual tools I have mentioned in this post (Bluescape, Miro, Mural).
 
-The case study: **[How Notion built a $2B SaaS Startup Through Community & Templates](https://foundationinc.co/lab/notion-strategy)**
+<div class="nb"></div>
+
+The case study: <span class="tc-blue">**[How Notion built a $2B SaaS Startup Through Community & Templates](https://foundationinc.co/lab/notion-strategy)**</span>
+
+<div class="nb"></div>
 
 That’s it from me - bye for now!
 
 ---
 
-Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.
+<div class="nb"></div>
+
+<span class="tc-gray">Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.</span>
 
 ### Contact Me
 

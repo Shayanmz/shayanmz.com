@@ -14,15 +14,17 @@ Today, if you were to google "retention vs. acquisition" you would get dozens, h
 - A customers (projected) lifetime value (CLV) should guide business decisions
 - If you do customer experience right and provide the value the customer was expecting (and more), retention can resolve itself
 
-> 💭 If you want to read more on CLV, estimating company value, and predicting customer behaviour, I have had a lot of fun endlessly scrolling through **[ThetaCLV's Twitter page](https://twitter.com/ThetaCLV)** and **[reading some of their blog posts](https://thetaclv.com/resources/?_sft_category=blog)**.
+> 💭 <span class="tc-gray">If you want to read more on CLV, estimating company value, and predicting customer behaviour, I have had a lot of fun endlessly scrolling through</span> <span class="tc-blue">**[ThetaCLV's Twitter page](https://twitter.com/ThetaCLV)**</span> <span class="tc-gray">and</span> <span class="tc-blue">**[reading some of their blog posts](https://thetaclv.com/resources/?_sft_category=blog)**</span><span class="tc-gray">.</span>
 
 Here is my immediate thought when reading through those ideas: Although every company's vision is different, CLVs are different, growth is different etc. I don't think you can go wrong by focusing largely on the value & experience that your organization provides its **current** customers, the rest should come*. How do you get your organization to focus on value & experience? Well, that's where Client Success comes in.
 
-> 💭 By "the rest should come" I am referring to business success/growth factors like referrals, better reviews, increased revenue etc. This idea deserves it's own entire blog post, so I will leave it at that for now 🙂
+> 💭 <span class="tc-gray">By "the rest should come" I am referring to business success/growth factors like referrals, better reviews, increased revenue etc. This idea deserves it's own entire blog post, so I will leave it at that for now 🙂</span>
+
+<div class="nb"></div>
 
 ### Enter Client Success (CS)!
 
-Hopefully you now have a shallow bit of knowledge on what decisions are happening at a higher level in organizations, before customers actually land in the lap of the client success team, you can understand the importance of customer experience & retention. Now, if you don't know what client success teams do, please jump over to google for a quick summary, or visit my good friend **[Edgar's blog](https://edgar-amaya.medium.com/)** for some deeper insights on the work that CS teams do.
+Hopefully you now have a shallow bit of knowledge on what decisions are happening at a higher level in organizations, before customers actually land in the lap of the client success team, you can understand the importance of customer experience & retention. Now, if you don't know what client success teams do, please jump over to google for a quick summary, or visit my good friend <span class="tc-blue">**[Edgar's blog](https://edgar-amaya.medium.com/)**</span> for some deeper insights on the work that CS teams do.
 
 <details>
 <summary>If you're too lazy to do either of those, just click on the toggle to see Edgar's quick paragraph on CS</summary>
@@ -34,6 +36,8 @@ Hopefully you now have a shallow bit of knowledge on what decisions are happenin
 In the past, I have been exposed to a couple different internal sales structures. For instance, one structure was where I regularly had inbound SDRs hopping onto my calls and trying to pitch certain functionalities of our product. I can't say that the interactions I generally saw were the most successful, as it felt strange seeing a sales rep interact with an established client as if they were a net new customer. On the other hand, I was also part of a structure where the inbound SDR team was removed entirely and all the selling of our immediate add-on products fell on the CS team. Throughout this transition I came to realize that there are so many situational variables at play that differentiate the process of selling to existing customers vs. selling to new/prospective customers.
 
 The comparison I am making is not to be confused with inbound vs. outbound sales in the sense of marketing & capturing potential customers. The comparison I am making is, once they are already established customers, how do the sales interactions go, what happens after the pitch, and how is this different from the first outbound SDR conversation with that same customer? It is difficult to generalize my ideas below to apply to all product structures & organizations, so to simplify this, the ideas below are specific to SASS (software as a service) organizations that have post-implementation add-on functionalities that can be sold at an additional cost.
+
+<div class="nb"></div>
 
 ### Some ideas to keep in mind when selling to existing customers
 
@@ -103,13 +107,21 @@ White space is the gap between what products or services your customer has inves
 
 Established customers on the other hand, there is only so much that you could try and sell, as eventually they will be using close to 100% of what your organization has to offer. This brings me back to my earlier points about the product feedback loop & customer priorities - you have to understand that white space is finite and can be re-visited, it is not as go go go as external sales are. Take your time, position things strategically, and white space will diminish.
 
+<div class="nb"></div>
+
 ### Wrapping Up
 
 My above ideas are really just scratching the surface on the different variables at play when it comes to selling to existing customers vs. outbound prospects, and I am not attempting to take away from the breadth of work out there on sales and how complex it can actually be. I just wanted to shed some light on how different those two responsibilities are, and how they should each be treated as their own function of a business - you can't expectations to be consistent across both departments.
 
 Thank you if you made it this far, and please don't hesitate to reach out - feedback is always appreciated!
 
+<div class="nb"></div>
+
+<div class="nb"></div>
+
 ---
+
+<div class="nb"></div>
 
 ### Sources
 
@@ -125,10 +137,18 @@ Thank you if you made it this far, and please don't hesitate to reach out - feed
 
 [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 
+<div class="nb"></div>
+
+<div class="nb"></div>
+
 ---
+
+<div class="nb"></div>
 
 ### Contact Me
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 
 [https://www.linkedin.com/in/shayan-memarzadeh/](https://www.linkedin.com/in/shayan-memarzadeh/)
+
+<div class="nb"></div>

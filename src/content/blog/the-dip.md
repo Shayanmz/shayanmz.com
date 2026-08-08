@@ -30,13 +30,23 @@ Whether you’re an intern or a CEO, this fun little book will help you figure o
 
 ## Impressions 🤔
 
+<div class="nb"></div>
+
 I feel like I read this book at the right time in my life. As you’ll see in how the book changed me below 👇🏽 , I’ve had many situations in my life over the past ~8 years where I’ve quit something and felt an enormous amount of shame and embarrassment. But why?
+
+<div class="nb"></div>
 
 “Don’t be a quitter” is some lame hustle culture stuff.
 
+<div class="nb"></div>
+
 It makes sense in certain contexts, but as Seth outlines in his book, there is such thing as strategic quitting, or situational quitting. I couldn’t agree more.
 
+<div class="nb"></div>
+
 It’s important not to be a generalist/master of none as a result of you quitting when things get hard. That’s not what he means. He means confronting reality and quitting the things you know you won’t be able to push through when things get truly hard; when you’re in the Dip. “Quitting successfully” as he calls it.
+
+<div class="nb"></div>
 
 I really enjoyed it. It was a really quick read too - I finished it in a couple hours.
 
@@ -68,3 +78,5 @@ I really enjoyed it. It was a really quick read too - I finished it in a couple 
 > “It’s easier to be mediocre than it is to confront reality and quit.”
 
 > “Quitting as a short-term strategy is a bad idea. Quitting for the long term is an excellent idea.”
+
+<div class="nb"></div>

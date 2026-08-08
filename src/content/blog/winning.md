@@ -8,7 +8,7 @@ cover: /images/blog/cover-winning-0.webp
 <details>
 <summary>I’m going to start inserting this toggle where you can click to read a copy & pasted version of the actual book ‘blurb’, as all the ideas and comments in my summaries are my own.</summary>
 
-**From the elite performance coach who authored the international bestseller *Relentless* and whose clients have included Michael Jordan, Kobe Bryant, and Dwyane Wade, comes this brutally honest formula for winning in business, sports, or any arena where the battle is fiercely unforgiving.**
+**From the elite performance coach who authored the international bestseller** ***Relentless*** **and whose clients have included Michael Jordan, Kobe Bryant, and Dwyane Wade, comes this brutally honest formula for winning in business, sports, or any arena where the battle is fiercely unforgiving.**
 
 In *Winning,* Tim Grover shows why he is one of the world’s most sought-after mindset experts. Drawing on three decades of work with elite competitors, Grover strips away the cliches and rah-rah mentality that create mediocrity and challenges you to embrace reality with single-minded intensity. The prize? Massive success.
 
@@ -54,12 +54,14 @@ So, with that in mind, I would recommend this book to the following people:
 - If you are just interested in how MJ and Kobe’s brains worked. Tim seems pretty similar to them...
 - If you don’t take things personally
 
-- I’m sure at one point or another, you have been told that being deeply competitive isn’t healthy and that it’s unproductive, I know I have. Even thinking back about my book summary of ***[The Courage To Be Disliked](/blog/the-courage-to-be-disliked)***, it speaks to that quite strongly. However, there are some important granularities that you should consider when you are pinning one idea of competitiveness against the other - they are more similar than you think.
+- I’m sure at one point or another, you have been told that being deeply competitive isn’t healthy and that it’s unproductive, I know I have. Even thinking back about my book summary of <span class="tc-blue">***[The Courage To Be Disliked](/blog/the-courage-to-be-disliked)***</span>, it speaks to that quite strongly. However, there are some important granularities that you should consider when you are pinning one idea of competitiveness against the other - they are more similar than you think.
 
 <details>
 <summary>To give you a little glimpse, click on the toggle to read an excerpt that gives you an idea of how his writing makes you feel at times. This might sound cheesy, but if you read that and related to it, or it motivated you somehow, I feel like you would appreciate the entire book.</summary>
 
 > 💬 *Winning will use every dirty trick in the book-and make up new ones just to entertain itself- to keep you in hell. It's too hard, it whispers ... you'll never get there... your parents don't believe in you ... your friends think you're crazy ... look at you, you're already a failure. Which, by no coincidence, is exactly what you were already thinking. So you stay there, waiting. Waiting to feel different, waiting to be told what to do, waiting for an answer that never comes. And meanwhile, the flames are getting hotter and hotter, until you can't take it. You have to take action, or you burn out. But instead of being propelled by the heat, you can become frozen where you are.*
+
+<div class="nb"></div>
 
 </details>
 
