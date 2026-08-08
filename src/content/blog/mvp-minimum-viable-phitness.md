@@ -2,6 +2,7 @@
 title: "'MVP' (Minimum Viable Phitness)"
 date: 2020-09-30
 icon: "🏋🏽"
+cover: /images/blog/cover-mvp-minimum-viable-phitness-0.webp
 ---
 
 <h4 id="mvp-minimum-viable-product">MVP (Minimum Viable Product)</h4>
@@ -30,6 +31,8 @@ As I've continued to drift into adulthood and my fitness levels have become a lo
 
 If I missed any obvious reasons please let me know here:
 
+<div class="embed embed-tall"><iframe src="https://shayanmz12.typeform.com/to/tfx8B2z7" loading="lazy" allowfullscreen></iframe></div>
+
 <div class="nb"></div>
 
 <div class="nb"></div>
@@ -40,7 +43,7 @@ While trying to answer this question, I came across this definition of 'fitness'
 
 <div class="nb"></div>
 
-![Proof that ](/images/blog/mvp-minimum-viable-phitness-13.webp)
+![Proof that ](/images/blog/mvp-minimum-viable-phitness-14.webp)
 
 *Proof that fit-tech is growing!😂 (Google Ngram of 'workout')*
 
@@ -57,28 +60,28 @@ Here are a variety of examples of lifestyles that I've pre-defined, with each th
 <details>
 <summary>9-5 office job & 5-10 gamer</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-14.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-15.webp)
 
 </details>
 
 <details>
 <summary>Stay at home mom</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-15.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-16.webp)
 
 </details>
 
 <details>
 <summary>Construction/manual labourer</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-16.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-17.webp)
 
 </details>
 
 <details>
 <summary>Olympic gymnast</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-17.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-18.webp)
 
 </details>
 
@@ -94,13 +97,19 @@ With the various fit-tech technologies being sold in the market today, I believe
 
 <h4 id="tempo">Tempo</h4>
 
+<div class="embed"><iframe src="https://player.vimeo.com/video/379317809?app_id=122963" loading="lazy" allowfullscreen></iframe></div>
+
 <div class="nb"></div>
 
 <h4 id="mirror">Mirror</h4>
 
+<div class="embed"><iframe src="https://www.youtube.com/embed/Tk2E1pfg0og?rel=0" loading="lazy" allowfullscreen></iframe></div>
+
 <div class="nb"></div>
 
 <h4 id="tonal">Tonal</h4>
+
+<div class="embed"><iframe src="https://www.youtube.com/embed/jX_JfWCgdRE?start=1&feature=oembed" loading="lazy" allowfullscreen></iframe></div>
 
 <div class="nb"></div>
 
@@ -128,5 +137,7 @@ Until these technologies come out, we'll all probably continue to live our curre
 <div class="nb"></div>
 
 <div class="nb"></div>
+
+<div class="embed"><iframe src="https://giphy.com/embed/453fdLGucOMwg" loading="lazy" allowfullscreen></iframe></div>
 
 <div class="nb"></div>

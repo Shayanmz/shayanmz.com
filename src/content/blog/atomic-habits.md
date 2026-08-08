@@ -29,6 +29,8 @@ I find that self-help books tend to get pretty repetitive at times in the messag
 
 Just like every good self-help book, there were dozens of quotable lines, so I found myself going “Woah, so true” many times.
 
+<div class="embed"><iframe src="https://giphy.com/embed/26ufdipQqU2lhNA4g" loading="lazy" allowfullscreen></iframe></div>
+
 <div class="nb"></div>
 
 <h2 id="who-should-read-it">Who Should Read It❓</h2>

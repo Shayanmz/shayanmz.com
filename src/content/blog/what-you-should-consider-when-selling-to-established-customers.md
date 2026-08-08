@@ -2,6 +2,7 @@
 title: "What you should consider when selling to established customers"
 date: 2021-11-04
 icon: "🤝"
+cover: /images/blog/cover-what-you-should-consider-when-selling-to-established-customers-0.webp
 ---
 
 <nav class="toc">
@@ -44,7 +45,7 @@ Hopefully you now have a shallow bit of knowledge on what decisions are happenin
 <details>
 <summary>If you're too lazy to do either of those, just click on the toggle to see Edgar's quick paragraph on CS</summary>
 
-![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-34.webp)
+![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-36.webp)
 
 </details>
 
@@ -87,11 +88,11 @@ Lastly, it is important for you to understand in detail, what the Job-To-Be-Done
 <details>
 <summary>If you have not heard of the JTBD framework, click on the toggle to the left to see a funny figure I found in the "What is Jobs to be Done (JTBD)?" article sourced at the end of this post</summary>
 
-![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-35.webp)
+![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-37.webp)
 
 To visualize my point above, when you try to sell something to a customer that is not looking for that solution you get something like this:
 
-![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-36.webp)
+![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-38.webp)
 
 Not very useful, huh?
 
@@ -106,7 +107,7 @@ Regardless of the product, the implementation time, resources required, etc. Pro
 <details>
 <summary>Here's a snippet of a great infographic from Invesp Consulting that summarizes the difference between selling to existing and prospective customers. I feel confident arguing that free trials are much more successful for existing clients based on the data shown.</summary>
 
-![Screenshot of an infographic complied & designed by Invesp Consulting](/images/blog/what-you-should-consider-when-selling-to-established-customers-37.webp)
+![Screenshot of an infographic complied & designed by Invesp Consulting](/images/blog/what-you-should-consider-when-selling-to-established-customers-39.webp)
 
 *Screenshot of an infographic complied & designed by Invesp Consulting*
 

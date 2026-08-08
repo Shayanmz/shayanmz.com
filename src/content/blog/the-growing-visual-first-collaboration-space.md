@@ -83,7 +83,7 @@ Every software application that we interact with today has some sort of user int
 <details>
 <summary>Trello board example</summary>
 
-![image](/images/blog/the-growing-visual-first-collaboration-space-26.webp)
+![image](/images/blog/the-growing-visual-first-collaboration-space-27.webp)
 
 </details>
 
@@ -92,7 +92,7 @@ Now, if I were to visualize the same thing in terms of how the underlying folder
 <details>
 <summary>Folder structure</summary>
 
-![image](/images/blog/the-growing-visual-first-collaboration-space-27.webp)
+![image](/images/blog/the-growing-visual-first-collaboration-space-28.webp)
 
 </details>
 
@@ -132,7 +132,7 @@ By definition, disruptive technologies are ones that innovate on low-end or new 
 <details>
 <summary>Disruptive Innovation Model</summary>
 
-![Great graphic on disruptive innovation from ](/images/blog/the-growing-visual-first-collaboration-space-28.webp)
+![Great graphic on disruptive innovation from ](/images/blog/the-growing-visual-first-collaboration-space-29.webp)
 
 *Great graphic on disruptive innovation from Harvard Business Review*
 
@@ -201,7 +201,7 @@ As Marty Cagan put it in his book <span class="tc-blue">***[INSPIRED](https://ww
 
 <div class="nb"></div>
 
-<h3 id="wrapping-up-with-a-notion-case-study">Wrapping up with a Notion case study</h3>
+<h3 id="wrapping-up-with-a-notion-case-study">Wrapping up with a <a href="https://www.notion.so/">Notion</a> case study</h3>
 
 As I was writing this post, I came across this amazing article that ties a lot of my (slightly scattered) ideas together in a more focused analysis on Notion’s growth and success as a collaboration tool. More specifically, you’ll see that Notion exploded into a multi-billion dollar startup without posting any quantified results anywhere on it’s website.
 

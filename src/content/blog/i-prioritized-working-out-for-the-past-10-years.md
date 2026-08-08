@@ -279,6 +279,8 @@ Let me repeate this one.
 
 You. Can’t. Do. It. All. 👇🏽
 
+<div class="embed"><iframe src="https://embed.notion.co/api/iframe?app=1&url=https%3A%2F%2Fwww.instagram.com%2Freel%2FCeWv1zilf07%2F%3Futm_source%3Dig_web_copy_link%26igshid%3DMzRlODBiNWFlZA%3D%3D&key=656ac74fac4fff346b811dca7919d483" loading="lazy" allowfullscreen></iframe></div>
+
 I’ve injured myself so many times trying to do too many things at once. It’s ok to pick one or two things and focus on them for a while.
 
 Use Mesocycle & Macrocycle training blocks if you’re training for something specific, like an Iron Man.

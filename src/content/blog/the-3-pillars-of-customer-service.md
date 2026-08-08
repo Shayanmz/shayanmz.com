@@ -56,7 +56,7 @@ What was it that made John miss on this interaction? Well, my theory is that the
 2. Emotional Intelligence (EQ)
 3. Curiosity
 
-![image](/images/blog/the-3-pillars-of-customer-service-22.webp)
+![image](/images/blog/the-3-pillars-of-customer-service-23.webp)
 
 <div class="nb"></div>
 

@@ -24,13 +24,13 @@ active: home
 
 <h3 id="fitness">Fitness</h3>
 
-After years of battling, I ***finally*** joined the 1000lb club with a 405 deadlift, 245 bench, and 355 squat (1005lbs) earlier this year! I used a strap on my left hand for the deadlift because of an injury, and I wasn’t super happy with the depth of my squat. I honestly won’t be fully satisfied until I hit the deadlift raw, and squat 365 ATG. The conquest continues…
+<span class="tc-gray">After years of battling, I ***finally*** joined the 1000lb club with a 405 deadlift, 245 bench, and 355 squat (1005lbs) earlier this year! I used a strap on my left hand for the deadlift because of an injury, and I wasn’t super happy with the depth of my squat. I honestly won’t be fully satisfied until I hit the deadlift raw, and squat 365 ATG. The conquest continues…</span>
 
 <span class="tc-gray">Outside of my deadlift and squat journey, I’ve really been into calisthenics and my current goals are:</span>
 
-1. 90lb weighted pull up for 5 reps
-2. Hold a straddle lever for 5 seconds
-3. 25lb weighted ring muscle up
+1. <span class="tc-gray">90lb weighted pull up for 5 reps</span>
+2. <span class="tc-gray">Hold a straddle lever for 5 seconds</span>
+3. <span class="tc-gray">25lb weighted ring muscle up</span>
 
 <span class="tc-gray">My long-term, and I mean long-term, cali goal is to be able to hold an</span> <span class="tc-blue">**[Iron Cross](https://youtu.be/HZbee93OIdo?t=11)**</span> <span class="tc-gray">for 5 seconds.</span>
 

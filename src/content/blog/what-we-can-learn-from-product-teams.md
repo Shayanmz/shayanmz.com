@@ -25,7 +25,7 @@ For many years now, Google has employed an 'Innovation Time out' policy that enc
 
 Now, if you were to extend this idea and let entire teams adopt this model of work, well, you would end up with what we refer to as product development teams. With the exclusion of strategic business constraints, one of the main responsibilities of product teams is to innovate and continue to expand on ideas to create new business solutions. Product teams are at the core of the business, and because of this, a lot of the innovative bandwidth of an organization ends up being forced on them. But why? Shouldn't shared learning and feedback be a core component of all teams in innovative companies?
 
-![The A → D figures were pulled from James Clear's article on feedback loops mentioned below](/images/blog/what-we-can-learn-from-product-teams-33.webp)
+![The A → D figures were pulled from James Clear's article on feedback loops mentioned below](/images/blog/what-we-can-learn-from-product-teams-34.webp)
 
 *The A → D figures were pulled from James Clear's article on feedback loops mentioned below*
 
@@ -105,6 +105,8 @@ I could go on for hours about how this would create a more knowledgeable, confid
 Unfortunately, this tactic won't create the direct transparency and camaraderie that I mentioned earlier due to it's non-interactive, impersonal nature, however anonymous surveys still work by giving a lot of insight as to what the different members of organizations have to say about their experience. This could be more general questions like "How has your experience been at ___ over the past year?", or it could be as specific as "What are your thoughts on the new sales structure?". There are so many cheap tools out there that could do this for you, like Google Forms, Survey Monkey, Typeform, and Lattice, just to name a few.
 
 <div class="nb"></div>
+
+<div class="embed embed-tall"><iframe src="https://shayanmz12.typeform.com/to/oQ9K1WBJ" loading="lazy" allowfullscreen></iframe></div>
 
 <div class="nb"></div>
 
