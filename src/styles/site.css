@@ -120,10 +120,25 @@ body {
   line-height: 1.5;
 }
 
-/* Notion text blocks: no margin, padding 3px 2px => tight paragraph rhythm */
+/* Paragraph rhythm. Every paragraph break gets the same generous gap, so
+   spacing is identical whether or not the Notion source happened to have a
+   blank block between paragraphs. 3px padding + 26px margin = the 32px
+   gap the roomier posts had. A line break *inside* a paragraph
+   (Shift+Enter in Notion) stays tight, which is the point. */
 .prose-site p {
-  margin: 0;
+  margin: 0 0 26px;
   padding: 3px 2px;
+}
+
+.prose-site > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Notion blank blocks used to supply that gap. The paragraph margin owns it
+   now, so these would double it — collapse them instead of restyling every
+   post's source. */
+.prose-site .nb {
+  display: none;
 }
 
 /* heading sizes/weights exactly as Super ships them */
@@ -150,12 +165,6 @@ body {
 .prose-site h4 {
   font-size: var(--heading3-size);
   margin-top: 0.75rem;
-}
-
-/* Notion blank block — Super renders these as 32px spacers */
-.prose-site .nb {
-  height: 26px;
-  padding: 3px 2px;
 }
 
 /* Notion text colors, dark theme (values from Super's .theme-dark vars) */
