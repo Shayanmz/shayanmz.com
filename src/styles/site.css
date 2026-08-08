@@ -172,16 +172,12 @@ body {
 /* colored links keep their span color, not the default blue */
 .tc-gray a { color: inherit; }
 
-/* list markers inherit the item's Notion color */
-li:has(> .tc-gray)::marker   { color: hsl(0, 0%, 61%); }
-li:has(> .tc-blue)::marker   { color: hsl(217, 100%, 65%); }
-li:has(> .tc-green)::marker  { color: hsl(146, 32%, 47%); }
-li:has(> .tc-orange)::marker { color: hsl(25, 54%, 53%); }
-li:has(> .tc-pink)::marker   { color: hsl(329, 57%, 58%); }
-li:has(> .tc-red)::marker    { color: hsl(1, 69%, 60%); }
-li:has(> .tc-yellow)::marker { color: hsl(38, 54%, 54%); }
-li:has(> .tc-purple)::marker { color: hsl(270, 55%, 62%); }
-li:has(> .tc-brown)::marker  { color: hsl(18, 35%, 58%); }
+/* Markers inherit the list item's own color. The colour class sits on the
+   <li> only when the WHOLE item is that colour in Notion — a coloured span
+   inside an otherwise-default item must not tint the number. */
+.prose-site li::marker {
+  color: inherit;
+}
 
 /* Notion background highlights, dark theme (derived from Super's hsl math) */
 .bg-gray   { background: hsl(0, 0%, 14.5%); }
@@ -305,7 +301,9 @@ li:has(> .tc-brown)::marker  { color: hsl(18, 35%, 58%); }
   padding: 0;
 }
 
-/* Notion toggle: ‣ trigger that rotates open, content indented (Super) */
+/* Notion toggle: ‣ trigger that rotates open, content indented (Super).
+   align-items: flex-start keeps the arrow on the FIRST line of a
+   multi-line summary rather than centring it across the block. */
 .prose-site details {
   margin: 1px 0;
 }
@@ -315,7 +313,7 @@ li:has(> .tc-brown)::marker  { color: hsl(18, 35%, 58%); }
   padding: 3px 0;
   list-style: none;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .prose-site details summary::-webkit-details-marker {
@@ -344,8 +342,109 @@ li:has(> .tc-brown)::marker  { color: hsl(18, 35%, 58%); }
   transform: rotate(90deg);
 }
 
-.prose-site details > *:not(summary) {
+.prose-site details > .dtl {
   margin-inline-start: calc(1.5em + 4px);
+}
+
+/* Notion lists rendered as HTML so nesting survives. Sub-levels switch
+   marker style the way Notion does: 1. → a. → i. */
+.prose-site ol.nlist {
+  list-style-type: decimal;
+}
+
+.prose-site ol.nlist ol.nlist {
+  list-style-type: lower-alpha;
+}
+
+.prose-site ol.nlist ol.nlist ol.nlist {
+  list-style-type: lower-roman;
+}
+
+.prose-site ul.nlist {
+  list-style-type: disc;
+}
+
+.prose-site ul.nlist ul.nlist {
+  list-style-type: circle;
+}
+
+.prose-site ul.nlist ul.nlist ul.nlist {
+  list-style-type: square;
+}
+
+/* a nested list/toggle inside an item shouldn't inherit the gap twice */
+.prose-site li > ul.nlist,
+.prose-site li > ol.nlist,
+.prose-site li > details,
+.prose-site li > .callout {
+  margin-top: 2px;
+}
+
+.prose-site li > p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Notion callout (Super: flex, 1rem padding, 3px radius, tinted bg) */
+.callout {
+  display: flex;
+  align-items: flex-start;
+  margin: 2px 0 4px;
+  padding: 1rem 1rem 1rem 0.7rem;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.callout.bg-gray-light   { background: hsl(0, 0%, 14.5%);   border-color: hsl(0, 0%, 14.5%); }
+.callout.bg-blue-light   { background: hsl(233, 73%, 22%);  border-color: hsl(233, 73%, 22%); }
+.callout.bg-green-light  { background: hsl(149, 26%, 19%);  border-color: hsl(149, 26%, 19%); }
+.callout.bg-yellow-light { background: hsl(38, 36%, 25%);   border-color: hsl(38, 36%, 25%); }
+.callout.bg-orange-light { background: hsl(25, 44%, 25%);   border-color: hsl(25, 44%, 25%); }
+.callout.bg-red-light    { background: hsl(6, 32%, 24%);    border-color: hsl(6, 32%, 24%); }
+.callout.bg-pink-light   { background: hsl(332, 28%, 24%);  border-color: hsl(332, 28%, 24%); }
+.callout.bg-purple-light { background: hsl(272, 24%, 23%);  border-color: hsl(272, 24%, 23%); }
+.callout.bg-brown-light  { background: hsl(18, 28%, 22%);   border-color: hsl(18, 28%, 22%); }
+
+.callout-icon {
+  min-width: 1.5rem;
+  width: 1.8rem;
+  font-size: 1.3rem;
+  line-height: 1.3rem;
+  position: relative;
+  top: 2px;
+  flex-shrink: 0;
+}
+
+.callout-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.callout-body > p:first-child {
+  margin-top: 0;
+}
+
+.callout-body > *:last-child {
+  margin-bottom: 0;
+}
+
+/* inline database heading (e.g. "❄️December" above the habit tracker) */
+.coll-title {
+  font-weight: 600;
+  font-size: var(--heading3-size);
+  margin: 1rem 0 4px;
+  padding: 3px 2px;
+}
+
+.prose-site figure {
+  margin: 4px 0;
+}
+
+.prose-site figcaption {
+  font-size: 0.875rem;
+  color: var(--text-gray);
+  padding: 3px 2px;
 }
 
 /* Notion table of contents (Super: 0.875rem, gray underlined, row hover) */

@@ -13,8 +13,7 @@ I recently visited an Apple Store to check out some Apple Watches - I've really 
 
 <div class="nb"></div>
 
-1. The fitness tracking is mediocre, and I'm already very active anyway. I don't really ***need*** it.
-2. I already have a phone in my pocket 24/7; do I really want to permanently attach myself to the watch and become an Apple robot? I know it sounds like some hippie stuff, but <span class="tc-blue">**[Phantom Vibration Syndrome](https://www.reddit.com/r/AppleWatch/comments/akrgv8/anyone_else_feel_phantom_vibrations_while_not/)**</span> is real!
+<ol class="nlist"><li>The fitness tracking is mediocre, and I&#x27;m already very active anyway. I don&#x27;t really <em><strong>need</strong></em> it.</li><li>I already have a phone in my pocket 24/7; do I really want to permanently attach myself to the watch and become an Apple robot? I know it sounds like some hippie stuff, but <span class="tc-blue"><strong><a href="https://www.reddit.com/r/AppleWatch/comments/akrgv8/anyone_else_feel_phantom_vibrations_while_not/">Phantom Vibration Syndrome</a></strong></span> is real!</li></ol>
 
 <div class="nb"></div>
 
@@ -38,9 +37,7 @@ Before I gave John the opportunity to answer my questions, I made sure to give h
 
 <div class="nb"></div>
 
-- I used to work at Apple, so I have a great understanding of the basic functionalities of the Apple Watch.
-- I work out often and know about the basic fitness tracking.
-- I'm hesitant to buy because of my reasons mentioned above.
+<ul class="nlist"><li>I used to work at Apple, so I have a great understanding of the basic functionalities of the Apple Watch.</li><li>I work out often and know about the basic fitness tracking.</li><li>I&#x27;m hesitant to buy because of my reasons mentioned above.</li></ul>
 
 <div class="nb"></div>
 
@@ -52,11 +49,9 @@ What was it that made John miss on this interaction? Well, my theory is that the
 
 <div class="nb"></div>
 
-1. Knowledge
-2. Emotional Intelligence (EQ)
-3. Curiosity
+<ol class="nlist"><li>Knowledge</li><li>Emotional Intelligence (EQ)</li><li>Curiosity</li></ol>
 
-![image](/images/blog/the-3-pillars-of-customer-service-27.webp)
+<figure><img src="/images/blog/the-3-pillars-of-customer-service-34.webp" alt="" loading="lazy" /></figure>
 
 <div class="nb"></div>
 
@@ -80,15 +75,19 @@ As I tried to answer their questions and muttered sad responses of wine suggesti
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h4 id="knowledge">Knowledge</h4>
 
 A simple way to think about the knowledge pillar is: you should, most of the time, know more than the customer and be very confident about your products & services. Customers come to you for your knowledge, your consultation, and your experience with the products & services you provide. The moment that they start to realize they know more than you and that you're hiding it, you will lose their trust. If you don't know an answer to something, don't fake it, transparency is key.
 
 <div class="nb"></div>
 
-> "Transparency and giving reason strides legitimacy. Non-transparency and not giving reasons detracts from legitimacy" - Noah Feldman
+<blockquote><p>&quot;Transparency and giving reason strides legitimacy. Non-transparency and not giving reasons detracts from legitimacy&quot; - Noah Feldman</p></blockquote>
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h4 id="emotional-intelligence-eq">Emotional Intelligence (EQ)</h4>
 
@@ -100,20 +99,25 @@ If a customer comes in frustrated, being a robot in your responses by reciting t
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h4 id="curiosity">Curiosity</h4>
 
 If you read any self-help books, this one will be obvious to you. Basically, the best way to learn about someone & their needs is to be genuinely curious. Here are some quotes that represent this idea well:
 
 <div class="nb"></div>
 
-> "Everyone is interesting. If you're ever bored in a conversation, the problem's with you, not the other person." - Matt Mullenweg in Tools of Titans
+<blockquote><p>&quot;Everyone is interesting. If you&#x27;re ever bored in a conversation, the problem&#x27;s with you, not the other person.&quot; - Matt Mullenweg in Tools of Titans</p></blockquote>
 
 <div class="nb"></div>
 
-> "Listening requires, more than anything, curiosity."
-> "Thinking you already know how a conversation will go down kills curiosity and subverts listening … "
-> " … they must ask questions out of curiosity as opposed to questioning to prove a point, set a trap, change someone's mind …"
-> All from <span class="tc-blue">***[You're Not Listening](/blog/youre-not-listening)***</span>*, by Kate Murphy*
+<blockquote><p>&quot;Listening requires, more than anything, curiosity.&quot;
+
+&quot;Thinking you already know how a conversation will go down kills curiosity and subverts listening … &quot;
+
+&quot; … they must ask questions out of curiosity as opposed to questioning to prove a point, set a trap, change someone&#x27;s mind …&quot;
+
+All from <span class="tc-blue"><em><strong><a href="/blog/youre-not-listening">You&#x27;re Not Listening</a></strong></em></span><em>, by Kate Murphy</em></p></blockquote>
 
 <div class="nb"></div>
 
@@ -124,6 +128,8 @@ The most fulfilling interactions I've ever had with customers have always been t
 Oh, and you can’t fake curiosity either.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h4 id="why-do-these-pillars-work">Why do these pillars work?</h4>
 
@@ -144,6 +150,8 @@ Now go out and build trust, people.
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! I’ll be testing less structured posts like this occasionally. Please give me feedback. Writing is hard.</span>
+
+<h3 id="section"></h3>
 
 <h3 id="contact-me">Contact Me</h3>
 

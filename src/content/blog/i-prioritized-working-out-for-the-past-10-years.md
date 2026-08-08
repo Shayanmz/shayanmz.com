@@ -9,7 +9,7 @@ Picture this: you’re walking out of a midterm that just gave you a nice slap a
 
 <div class="nb"></div>
 
-![image](/images/blog/i-prioritized-working-out-for-the-past-10-years-7.gif)
+<figure><img src="/images/blog/i-prioritized-working-out-for-the-past-10-years-10.gif" alt="" loading="lazy" /></figure>
 
 <div class="nb"></div>
 
@@ -39,6 +39,8 @@ Some lessons are focused on my story above, but most are specific to my weightli
 
 ---
 
+<h3 id="section"></h3>
+
 <h3 id="sleep-and-rest-is-1">Sleep and rest is #1</h3>
 
 I was convinced that if I had a choice between working out and getting good quality sleep, I should chose the gym 100% of the time.
@@ -51,6 +53,8 @@ It’s amazing to see sleep being highly emphasized on social media nowadays - i
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="don-t-miss-twice">“Don’t miss twice”</h3>
 
 I don’t even remember where I heard this anymore, but I’ve been using this for years.
@@ -61,6 +65,8 @@ This ties into 👇🏽
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="missing-1-workout-isn-t-the-end-of-the-world">Missing 1 workout isn’t the end of the world</h3>
 
 Believe it or not, I needed to hear this earlier on in my lifting journey.
@@ -70,6 +76,8 @@ A lot of the time, when I miss a workout, my session the next day is always 100x
 Your strength and/or physique will be fine too, btw.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="prioritize-what-matters-most">Prioritize what matters most</h3>
 
@@ -82,6 +90,8 @@ That all being said, when you have moments of competing priorities across your l
 The repercussions I had to face by chosing to go to the gym over things like: studying, seeing my girlfriend, and sleeping, were often far worse than if I chose to miss a workout here and there.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="some-types-of-training-drains-you-more-than-others">Some types of training drains you more than others</h3>
 
@@ -99,11 +109,13 @@ This obviously depends on what your modifiable variables look like, but keep thi
 
 ---
 
+<h3 id="section"></h3>
+
 <h3 id="consistency-is-only-one-part-of-the-puzzle">Consistency is only one part of the puzzle</h3>
 
 <div class="nb"></div>
 
-> “The literature will show very clearly that <u>**adherence**</u> is the number one predictor of physical fitness outcomes”
+<blockquote><p>“The literature will show very clearly that <u><strong>adherence</strong></u> is the number one predictor of physical fitness outcomes”</p></blockquote>
 
 <div class="nb"></div>
 
@@ -112,6 +124,8 @@ Heard the above from <span class="tc-blue">**[Andy Galpin](https://www.andygalpi
 You could be working out for 10 years but still look and feel like a blob - this just means you didn’t do the additional things properly.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="weightlifting-is-a-skill">Weightlifting is a skill</h3>
 
@@ -127,6 +141,8 @@ If you want to get better at a specific movement, just do more of it.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="record-yourself-lift">Record yourself lift</h3>
 
 In similar vain as 👆🏽, recording yourself is a great way to catch movement inefficiencies and fix your technique.
@@ -134,6 +150,8 @@ In similar vain as 👆🏽, recording yourself is a great way to catch movement
 Plus, you’ll have a bunch of cool lifting videos over the years.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="lift-heavy-things">Lift heavy things</h3>
 
@@ -145,6 +163,8 @@ This is where you grow.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="eat-more-protein">Eat more protein</h3>
 
 I used to think that I ate more than enough protein, but for many goals in the gym and as an athlete, your protein intake needs to be high.
@@ -155,6 +175,8 @@ I noticed immediate differences once I bumped up my protein intake.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="eat-healthy">Eat healthy</h3>
 
 Nutrition is a whole can of worms, but to keep this one simple, just eat your veggies & fruits, get your protein, and don’t eat too much processed junk.
@@ -162,6 +184,8 @@ Nutrition is a whole can of worms, but to keep this one simple, just eat your ve
 If someone tries to tell you kale is bad for you, turn around and walk away.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="listen-to-your-body-trust-your-instincts">Listen to your body &amp; trust your instincts</h3>
 
@@ -175,19 +199,23 @@ You know what feels normal and what doesn’t.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="injuries-are-a-part-of-the-journey">Injuries are a part of the journey</h3>
 
 I’m not saying it’s normal to get <u>**regularly**</u> injured, I’m just saying you could be doing everything right and still get injured.
 
 Generally in the weight room, the equation is as follows:
 
-> 👉🏽 Applied force > tissue tolerance
+<div class="callout bg-gray-light"><div class="callout-icon">👉🏽</div><div class="callout-body"><p>Applied force &gt; tissue tolerance</p></div></div>
 
 If you’re doing exercises that involve a lot more variability, then the injury risk is obviously greater.
 
 But if you practice, make sure you move well, and progress gradually, you should have a long and healthy career.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="injury-prone-injury-predisposed">Injury-prone ≠ Injury-predisposed</h3>
 
@@ -203,6 +231,8 @@ You can still do it, but you’ll need a much more thoughtful process to get the
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="you-don-t-have-to-destroy-yourself-every-workout">You don’t have to destroy yourself every workout</h3>
 
 If you’re having an off day, it’s ok to scale your workout back a little.
@@ -210,6 +240,8 @@ If you’re having an off day, it’s ok to scale your workout back a little.
 In the long run, it will save you from stupid injuries.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="educate-yourself">Educate yourself</h3>
 
@@ -219,13 +251,13 @@ Although that’s what I did, I could have avoided so many injuries and lack of 
 
 Some recommendations:
 
-- Learn how the shoulder + scapula + thoracic region work together and the surrounding muscles
-- Learn about hip function & stability with up stream/downstream effects
-- Learn about the actual action and function of each of the main muscles you are working
+<ul class="nlist"><li>Learn how the shoulder + scapula + thoracic region work together and the surrounding muscles</li><li>Learn about hip function &amp; stability with up stream/downstream effects</li><li>Learn about the actual action and function of each of the main muscles you are working</li></ul>
 
 Or you could just hire a good trainer that would help with all this.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="don-t-workout-without-a-plan">Don’t workout without a plan</h3>
 
@@ -234,6 +266,8 @@ Whether you buy an app, a digital workout program, or an actual coach that helps
 You’ll waste a lot of time and effort with minimal results without a good plan.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="when-you-first-get-started-anything-works">When you first get started, anything works</h3>
 
@@ -247,32 +281,23 @@ Just eat good, rest well, and push yourself with good form.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="there-are-7-modifiable-variables-you-can-tweak-in-your-programs">There are 7 modifiable variables you can tweak in your programs</h3>
 
-1. Exercise choice
-2. Exercise order
-3. Frequency (x per week)
-4. Progression (session over session increases in any of weight, sets, reps)
-5. Volume (reps x sets)
-  1. Volume Load (reps x sets x weight)
-6. Intensity (% of 1RM or % of Max Heart Rate/VO2 Max)
-7. Rest (how long you rest between sets & exercises)
+<ol class="nlist"><li>Exercise choice</li><li>Exercise order</li><li>Frequency (x per week)</li><li>Progression (session over session increases in any of weight, sets, reps)</li><li>Volume (reps x sets)<ol class="nlist"><li>Volume Load (reps x sets x weight)</li></ol></li><li>Intensity (% of 1RM or % of Max Heart Rate/VO2 Max)</li><li>Rest (how long you rest between sets &amp; exercises)</li></ol>
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="there-are-9-adaptations-you-can-work-on">There are 9 adaptations you can work on</h3>
 
-1. Skill
-2. Speed
-3. Power
-4. Strength
-5. Hypertrophy
-6. Muscular Endurance
-7. Anaerobic capacity
-8. Maximal aerobic capacity
-9. Long duration/steady state
+<ol class="nlist"><li>Skill</li><li>Speed</li><li>Power</li><li>Strength</li><li>Hypertrophy</li><li>Muscular Endurance</li><li>Anaerobic capacity</li><li>Maximal aerobic capacity</li><li>Long duration/steady state</li></ol>
 
 You can’t specialize in all of them, so figure out which ones are a part of your goals and work towards them.
+
+<h3 id="section"></h3>
 
 <h3 id="you-can-t-do-it-all">You can’t do it all</h3>
 
@@ -288,6 +313,8 @@ Use Mesocycle & Macrocycle training blocks if you’re training for something sp
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="over-the-long-term-add-exercise-variation">Over the long-term, add exercise variation</h3>
 
 Unless you’re regularly specializing in something like powerlifting, over the long-term make sure to add exercise variation.
@@ -300,6 +327,8 @@ Over-specifying for long periods of time is generally not ideal for moving well.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="don-t-follow-too-many-fitness-social-media-accounts-at-once">Don’t follow too many fitness social media accounts at once</h3>
 
 It depends what you’re interested in learning about, but don’t get caught up following so many different styles of fitness that you get confused as to what you should be doing.
@@ -310,20 +339,21 @@ If you want to get into gymnastics, find a few good gymnastic accounts.
 
 <div class="nb"></div>
 
+<h3 id="section"></h3>
+
 <h3 id="most-people-are-roided-up">Most people are roided up</h3>
 
 Understand that most of the really (and I mean REALLY) jacked famous influencers either:
 
-- Do fitness stuff for a living, so they will naturally be more likely to be more strong/jacked/etc.
-- Have taken PEDs in the past, or are currently taking them.
-- Have amazing genetics
-- Have been training for decades
+<ul class="nlist"><li>Do fitness stuff for a living, so they will naturally be more likely to be more strong/jacked/etc.</li><li>Have taken PEDs in the past, or are currently taking them.</li><li>Have amazing genetics</li><li>Have been training for decades</li></ul>
 
 Don’t compare yourself or your results to any of these people.
 
 Compare yourself to your past self.
 
 <div class="nb"></div>
+
+<h3 id="section"></h3>
 
 <h3 id="don-t-ever-base-your-schedule-around-someone-else-s-plans">Don’t ever base your schedule around someone else’s plans</h3>
 
@@ -359,7 +389,9 @@ If you want to ask me any questions or tell me why I’m wrong, feel free to rea
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
 
-<h3 id="contact-me">Contact Me</h3>
+<h3 id="section"></h3>
+
+<h3 id="contact-me"><strong>Contact Me</strong></h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 

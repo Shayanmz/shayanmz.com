@@ -53,7 +53,7 @@ The documentation piece is already do-able and I’ve seen companies implementin
 
 <div class="nb"></div>
 
-> “The current easiest way to get the answers you need is to send a message to a colleague or a whole channel and pass off the cognitive burden to them.” - Adam Smith, <span class="tc-blue">**[Workbounce co-founder](https://journal.workbounce.com/p/the-future-is-now?r=2ac0r9)**</span>
+<blockquote><p>“The current easiest way to get the answers you need is to send a message to a colleague or a whole channel and pass off the cognitive burden to them.” - Adam Smith, <span class="tc-blue"><strong><a href="https://journal.workbounce.com/p/the-future-is-now?r=2ac0r9">Workbounce co-founder</a></strong></span></p></blockquote>
 
 <div class="nb"></div>
 
@@ -65,7 +65,7 @@ I was just looking at one of my old blog posts and realized that I predicted thi
 
 <div class="nb"></div>
 
-> intelligent AI powered searching softwares that use integrations to search all your various platforms that keep your company’s information. I think that over the next several years, as available APIs continue to expand, and internal platform-based integrations extend, AI powered search tools will be comonplace in the workplace. - <span class="tc-blue">**[What we can learn from product teams](/blog/i-predicted-ai-kind-of)**</span>
+<blockquote><p>intelligent AI powered searching softwares that use integrations to search all your various platforms that keep your company’s information. I think that over the next several years, as available APIs continue to expand, and internal platform-based integrations extend, AI powered search tools will be comonplace in the workplace. - <span class="tc-blue"><strong><a href="/blog/i-predicted-ai-kind-of">What we can learn from product teams</a></strong></span></p></blockquote>
 
 <div class="nb"></div>
 
@@ -79,16 +79,13 @@ Excited for my future relationship with Mr/Mrs GPT. 🤖
 
 Btw, if you are interested in taking the PM course at Brainstation, here are the questions you should ask yourself before taking any online course:
 
-> 💭 I think that the value that online courses provide are based on a these key variables:Quality of educators & access to them👉🏽 Who’s teaching you? Do you just sit and listen to them or is it interactive?The content👉🏽 Is the content you’re being given unique?The status associated to certification company👉🏽 Will people recognize the name of the certifying organization?The other students👉🏽 Do you work with the other students at all? Will you build your network?
+<div class="callout bg-gray-light"><div class="callout-icon">💭</div><div class="callout-body"><p>I think that the value that online courses provide are based on a these key variables:</p><ol class="nlist"><li>Quality of educators &amp; access to them<p>👉🏽 Who’s teaching you? Do you just sit and listen to them or is it interactive?</p></li><li>The content<p>👉🏽 Is the content you’re being given unique?</p></li><li>The status associated to certification company<p>👉🏽 Will people recognize the name of the certifying organization?</p></li><li>The other students<p>👉🏽 Do you work with the other students at all? Will you build your network?</p></li></ol></div></div>
 
 <div class="nb"></div>
 
 My answers:
 
-1. High quality & pretty interactive.
-2. No - it’s moreso the perspective of the instructors that was really valuable.
-3. Yea, I’d say so. There’s only a handful of companies that have awareness in the PM world, and they change every few years it seems too.
-4. Yes! I’m connected with a handful of them and have loved keeping in touch with some of them.
+<ol class="nlist"><li>High quality &amp; pretty interactive.</li><li>No - it’s moreso the perspective of the instructors that was really valuable.</li><li>Yea, I’d say so. There’s only a handful of companies that have awareness in the PM world, and they change every few years it seems too.</li><li>Yes! I’m connected with a handful of them and have loved keeping in touch with some of them.</li></ol>
 
 <div class="nb"></div>
 
@@ -97,6 +94,8 @@ My answers:
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
+
+<h3 id="section"></h3>
 
 <h3 id="contact-me">Contact Me</h3>
 

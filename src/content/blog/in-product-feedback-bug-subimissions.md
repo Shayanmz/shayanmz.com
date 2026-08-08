@@ -31,7 +31,7 @@ For example, I use a variety of SaaS products and have often found myself encoun
 
 Let me show you some examples of what I mean from my <span class="tc-blue">**[Good-UX](/good-ux)**</span> page. These are just a handful of the tools I use that very clearly provide easy keyboard shortcuts to submit product feedback directly within the product. No social media. No emails.
 
-<div class="mini-gallery"><img src="/images/blog/in-product-feedback-bug-subimissions-9.gif" alt="" loading="lazy" /><img src="/images/blog/in-product-feedback-bug-subimissions-10.gif" alt="" loading="lazy" /><img src="/images/blog/in-product-feedback-bug-subimissions-11.webp" alt="" loading="lazy" /><img src="/images/blog/in-product-feedback-bug-subimissions-12.gif" alt="" loading="lazy" /></div>
+<div class="mini-gallery"><img src="/images/blog/in-product-feedback-bug-subimissions-12.gif" alt="" loading="lazy" /><img src="/images/blog/in-product-feedback-bug-subimissions-13.gif" alt="" loading="lazy" /><img src="/images/blog/in-product-feedback-bug-subimissions-14.webp" alt="" loading="lazy" /><img src="/images/blog/in-product-feedback-bug-subimissions-15.gif" alt="" loading="lazy" /></div>
 
 <div class="nb"></div>
 
@@ -45,7 +45,7 @@ I personally don’t believe that the cons I provided are enough to warrant not 
 
 <div class="nb"></div>
 
-> 🗣️ All SaaS products in the future will have a direct pipeline to Feedback & Bug submissions
+<div class="callout bg-gray-light"><div class="callout-icon">🗣️</div><div class="callout-body"><p>All SaaS products in the future will have a direct pipeline to Feedback &amp; Bug submissions</p></div></div>
 
 <div class="nb"></div>
 
@@ -53,33 +53,37 @@ That all being said, simply implementing this functionality won’t in and of it
 
 <div class="nb"></div>
 
-> 💭 Random thought: in enterprise accounts, it would be really interesting if in-product submissions like this could route the feedback/bug immediately to the assigned Account Owner - giving the users the sense that it is just a chat channel directly to their contact.
+<div class="callout bg-gray-light"><div class="callout-icon">💭</div><div class="callout-body"><p>Random thought: in enterprise accounts, it would be really interesting if in-product submissions like this could route the feedback/bug immediately to the assigned Account Owner - giving the users the sense that it is just a chat channel directly to their contact.</p></div></div>
 
 <div class="nb"></div>
 
 This suggestion I’m making is not all encompasing; providing other avenues for users to provide feedback is also great, like public documentation/community pages, Slack/Discord communities, and through social media.
 
+<h3 id="section"></h3>
+
 <h4 id="public-documentation">Public Documentation</h4>
 
-![image](/images/blog/in-product-feedback-bug-subimissions-13.webp)
+<figure><img src="/images/blog/in-product-feedback-bug-subimissions-16.webp" alt="" loading="lazy" /></figure>
 
 I’ve always found that API & Developer documentation has been extremely easy to navigate and understand. I feel like the gold standard is <span class="tc-blue">**[Mozilla’s MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)**</span>. Another company that has a variety of different resource options is Webflow, their <span class="tc-blue">**[developer docs](https://developers.webflow.com/docs)**</span> are nice too 🙂
 
+<h3 id="section"></h3>
+
 <h4 id="slack-discord-communities">Slack/Discord Communities</h4>
 
-![image](/images/blog/in-product-feedback-bug-subimissions-14.webp)
+<figure><img src="/images/blog/in-product-feedback-bug-subimissions-17.webp" alt="" loading="lazy" /></figure>
 
 This has become a lot more popular and is an amazing way to create a low friction way for users to get involved with the community, ask questions, and submit feedback.
 
+<h3 id="section"></h3>
+
 <h4 id="social-media">Social media</h4>
 
-![image](/images/blog/in-product-feedback-bug-subimissions-15.webp)
+<figure><img src="/images/blog/in-product-feedback-bug-subimissions-18.webp" alt="" loading="lazy" /></figure>
 
 This one is probably one of the harder things to pull off. Most companies dream to have the kind of engaged community that companies like Notion have. It’s also much more common for developer tools to have an extremely engaged community. Some reasons being:
 
-- Devs understand the realm of possibilities, they are less hesitant to give feedback
-- They’re generally more technologically adept, so they know where and how to submit feedback
-- They understand the value of feedback
+<ul class="nlist"><li>Devs understand the realm of possibilities, they are less hesitant to give feedback</li><li>They’re generally more technologically adept, so they know where and how to submit feedback</li><li>They understand the value of feedback</li></ul>
 
 <div class="nb"></div>
 
@@ -93,7 +97,9 @@ These are all great, but it’s still weird how many massive SaaS tools don’t 
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
 
-<h3 id="contact-me">Contact Me</h3>
+<h3 id="section"></h3>
+
+<h3 id="contact-me"><strong>Contact Me</strong></h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 
