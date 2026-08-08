@@ -1,10 +1,9 @@
 ---
-title: "About me (circa 2020)"
+title: About me (circa 2020)
 date: 2025-11-02
-icon: "👶🏽"
+icon: 👶🏽
 cover: /images/blog/cover-about-me-circa-2020-0.webp
 ---
-
 <span class="tc-gray">This was originally a main page on my website, but it’s been 5 years since I created this, so I’ve decided to move it to my blog rather than regularly updating it.</span>
 
 <span class="tc-gray">Outside of the timeline, I wrote the entire thing in 2020 after graduating university. Enjoy :)</span>
@@ -37,7 +36,7 @@ At a basic level, I'm a huge advocate for general day to day use of tech, and ho
 
 Career wise, I'm highly interested in and always learning about product management, user research/experience, and customer experience. As much as I'm interested in **how** we build things, I'm more-so interested in **why** we build things.
 
-My long-term career plan is to be a part of the fit-tech industry and create products that help people take full control of their own physical health. If this excites you as well, <span class="tc-blue">**[send me an email](/cdn-cgi/l/email-protection#47627577342f263e26292a3d767507202a262e2b6924282a)**</span>, I'd love to have a chat.
+My long-term career plan is to be a part of the fit-tech industry and create products that help people take full control of their own physical health. If this excites you as well, <span class="tc-blue">**[send me an email](shayanmz12@gmail.com)**</span>, I'd love to have a chat.
 
 <h3 id="when-i-see-someone-doing-something-i-can-t-do-the-first-thing-i-always-think-is-i-could-do-that-if">When I see someone doing something I can&#x27;t do, the first thing I always think is &quot;I could do that if ___&quot;</h3>
 
