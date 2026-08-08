@@ -120,13 +120,12 @@ body {
   line-height: 1.5;
 }
 
-/* Paragraph rhythm. Every paragraph break gets the same generous gap, so
-   spacing is identical whether or not the Notion source happened to have a
-   blank block between paragraphs. 3px padding + 26px margin = the 32px
-   gap the roomier posts had. A line break *inside* a paragraph
-   (Shift+Enter in Notion) stays tight, which is the point. */
+/* Paragraph rhythm. Every paragraph break gets the same gap, so spacing is
+   identical whether or not the Notion source happened to have a blank
+   block between paragraphs. A line break *inside* a paragraph (Shift+Enter
+   in Notion) stays tight, which is the point. */
 .prose-site p {
-  margin: 0 0 26px;
+  margin: 0 0 13px;
   padding: 3px 2px;
 }
 
