@@ -2,6 +2,15 @@
 # Edit this site from a browser (including a phone) at https://app.pagescms.org.
 # Pages CMS commits straight to this repo; Cloudflare rebuilds on push.
 # There is no database: the markdown files here stay the source of truth.
+#
+# IMPORTANT — why post bodies are `code` and not `rich-text`:
+# The posts ported from Notion contain raw HTML that markdown can't express
+# (nested lists, toggles, callouts, tables, colour spans, and the heading
+# `id`s the table of contents links to). The rich-text editor round-trips
+# content through its own AST and DELETES all of it — one edit silently
+# strips a post's formatting and breaks its TOC. `code` preserves the file
+# byte-for-byte. Only `now/current.md` uses rich-text, because it is plain
+# markdown by design and carries no HTML.
 
 media:
   input: public/images
@@ -39,8 +48,10 @@ content:
         type: image
         description: Wide banner behind the post title, and the blog card image.
       - name: body
-        label: Body
-        type: rich-text
+        label: Body (markdown + HTML — edited raw, see note at top)
+        type: code
+        options:
+          language: markdown
 
   # ── Home: the live "what I'm up to" ───────────────────────────────
   - name: now
@@ -85,8 +96,10 @@ content:
           Optional. What happened since — shown in italics above this snapshot.
           e.g. "Hit the 90lb weighted pull-up for 5 ✅"
       - name: body
-        label: Body
-        type: rich-text
+        label: Body (markdown + HTML — edited raw, see note at top)
+        type: code
+        options:
+          language: markdown
 
   # ── Resume ────────────────────────────────────────────────────────
   - name: resume
@@ -112,8 +125,10 @@ content:
         type: string
         hidden: true
       - name: body
-        label: Body
-        type: rich-text
+        label: Body (markdown + HTML — edited raw, see note at top)
+        type: code
+        options:
+          language: markdown
 
 settings:
   content:
