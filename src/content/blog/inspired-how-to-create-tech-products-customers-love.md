@@ -5,7 +5,7 @@ icon: "📖"
 cover: /images/blog/cover-inspired-how-to-create-tech-products-customers-love-0.webp
 ---
 
-<details>
+<details class="tc-gray">
 <summary>Book Blurb</summary>
 
 **How do today's most successful tech companies—Amazon, Google, Facebook, Netflix, Tesla—design, develop, and deploy the products that have earned the love of literally billions of people around the world?**
@@ -26,9 +26,17 @@ The first edition of INSPIRED, published ten years ago, established itself as th
 
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-5-quotes">My Top 5 Quotes 🗣</a></div>
+</nav>
+
 ---
 
-## The Book in 3 Sentences
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 An important retrospective clarification: this is a **textbook** about Product Management, not a regular old book. There are so many ways one could go about summarizing this treasure chest of knowledge, so please don’t take this review as all encompassing. As with all textbooks, there are many “terminology/framework > definition > how to do it well” examples throughout the book, but for the purpose of this summary I chose not to focus on those streams of knowledge, and instead focused on what I found to be the 3 most generalizable and applicable topics that I believe would benefit any reader.
 
@@ -38,7 +46,7 @@ An important retrospective clarification: this is a **textbook** about Product M
 2. ‘Product/market fit’ was mentioned 36 times in this book, while ‘product-led growth’ (which is a more recent buzzterm) was not mentioned at all, but they are both used to explain a similar idea: everything depends on strong products. Without strong products, marketing programs require customer acquisition costs that are too high; the sales organization is forced to get “creative,” which drives up cost of sales, lengthens the sales cycle, and puts downward pressure on price; and the customer success organization is forced to take it on the chin every day with frustrated customers
 3. Most of what Marty speaks about in this book can be umbrella’d under the idea of creating the right product culture; he describes how great companies think, organize, and operate. Here’s a very detailed list of what separates good product teams vs. bad ones:
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 I take notes on all the books I read, but as I started putting this review together I realized that I had basically highlighted the entire book 😅  The amount of value compressed into this one book is ridiculous.
 
@@ -46,7 +54,7 @@ I am currently reading *Antifragile* by Nassim Taleb and highlighted his comment
 
 That being said, as someone who is not in a product role at the time of reading this, I did find that I lost my excitement to continue reading at times because of my lack of involvement in my organizations product development. Although I could directly apply a lot of these learnings in my role as a Customer Success Manager (mostly in product discovery), I was still slightly limited based on the scope of my role. I will definitely be coming back to my notes as a sort of manual or refresher when I become a Product Manager.
 
-## Who Should Read It❓
+<h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 For the purpose of this book, by ‘read’, it could just mean “go to the table of contents and go directly to the topic that you want to learn more about”.
 
@@ -55,7 +63,7 @@ For the purpose of this book, by ‘read’, it could just mean “go to the tab
 - If you are an an entrepreneur or building a company
 - If you read ‘Sprint’ and enjoyed it, or it helped you in your career - Marty stated that it is a “must read book for product managers” and that he highly recommends it
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -65,7 +73,7 @@ For the purpose of this book, by ‘read’, it could just mean “go to the tab
 - I have a better eye for catching a lack of consistency in my company’s output and product mission - which has helped me frame how I speak to users/customers
 - I’ve learned to limit the weight & validity I put on my opinions; data > opinions
 
-## My Top 5 Quotes 🗣
+<h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
 > “Life is too short for bad products”
 

@@ -8,6 +8,22 @@ cover: /images/blog/cover-my-2022-productivity-tech-stack-0.webp
 <details>
 <summary>Table of contents</summary>
 
+<nav class="toc">
+<div class="toc-item"><a href="#notion">Notion</a></div>
+<div class="toc-item"><a href="#slack">Slack</a></div>
+<div class="toc-item"><a href="#arc-from-the-browser-company">Arc (from The Browser Company)</a></div>
+<div class="toc-item"><a href="#newsfeed-eradicator-df-tube">Newsfeed Eradicator &amp; DF Tube</a></div>
+<div class="toc-item"><a href="#cleanshot-x">CleanShot X</a></div>
+<div class="toc-item"><a href="#super-so">Super.so</a></div>
+<div class="toc-item"><a href="#spectacle">Spectacle</a></div>
+<div class="toc-item"><a href="#readwise">Readwise</a></div>
+<div class="toc-item"><a href="#gsuite-cron">GSuite + Cron</a></div>
+<div class="toc-item"><a href="#amazon-kindle">Amazon Kindle</a></div>
+<div class="toc-item"><a href="#goodnotes">GoodNotes</a></div>
+<div class="toc-item"><a href="#notion-invoice">Notion Invoice</a></div>
+<div class="toc-item"><a href="#canva">Canva</a></div>
+</nav>
+
 </details>
 
 ---
@@ -22,7 +38,7 @@ This marks the first of my new annual tradition of outlining my tech stack that 
 
 In no particular order, let’s get right into it.
 
-#### Notion
+<h4 id="notion">Notion</h4>
 
 I’ve already started putting together an entire blog post dedicated to how I use Notion because it touches so many parts of my life, but as a general explanation, it’s my life documentation hub. I have my to-do board, calendar events, work dashboard/to-do board with all my daily notes and projects, notes from courses I’ve taken, book notes, product/project ideas, job application spreadsheet, my website, and so much more. It’s also an extremely powerful collaboration tool for small teams to large businesses. I’ve used it with teams I’ve done contract/consulting work with, and as you will see below, to send the associated invoices.
 
@@ -40,7 +56,7 @@ Oh, and the base product is entirely free! With some minor limitations of course
 
 <div class="nb"></div>
 
-#### Slack
+<h4 id="slack">Slack</h4>
 
 I’ve used Slack both in my full-time role and in contract work that I’ve done in the past year. It’s by far my favourite communications tool that I’ve ever used. Some of my favourite functionalities are reminders of certain messages, statuses and notification pausing, auto-transcribing of videos uploaded (a newish feature I think), and huddles. I haven’t really gotten in the weeds of their workflows and what those can do for me - I’m planning on playing around with them this year for some internal projects at work.
 
@@ -50,7 +66,7 @@ I don’t know what it is about Discord, but it feels so overwhelming to use. I 
 
 <div class="nb"></div>
 
-#### Arc (from The Browser Company)
+<h4 id="arc-from-the-browser-company">Arc (from The Browser Company)</h4>
 
 I spent the past 15 minutes trying to remember where I first came across Arc to give credit to whoever exposed me to it, but no luck, sorry stranger.
 
@@ -81,13 +97,13 @@ Some of my favourite functionalities are:
 
 - Boooooosts 😍  I honestly haven’t been able to create anything with this yet, but here’s a rundown of what Arc Boosts are capable of (this is just scratching the surface):
 
-#### Newsfeed Eradicator & DF Tube
+<h4 id="newsfeed-eradicator-df-tube">Newsfeed Eradicator &amp; DF Tube</h4>
 
 These have both been instrumental in minimizing distractions and keeping me focused. No more getting stuck in the black hole of endless scrolling and Youtube recommendation spirals. I go on each platform for a purpose, then get off. If I feel like scrolling through LinkedIn or something, you can very easily disable the news feed eradicator for a short amount of time. I can’t recommend these enough. Now, if only the same existed for my mobile apps 😪
 
 <div class="nb"></div>
 
-#### CleanShot X
+<h4 id="cleanshot-x">CleanShot X</h4>
 
 My go-to screenshot tool. I had historically been pretty comfortable with the built-in Mac screenshot capabilities, but CleanShot took those same functionalities to the next level with extremely simple yet beautiful UX. Think Loom + LiceCap + Greenshot + Mac Screenshots. I can’t ever go back.
 
@@ -101,7 +117,7 @@ There is one caveat: it’s only available for Macs.
 
 <div class="nb"></div>
 
-#### Super.so
+<h4 id="super-so">Super.so</h4>
 
 Super is how I created my website that you are on right now! It allows you to create websites directly from your Notion pages with a lot of simple design capabilities, SEO customization, and custom code snippets.
 
@@ -111,13 +127,13 @@ You can use it for free - you just won’t be able to set a custom domain, use c
 
 <div class="nb"></div>
 
-#### Spectacle
+<h4 id="spectacle">Spectacle</h4>
 
 My go-to window resizer. It’s not being maintained anymore, but the app does what I need it to do, so no biggie. I’m sure there is better out there, so when I come across something I’ll probably switch.
 
 <div class="nb"></div>
 
-#### Readwise
+<h4 id="readwise">Readwise</h4>
 
 Readwise takes my highlights from my Kindle books and exports each one to Notion. Its main use case was originally to take all your highlights from your different e-reading tools and send you daily emails for you to re-read and review your highlights from books so that you remember them. They have also recently built a pretty cool <span class="tc-blue">**[Reader app](https://readwise.io/read)**</span> that lets you bring in many types of content into one place to review and highlight, which I have yet to try.
 
@@ -129,7 +145,7 @@ I’ve probably saved over 10,000 hours in note-taking/transferring my highlight
 
 <div class="nb"></div>
 
-#### GSuite + Cron
+<h4 id="gsuite-cron">GSuite + Cron</h4>
 
 I’m a regular user of Gmail + Meet + Sheets + Calendar + Docs (~occasionally). In the last few months of 2022 I came across Cron, which is essentially just a calendar app built on top of Google Calendar. I currently mainly use it for: the desktop app providing some notification capabilities that GCal doesn’t, and the “Share Availability” functionality - which has removed the whole: “I’m available from 12:30pm-4:00pm on Monday, 9am-11:43am on Tuesday, and any time after 4 on Thursday and Friday” from my life.
 
@@ -149,7 +165,7 @@ You can just let me know or confirm here: [https://cron.com/shayanmemarzadeh/s6k
 
 <div class="nb"></div>
 
-<details>
+<details class="tc-gray">
 <summary>The link won’t work if you are reading this past those dates, so click here for a demo (it’s basically a Calendly style scheduling)</summary>
 
 ![image](https://assets.super.so/bfc2b9c0-db97-472b-ba36-1558d46ea02e/images/90451313-7e48-4f7d-a0c6-72e2fad4dcef/Untitled.gif?w=528)
@@ -158,7 +174,7 @@ You can just let me know or confirm here: [https://cron.com/shayanmemarzadeh/s6k
 
 <div class="nb"></div>
 
-#### Amazon Kindle
+<h4 id="amazon-kindle">Amazon Kindle</h4>
 
 Well, I like to read books, so my Kindle helps with that. Having a Kindle has helped me with a few things:
 
@@ -173,7 +189,7 @@ I recommend the <span class="tc-blue">**[Paperwhite](https://www.amazon.ca/Kindl
 
 <div class="nb"></div>
 
-#### GoodNotes
+<h4 id="goodnotes">GoodNotes</h4>
 
 GoodNotes is my favourite note-taking app for the iPad. I use it regularly to sign documents, take notes on courses and textbooks, and brainstorm ideas for blog posts and random mind-dumps.
 
@@ -183,13 +199,13 @@ I also have Notability, which has a couple features that GoodNotes doesn’t (at
 
 <div class="nb"></div>
 
-#### Notion Invoice
+<h4 id="notion-invoice">Notion Invoice</h4>
 
 Introduced to this by my good friend <span class="tc-blue">**[Xavier](https://www.linkedin.com/in/xavier-caffrey-157209175/)**</span>, it’s an extremely light-weight way to create professional PDF invoices for any contract work I do, directly from within Notion. It’s only a 2 person team, so don’t expect too much from it. It’s a simple tool and will probably remain that way. Which works for me.
 
 <div class="nb"></div>
 
-#### Canva
+<h4 id="canva">Canva</h4>
 
 The GOAT of design for non-designers. Whether you’re looking to create a resume, a banner background for LinkedIn, a poster for school, or a presentation for work, Canva’s got you. The range of products they’re continuing to build is ridiculous. You can even design and launch an entire website directly within Canva…
 

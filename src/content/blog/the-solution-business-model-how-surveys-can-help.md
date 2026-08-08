@@ -5,6 +5,12 @@ icon: "❓"
 cover: /images/blog/cover-the-solution-business-model-how-surveys-can-help-0.webp
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#article-a-solution-business-model">Article: A solution business model</a></div>
+<div class="toc-item"><a href="#a-quick-case-study-on-scoutible-to-address-my-next-point">A quick case study on Scoutible to address my next point</a></div>
+<div class="toc-item"><a href="#questionnaires-are-a-great-way-to-learn-more-about-your-customer">Questionnaires are a great way to learn more about your customer!</a></div>
+</nav>
+
 ---
 
 As I've continued to scower the web for new apps and products to test and incorporate into my daily workflow, I've come to a realization that although the (large) SaaS solutions industry is continuing to become more popular, I'm still having a hard time finding solutions/products that do a lot of things really well - understandably so. It's obviously extremely difficult to create a great product that does everything users need it to, that takes a lot of time and resources. This is why app integrations have become increasingly popular, because instead of having to build certain features into your own app, you can save development resources by simply opening up compatibility for other services to integrate within your own platform.
@@ -15,7 +21,7 @@ A quick personal example that I can give is Notion♥️, which demonstrates how
 
 Ever since the popularization of Web 2.0, the product landscape was able to shift from generalized products/services targeting larger segments to more unique and individualized solutions.  In this post, I'm making the case that the next evolution of product development will be back to generalized products/services with deeply personalized solutions for each unique customer. Products should adapt dynamically to each unique user and find a spot in their workflows for itself, rather than having users try themselves to determine where it fits.
 
-#### Article: A solution business model
+<h4 id="article-a-solution-business-model">Article: A solution business model</h4>
 
 I came across <span class="tc-blue">[this article](https://www.sciencedirect.com/science/article/pii/S0019850111000551?casa_token=J-1Uu03JCrAAAAAA:hTuxjYB8lWcQNQ1EA-0Rugz411vLZcIGalG5dqQz16z72b-jJ5YUz5yJDGykZYk7y8G7dBaH#!)</span> in my attempt to structure my thoughts through research, and it puts a framework to my idea: the solution business model framework. Although this article focuses a lot on addressing the organizational capabilities and management practices necessary for this business model to work, I found that the following excerpt was the most accurate in describing what the core framework is based on: “... individualized offers for complex customer problems that are interactively designed and whose components offer an integrative added value by combining products and/or services so that the value is more than the sum of the components”. This research focuses on ‘integrated solutions’, defined as longitudinal relational processes, during which a solution provider integrates goods, service and knowledge components into unique combinations that solve strategically important customer specific problems, and is compensated on the basis of the customer's value-in-use."
 
@@ -34,7 +40,7 @@ I've highlighted the 'solution configuration' and 'infrastructure support' phase
 
 <div class="nb"></div>
 
-#### A quick case study on Scoutible to address my next point
+<h4 id="a-quick-case-study-on-scoutible-to-address-my-next-point">A quick case study on Scoutible to address my next point</h4>
 
 I came across <span class="tc-blue">[this interview](https://www.youtube.com/watch?v=gwDFo2Ctthc)</span> on Bloomberg Technology's Youtube channel, where they interviewed Angela Antony, the CEO of Scoutible - an app that aims to address hiring's failures directly by using AI in an interactive gamified version of a psychometric test.
 
@@ -51,7 +57,7 @@ Think about what life would be like if we were told what career/job we would be 
 
 <div class="nb"></div>
 
-#### Questionnaires are a great way to learn more about your customer!
+<h4 id="questionnaires-are-a-great-way-to-learn-more-about-your-customer">Questionnaires are a great way to learn more about your customer!</h4>
 
 Since the nature of Scoutible's offering is slightly different from my product solution comments made earlier in my introduction, it's not a perfect example, but O'm aiming to get you think about how useful pre-solution questionnaires can be, even for product/service based companies.
 

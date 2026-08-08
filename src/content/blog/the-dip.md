@@ -5,9 +5,17 @@ icon: "📖"
 cover: /images/blog/cover-the-dip-0.webp
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-5-quotes">My Top 5 Quotes 🗣</a></div>
+</nav>
+
 ---
 
-<details>
+<details class="tc-gray">
 <summary>Book Blurb</summary>
 
 In this iconic bestseller, popular business blogger and bestselling author Seth Godin proves that winners are really just the best quitters. Godin shows that winners quit fast, quit often, and quit without guilt—until they commit to beating the right Dip.
@@ -22,13 +30,13 @@ Whether you’re an intern or a CEO, this fun little book will help you figure o
 
 ---
 
-## The Book in 3 Sentences
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 1. The majority of this book is essentially trying to give you every reason that you need to be a “successful quitter”. Quitting the wrong stuff (Cul-de-Sacs or dead ends) is one of the most important things you can do, because it frees up your time to focus on the right things. Just make sure to ask the right questions of yourself before making a decision. *(many of these are provided)*
 2. Everything in life that’s worth doing is controlled by *the Dip*. It’s what separates the average from the great. Being persistent through the times that are extremely difficult is exactly what creates the distinction between the top 1% and the rest. The best part…? You don’t have to be the best in the entire world, because the word *“world”* is flexible to whatever you are trying to achieve.
 3. Becoming #1 should be your top priority. The disproportionate rewards that the best players receive (Zipf’s law) are so dramatically undervalued. Stop trying to be a generalist. Getting through the Dip is the secret to success, so making sure you are “doing the right things” is how you will persevere”
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 <div class="nb"></div>
 
@@ -50,7 +58,7 @@ It’s important not to be a generalist/master of none as a result of you quitti
 
 I really enjoyed it. It was a really quick read too - I finished it in a couple hours.
 
-## Who Should Read It❓
+<h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 - Generalists. People who are decent at many things but don’t feel like they really belong or are really good in one. (me 🙋🏽 )
 - If you’re looking to decide what you want to spend the next chunk of your life working on.
@@ -59,7 +67,7 @@ I really enjoyed it. It was a really quick read too - I finished it in a couple 
 - Probably most entrepreneurs and business owners.
 - Athletes, as a resource to “not quit” and get past the Dip.
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -67,7 +75,7 @@ I really enjoyed it. It was a really quick read too - I finished it in a couple 
 - I’m much more open to *testing* things… If I lose my excitement very quickly or if I can’t see myself doing something long-term, I feel better quitting early.
 - I’m a really passionate dude. I want to work on things that are really cool or excite me. I’m allowing myself to believe that it IS possible to find a career that aligns with my passions. Even against the advice of Cal Newport.
 
-## My Top 5 Quotes 🗣
+<h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
 > “Realize that you have only two good choices: Quit or be exceptional. Average is for losers.”
 

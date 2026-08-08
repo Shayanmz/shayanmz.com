@@ -4,9 +4,9 @@ date: 2020-09-30
 icon: "🏋🏽"
 ---
 
-#### MVP (Minimum Viable Product)
+<h4 id="mvp-minimum-viable-product">MVP (Minimum Viable Product)</h4>
 
-#### MVP (Minimum Viable Phitness)
+<h4 id="mvp-minimum-viable-phitness">MVP (Minimum Viable Phitness)</h4>
 
 > "A version of a product with just enough features to satisfy early customers and provide feedback for future product development"
 
@@ -92,15 +92,15 @@ With the various fit-tech technologies being sold in the market today, I believe
 
 <div class="nb"></div>
 
-#### Tempo
+<h4 id="tempo">Tempo</h4>
 
 <div class="nb"></div>
 
-#### Mirror
+<h4 id="mirror">Mirror</h4>
 
 <div class="nb"></div>
 
-#### Tonal
+<h4 id="tonal">Tonal</h4>
 
 <div class="nb"></div>
 

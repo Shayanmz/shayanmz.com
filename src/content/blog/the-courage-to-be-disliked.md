@@ -5,19 +5,33 @@ icon: "📖"
 cover: /images/blog/cover-the-courage-to-be-disliked-0.webp
 ---
 
-## The Book in 3 Sentences
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-3-quotes">My Top 3 Quotes 🗣</a></div>
+<div class="toc-item"><a href="#raw-notes">Raw Notes ✍🏼</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#first-night-deny-trauma">First Night: Deny trauma</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#second-night-all-problems-are-interpersonal-relationship-problems">Second Night: All problems are interpersonal relationship problems</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#third-night-discard-other-people-s-tasks">Third Night: Discard other people&#x27;s tasks</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#fourth-night-where-the-center-of-the-world-is">Fourth Night: Where the center of the world is</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#fifth-night-to-live-in-the-earnest-in-the-here-and-now">Fifth Night: To live in the earnest in the here and now</a></div>
+</nav>
+
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 1. We should view our lives through the lens of Teleology (The study of the *purpose* of a given phenomenon, rather than it's cause), and not through Etiological thinking (determinism/causation).
 2. We need interpersonal relationships to live happy lives, but at the same time all our problems come from interpersonal relationships, so we need to learn how to separate our tasks and theirs (i.e what other people think about you is not your task, it’s theirs).
 3. To live in life harmony you have to: Stop comparing yourself to others, believe that others are your comrades (you want the best for each other), and understand that you are of use (important) to at least one person.
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 I usually find it challenging to consciously implement things that I learn from books into my daily life, however the authors Ichiro Kishimi & Fumitake Koga did an amazing job at simplifying the extremely complex topic of our desire to be happy.
 
 As an extremely competitive person, this book has proved to be very helpful in understanding the downsides associated with being competitive, and how I can internalize my drive to be better rather than comparing myself to others.
 
-### Who Should Read It❓
+<h3 id="who-should-read-it">Who Should Read It❓</h3>
 
 I would honestly recommend this to every person I know. It has both general and very specific steps to take to live a more fulfilling life.
 
@@ -25,7 +39,7 @@ More specifically, I believe that people who are currently dealing with any sort
 
 It's also a fairly quick read as the text is in dialogue format. I would recommend reading it in chunks so you can think about what you've read and how to apply it to your own life.
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -34,7 +48,7 @@ It's also a fairly quick read as the text is in dialogue format. I would recomme
 - I'm more laid back about things now, especially my interpersonal relationships
 - I think more about why I decide to do things - is it for myself or other people?
 
-## My Top 3 Quotes 🗣
+<h2 id="my-top-3-quotes">My Top 3 Quotes 🗣</h2>
 
 > "No experience is in itself a cause of our success or failure. We do not suffer from the shock of our experiences, but the meaning we give them is self-determining"
 
@@ -44,11 +58,11 @@ It's also a fairly quick read as the text is in dialogue format. I would recomme
 
 <div class="nb"></div>
 
-## Raw Notes ✍🏼
+<h2 id="raw-notes">Raw Notes ✍🏼</h2>
 
 <span class="tc-gray">(I will be removing my raw notes from my book summaries moving forward for the sake of not making the authors work superfluous)</span>
 
-### First Night: Deny trauma
+<h3 id="first-night-deny-trauma">First Night: Deny trauma</h3>
 
 - The world is simple and life is simple too. The world is not complicated, people make it complicated
 - None of us live in an objective world, but instead a subjective world that we ourselves have given meaning to. The world you see is different from the one I see, and it's impossible to share your world with anyone else
@@ -100,7 +114,7 @@ You can change your life right now
 
 <div class="nb"></div>
 
-### Second Night: All problems are interpersonal relationship problems
+<h3 id="second-night-all-problems-are-interpersonal-relationship-problems">Second Night: All problems are interpersonal relationship problems</h3>
 
 - People always think things like: "If I ______, then _____" to make it seem as if they achieve those wishes/goals, then life will be fine. But a lot of the time, their situations don't change at all
 - It's basically impossible to not et hurt in your relations with other people
@@ -181,7 +195,7 @@ The pursuit of superiority is the mind-set of taking a single step forward on on
 
 <div class="nb"></div>
 
-### Third Night: Discard other people's tasks
+<h3 id="third-night-discard-other-people-s-tasks">Third Night: Discard other people&#x27;s tasks</h3>
 
 - Adlerian psychology denies the need to seek recognition from others
 - It's dangerous to fall in the trap of reward-and-punishment education. If one does not receive recognition when they do something good, then they'll start thinking "why tf am I doing this then"
@@ -203,7 +217,7 @@ Separation of tasks
 
 <div class="nb"></div>
 
-### Fourth Night: Where the center of the world is
+<h3 id="fourth-night-where-the-center-of-the-world-is">Fourth Night: Where the center of the world is</h3>
 
 - "Individual" has the meaning "indivisible" → It is the smallest possible unit and cannot be broken down any further
 - The mind and body are viewed as one - tension in the mind can make one's arms and legs shake, or cause one's cheeks to turn red
@@ -223,7 +237,7 @@ Separation of tasks
 
 <div class="nb"></div>
 
-### Fifth Night: To live in the earnest in the here and now
+<h3 id="fifth-night-to-live-in-the-earnest-in-the-here-and-now">Fifth Night: To live in the earnest in the here and now</h3>
 
 <div class="nb"></div>
 

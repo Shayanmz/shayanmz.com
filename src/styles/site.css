@@ -245,18 +245,77 @@ body {
   padding: 0;
 }
 
+/* Notion toggle: ‣ trigger that rotates open, content indented (Super) */
 .prose-site details {
-  margin: 2px 0;
-  padding: 3px 2px;
+  margin: 1px 0;
 }
 
 .prose-site details summary {
   cursor: pointer;
-  padding: 3px 2px;
+  padding: 3px 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
 }
 
-.prose-site details[open] summary {
-  margin-bottom: 4px;
+.prose-site details summary::-webkit-details-marker {
+  display: none;
+}
+
+.prose-site details summary::before {
+  content: '‣';
+  font-size: 1.75rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 6px;
+  flex-shrink: 0;
+  border-radius: 2px;
+  transition: transform 250ms;
+}
+
+.prose-site details summary:hover::before {
+  background: var(--hover-bg);
+}
+
+.prose-site details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.prose-site details > *:not(summary) {
+  margin-inline-start: calc(1.5em + 4px);
+}
+
+/* Notion table of contents (Super: 0.875rem, gray underlined, row hover) */
+.toc {
+  margin: 4px 0;
+  padding: 5px 0;
+  font-size: 0.875rem;
+}
+
+.toc-item {
+  border-radius: 5px;
+  transition: background 120ms ease-in 0s;
+}
+
+.toc-item:hover {
+  background: var(--hover-bg);
+}
+
+.toc-item a {
+  display: block;
+  padding: 6px 2px;
+  color: #9b9b9b;
+  text-decoration: underline;
+  text-decoration-color: #9b9b9b;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* ── Blog index (Super gallery.large + Shy's custom hover CSS) ───── */

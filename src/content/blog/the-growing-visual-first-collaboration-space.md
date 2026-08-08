@@ -5,13 +5,25 @@ icon: "🧑🏽‍💻"
 cover: /images/blog/cover-the-growing-visual-first-collaboration-space-0.webp
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#personal-foreward">Personal Foreward</a></div>
+<div class="toc-item"><a href="#defining-collaboration-tools">Defining ‘Collaboration Tools’</a></div>
+<div class="toc-item"><a href="#how-do-we-store-our-ideas-anyway">How do we store our ideas, anyway?</a></div>
+<div class="toc-item"><a href="#expanding-the-scope-of-collaboration-with-infinite-canvases">Expanding the Scope of Collaboration with Infinite Canvases</a></div>
+<div class="toc-item"><a href="#the-nature-of-value">The Nature of Value</a></div>
+<div class="toc-item"><a href="#quantifying-subjective-experiences">Quantifying Subjective Experiences</a></div>
+<div class="toc-item"><a href="#you-don-t-have-to-quantify-everything">You don’t HAVE to quantify everything</a></div>
+<div class="toc-item"><a href="#wrapping-up-with-a-notion-case-study">Wrapping up with a Notion case study</a></div>
+<div class="toc-item"><a href="#contact-me">Contact Me</a></div>
+</nav>
+
 ---
 
 > 🥱 **TL;DR**I accepted an offer from <span class="tc-blue">[Bluescape](https://www.bluescape.com/)</span> as a CSMI believe that collaboration tools will eventually all converge into one global platform, where all cross-functional teams will work out ofAll software apps that we use are just glorified filing cabinets, and our brains love itDeeply integrated infinite canvas apps are disruptive to the collaboration space - they will become much more popular over the coming yearsCommunicating the value of collaboration tools is easy, quantifying it is hardAlthough quantifying value can really help, it’s not requiredThis <span class="tc-blue">**[Notion case study](https://foundationinc.co/lab/notion-strategy)**</span> demonstrates why it’s not
 
 ---
 
-### Personal Foreward
+<h3 id="personal-foreward">Personal Foreward</h3>
 
 It’s official! I am extremely excited to share that I have accepted an offer to work at Bluescape as a Customer Success Manager to help grow the adoption of their platform. Bluescape is a virtual collaboration platform that enables teams to work together in real time, from anywhere.
 
@@ -33,7 +45,7 @@ With that in mind, here are a few resources that are on my roadmap of learning t
 
 <div class="nb"></div>
 
-### Defining ‘Collaboration Tools’
+<h3 id="defining-collaboration-tools">Defining ‘Collaboration Tools’</h3>
 
 In a recent <span class="tc-blue">[blog post](/blog/what-we-can-learn-from-product-teams#block-bf4584ea8e434e0299a143c94941c494)</span> of mine, I explained that as companies continue to grow and expand their suite of tools, you tend to see them trying to become the one stop shop for most of a teams work. Because of this, it’s becoming increasingly difficult to ‘classify’ collaboration tools into their own little niches as the line continues to fade between their use cases.
 
@@ -54,7 +66,7 @@ The way I see it, the next natural iteration of collaboration growth is to bring
 
 <div class="nb"></div>
 
-### How do we store our ideas, anyway?
+<h3 id="how-do-we-store-our-ideas-anyway">How do we store our ideas, anyway?</h3>
 
 To start, I wanted to review what fundamental systems allowed for collaboration tools to take off in the first place. It just feels natural nowadays to document our work and ideas into different spaces, which we now refer to has ‘files’ or ‘folders’, but I hope that you all aren’t taking this system for granted, as this wasn’t always the case..
 
@@ -88,7 +100,7 @@ Although I wouldn’t be able to tell you how every app in the world structures 
 
 <div class="nb"></div>
 
-### Expanding the Scope of Collaboration with Infinite Canvases
+<h3 id="expanding-the-scope-of-collaboration-with-infinite-canvases">Expanding the Scope of Collaboration with Infinite Canvases</h3>
 
 Ok great, we have these amazing tools that create an extremely user friendly interface, with cloud based technologies that allow for real-time collaboration, now what? Well, I still can’t help but ask myself “what is the next iteration of this”?
 
@@ -132,7 +144,7 @@ Whether or not you agree that it is disruptive, or will be added to most collabo
 
 <div class="nb"></div>
 
-### The Nature of Value
+<h3 id="the-nature-of-value">The Nature of Value</h3>
 
 Something I’ve noticed over the years of trying to encourage my friends and family to use Notion and other tools to track their life and create better systems is that: a lot of the time they already have systems, and they work!
 
@@ -154,7 +166,7 @@ So, how do we quantify the above problems? Well, that’s the hard (and probably
 
 <div class="nb"></div>
 
-### Quantifying Subjective Experiences
+<h3 id="quantifying-subjective-experiences">Quantifying Subjective Experiences</h3>
 
 In preparation for my interviews with Bluescape, I came across their *Total Economic Impact Study* <span class="tc-gray">(you can get it</span> <span class="tc-blue">**[here](https://create.bluescape.com/evaluation-bluescape-total-economic-impact-2021)**</span><span class="tc-gray">)</span>, which was done by an independent research-based consulting firm, Forrester Consulting. I’m not going to summarize it here, but this study aimed to do exactly what I was mentioning above; giving tangible ROI metrics associated with the implementation and use of Bluescape’s platform. Here is a little snippet of one customer speaking to the benefit they saw in their sales cycles (I’ve gone ahead and highlighted the pieces that emphasize my earlier points about problems that collaboration tools aim to solve):
 
@@ -179,7 +191,7 @@ Honestly, I had a hard time coming up with these or any more metrics that could 
 
 <div class="nb"></div>
 
-### You don’t HAVE to quantify everything
+<h3 id="you-don-t-have-to-quantify-everything">You don’t HAVE to quantify everything</h3>
 
 You really don’t! As I mentioned in my foreward, *The Cold Start Problem* by Andrew Chen will be a great read to learn more about how the value of a platform is directly associated with the number of users that engage with it. Meaning, if you’ve done your research and created a really good product that has seen high levels of organic adoption, you probably won’t have to spend as much time, if at all, quantifying all the outcomes that users will see with it, because they already do.
 
@@ -189,7 +201,7 @@ As Marty Cagan put it in his book <span class="tc-blue">***[INSPIRED](https://ww
 
 <div class="nb"></div>
 
-### Wrapping up with a Notion case study
+<h3 id="wrapping-up-with-a-notion-case-study">Wrapping up with a Notion case study</h3>
 
 As I was writing this post, I came across this amazing article that ties a lot of my (slightly scattered) ideas together in a more focused analysis on Notion’s growth and success as a collaboration tool. More specifically, you’ll see that Notion exploded into a multi-billion dollar startup without posting any quantified results anywhere on it’s website.
 
@@ -209,7 +221,7 @@ That’s it from me - bye for now!
 
 <span class="tc-gray">Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.</span>
 
-### Contact Me
+<h3 id="contact-me">Contact Me</h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 

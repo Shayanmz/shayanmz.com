@@ -80,7 +80,7 @@ As I tried to answer their questions and muttered sad responses of wine suggesti
 
 <div class="nb"></div>
 
-#### Knowledge
+<h4 id="knowledge">Knowledge</h4>
 
 A simple way to think about the knowledge pillar is: you should, most of the time, know more than the customer and be very confident about your products & services. Customers come to you for your knowledge, your consultation, and your experience with the products & services you provide. The moment that they start to realize they know more than you and that you're hiding it, you will lose their trust. If you don't know an answer to something, don't fake it, transparency is key.
 
@@ -90,7 +90,7 @@ A simple way to think about the knowledge pillar is: you should, most of the tim
 
 <div class="nb"></div>
 
-#### Emotional Intelligence (EQ)
+<h4 id="emotional-intelligence-eq">Emotional Intelligence (EQ)</h4>
 
 Emotional intelligence is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, empathize with others, overcome challenges, and defuse conflict ([helpguide.org](https://www.helpguide.org/articles/mental-health/emotional-intelligence-eq.htm)). In a customer service setting, the empathy part is the most important. It's basically how you acknowledge and understand the emotions of the customer and yourself within an interaction to manage the outcome positively.
 
@@ -100,7 +100,7 @@ If a customer comes in frustrated, being a robot in your responses by reciting t
 
 <div class="nb"></div>
 
-#### Curiosity
+<h4 id="curiosity">Curiosity</h4>
 
 If you read any self-help books, this one will be obvious to you. Basically, the best way to learn about someone & their needs is to be genuinely curious. Here are some quotes that represent this idea well:
 
@@ -125,7 +125,7 @@ Oh, and you can’t fake curiosity either.
 
 <div class="nb"></div>
 
-#### Why do these pillars work?
+<h4 id="why-do-these-pillars-work">Why do these pillars work?</h4>
 
 They work to build trust with the customer. That's it. Trust.
 
@@ -145,7 +145,7 @@ Now go out and build trust, people.
 
 <span class="tc-gray">Thank you for making it this far! I’ll be testing less structured posts like this occasionally. Please give me feedback. Writing is hard.</span>
 
-### Contact Me
+<h3 id="contact-me">Contact Me</h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 

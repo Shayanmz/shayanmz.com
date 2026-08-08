@@ -14,7 +14,7 @@ active: home
 
 ---
 
-### Building shit in ops
+<h3 id="building-shit-in-ops">Building shit in ops</h3>
 
 <span class="tc-gray">I know I know, this is work related, but after having been a CSM for my entire 4 post-grad working years, I made a career transition back in December 2024 to the Ops side of the business as a GTM Engineer - it’s a big deal for me!</span>
 
@@ -22,7 +22,7 @@ active: home
 
 <span class="tc-gray">My current side quest: automate slide decks for customer success managers.</span>
 
-### Fitness
+<h3 id="fitness">Fitness</h3>
 
 After years of battling, I ***finally*** joined the 1000lb club with a 405 deadlift, 245 bench, and 355 squat (1005lbs) earlier this year! I used a strap on my left hand for the deadlift because of an injury, and I wasn’t super happy with the depth of my squat. I honestly won’t be fully satisfied until I hit the deadlift raw, and squat 365 ATG. The conquest continues…
 
@@ -36,7 +36,7 @@ After years of battling, I ***finally*** joined the 1000lb club with a 405 deadl
 
 <span class="tc-gray">Lastly, after getting absolutely bodied by the</span> <span class="tc-blue">**[Tromso midnight sun marathon](https://msm.no/midnight-sun-marathon/)**</span> <span class="tc-gray">this past June, I’ll definitely be going back in June 2027 (after my wedding) to run it again. I was aiming to run a sub 3:20 for my first marathon, but I failed to realize that it was a rolling course, which led to the worst cramps I’ve ever had in my life in both quads</span> <span class="tc-gray">**and**</span> <span class="tc-gray">both hamstrings at km 32. My pace up until km 32 was 4:50. Not bad. Not great. I’ll be back, Tromso.</span>
 
-### Learning Portuguese
+<h3 id="learning-portuguese">Learning Portuguese</h3>
 
 <span class="tc-gray">I’m now 3 months in my Portuguese journey to be fluent by my wedding in May 2026, and things are going pretty well.</span>
 

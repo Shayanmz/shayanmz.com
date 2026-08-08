@@ -5,9 +5,17 @@ icon: "📖"
 cover: /images/blog/cover-zero-to-one-0.webp
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-5-quotes">My Top 5 Quotes 🗣</a></div>
+</nav>
+
 ---
 
-<details>
+<details class="tc-gray">
 <summary>Book Blurb</summary>
 
 The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In *Zero to One*, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things.
@@ -22,7 +30,7 @@ Doing what someone else already knows how to do takes the world from 1 to n, add
 
 ---
 
-## The Book in 3 Sentences
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 1. In the world, there is horizontal progress and vertical progress. Horizontal progress is simply an extension of what we know today, basically copying things that work and making them marginally better, if at all. China is a good example of horizontal progress, i.e. globalization & large supply of cheap labour = mass efficiency on what we already know. Vertical progress, on the other hand, is new innovation that brings us to new horizons. This is what Peter refers to as going from Zero to One. Technology has been our means to vertical progress over the past ~century.
 2. Perfect competition is detrimental to business success; a monopoly is the only condition for a truly successful business. The problem with competition is that it sucks profits out of businesses, leading to low risk-taking, little innovation, and marginally better products over time. To continue innovating, we need businesses to escape deep competition. Achieving monopoly status can be done by having some sort of proprietary technology (10x better than the closest substitute is ideal), strong network effects, strong economies of scale, good branding, and answering the important questions below appropriately. 👇🏽
@@ -30,7 +38,7 @@ Doing what someone else already knows how to do takes the world from 1 to n, add
 
 <div class="nb"></div>
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 You gotta love a book that bashes the basics of Economics 101. If there's one thing I've learned from my time after university, it's that people love to make fun of traditional economic frameworks. With good reason, though; one of my professors in my later years opened my eyes to the possibility that 'perfect competition' might not be so 'perfect' after all. It really doesn't make sense in reality, i.e. it's not sustainable. These are the kind of thoughts I had while reading this book.
 
@@ -42,7 +50,7 @@ I really enjoyed how it combined the "Hustle hard, grind hard, you can achieve g
 
 I've always heard of Peter Thiel through podcasts, other books, or just randomly on social media, but never really knew much about him. He's definitely a great thinker of our generation, and I'll probably be doing a bit more research about him to see what he's up to and what his work/involvement with Palantir is.
 
-## Who Should Read It❓
+<h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 Generally, if you care about business, technology, and how to create value & make money in the tech world, then I’d recommend the book. Otherwise, here are some more specific people I recommend it to:
 
@@ -51,7 +59,7 @@ Generally, if you care about business, technology, and how to create value & mak
 - If you’re nervous about the future of AI… It’s funny how it’s almost been over 10 years since this book was written, and he called out that the future of AI is coming and how we can navigate around it.
 - Recruiters, HR leaders, or anyone interviewing new candidates for their business. The “Mechanics of Mafia” chapter will be useful.
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -60,7 +68,7 @@ Generally, if you care about business, technology, and how to create value & mak
 - I got some good frameworks to work with if I end up creating one of the many business ideas in my head...
 - Overall, I'd say I'm just inspired lately to be part of the future of technology. There are so many secrets yet to be discovered, and I'm not afraid to try and uncover them. I often have ideas that others have a hard time agreeing with, and I'm going to make sure I never stop building on those ideas.
 
-## My Top 5 Quotes 🗣
+<h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
 > "The most contrarian thing of all is not to oppose the crowd but to think for yourself."
 

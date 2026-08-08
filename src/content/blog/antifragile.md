@@ -5,9 +5,17 @@ icon: "📖"
 cover: /images/blog/cover-antifragile-0.webp
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-5-quotes">My Top 5 Quotes 🗣</a></div>
+</nav>
+
 ---
 
-<details>
+<details class="tc-gray">
 <summary>Book Blurb</summary>
 
 Nassim Nicholas Taleb, the bestselling author of *The Black Swan* and one of the foremost thinkers of our time, reveals how to thrive in an uncertain world.
@@ -26,13 +34,13 @@ Erudite, witty, and iconoclastic, Taleb’s message is revolutionary: The antifr
 
 ---
 
-## The Book in 3 Sentences
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 1. All things (and I mean **all** things) can be placed on the Fragile, Robust, or Antifragile continuum, which represents how a particular thing responds to randomness, in other words, external stressors. Fragility implies weakness to volatility, robustness implies strength against volatility, and antifragility implies a benefit from volatility.
 2. Thinking that we need to intervene in every possible way when we see something that scares us (which Taleb refers to as naive interventionism) is a problem. In fact, small dosages of stress are beneficial to the larger system if it is antifragile. An evident example of this is through hormesis - a biological process as a response to exposure of something in small, and possibly increasing amounts.
 3. By leveraging optionality (freedom of choice + more options) & the barbell strategy (don’t be in the middle, balance your extremes), you can position things to be robust to negative ‘black swans’, and welcoming to positive ones. A simple example Taleb gives is putting 90% of your investments in extremely safe assets, and the other 10% in highly risky but nonlinear payoff asset classes.
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 If you’re thinking “what the f*** did I just read” after my 3 sentence summary above, don’t worry, I totally expected that. It seems to just keep getting harder, but this book was by far the most difficult to summarize in just a few sentences while also having it make entire sense.
 
@@ -42,7 +50,7 @@ Unfortunately, I rarely found myself entirely encapsulated as it was injected wi
 
 As I write this summary, though, and as you will see in the sections below, I do find that the lessons are easily memorable and applicable. Out of all the books I can remember reading, this has been one that has really challenged me even months after finishing in thinking about how I can apply the lessons into my every day life - because they’re not necessarily as direct as “set a timer for maximum productivity”.
 
-## Who Should Read It❓
+<h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 - All government policy makers
 - Anyone in the financial industry, more specifically investment bankers/analysts
@@ -50,7 +58,7 @@ As I write this summary, though, and as you will see in the sections below, I do
 - If you’re not sensitive to someone else’s strong opinion about things
 - If you can handle a deep vocabulary want to hear an ex-academic roast modern academia🙃
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -62,7 +70,7 @@ As I write this summary, though, and as you will see in the sections below, I do
 - I learned a LOT of new words 😅
 - I’ve thought a lot about what things in my life that are antifragile, and where I can build redundancies. Here’s a quick Twitter thread I had with Mr. Taleb himself:
 
-## My Top 5 Quotes 🗣
+<h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
 > A man is honorable in proportion to the personal risks he takes for his opinion—in other words, the amount of downside he is exposed to
 

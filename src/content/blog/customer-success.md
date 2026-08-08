@@ -5,9 +5,17 @@ icon: "📖"
 cover: /images/blog/cover-customer-success-0.webp
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-5-quotes">My Top 5 Quotes 🗣</a></div>
+</nav>
+
 ---
 
-<details>
+<details class="tc-gray">
 <summary>Book Blurb</summary>
 
 Your business success is now forever linked to the success of your customers Customer Success is the groundbreaking guide to the exciting new model of customer management. Business relationships are fundamentally changing. In the world B.C. (Before Cloud), companies could focus totally on sales and marketing because customers were often 'stuck' after purchasing. Therefore, all of the 'post-sale' experience was a cost center in most companies. In the world A.B. (After Benioff), with granular per-year, per-month or per-use pricing models, cloud deployments and many competitive options, customers now have the power. As such, B2B vendors must deliver success for their clients to achieve success for their own businesses.
@@ -26,7 +34,7 @@ Customers want products that help them achieve their own business outcomes. By e
 
 ---
 
-## The Book in 3 Sentences
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 1. Customer Success was born through the bifurcation between Before Cloud and After Cloud. This shift has had a ripple effect on almost every aspect of the way that software companies work; mostly through the importance of the customer’s influence. This is because the way customers purchase software is very different and their associated lifetime value (LTV) is realized over time, not immediately, to the vendor.
 
@@ -35,7 +43,7 @@ The risk of switching is now owned almost exclusively by the software vendor. Cu
 1. “Acquiring customers is expensive. Really expensive. That makes keeping them a necessity, no matter how big your market might be”.
 2. Customer Success is a philosophy that should be embodied by your entire organization. EVERYONE must be customer obsessed. Additionally, every part of the organization should be equally committed to and **incentivized** by the success of your customers. This comes from a cross-functional agreement and buy-in from sales, product, data, marketing, and executives alike.
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 I found myself constantly saying “EXACTLY” in my head. There are so many passages from this book that I’ve already considered as a CSM myself, many of which I have been going crazy trying to advocate for. This book provided me with a wonderful structure to all of the thoughts that I have had over the past couple years - I’m actually glad I waited a little while before reading this, as it has allowed me to experience, without bias, the ups and downs of what it means to be in CS.
 
@@ -45,7 +53,7 @@ The book breaks down each of the 10 Laws of Customer Success by high touch, low 
 
 It wasn’t necessarily as much of a ‘textbook’ of Customer Success as *Inspired* by Marty Cagan was for Product Management; it was mostly focused on communicating the history, current state, and how to generally be successful running a CS focused organization. Still highly valuable across reader personas mentioned below though!
 
-## Who Should Read It❓
+<h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 It’s a must read for every & all CSMs and their managers. I’ve noticed through creeping through LinkedIn that many directors or managers of CSMs actually end up in that role even though they have never been a CSM. That’s not necessarily a bad thing, but as with every position, there are granularities to the day-to-day job that are important for the leader of a CSM team/department to understand. This book is an amazing outline of all the important things that a manager of CSMs should be actively thinking about every single day. The rest of the granularities can be surfaced by the CSMs themselves in team meetings & 1:1s.
 
@@ -53,7 +61,7 @@ I would also highly encourage any founder/C-suite at scaling companies (not just
 
 Product managers should also read this book. I’m a big believer that product managers and CSMs should understand each other’s workflows in great depth. In my opinion, CSMs are <span class="tc-blue">**[customer facing product managers](/blog/what-you-should-consider-when-selling-to-established-customers#e700037580b4481b9d48ee9773231aee:~:text=be%20that%20person.-,Customer%20facing%20product%20managers,-You%20must%20understand)**</span> and the more of a feedback loop that exists between CSMs and PM’s, the more successful the organization will be.
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -65,7 +73,7 @@ Because I’ve been in a CSM role for the past 2+ years, the way I think about C
 - Currently working on building other processes across the revenue organization: creating and maintaining referenceable contacts (through Salesforce), creating a more useful analytics dashboard with relevant KPIs, creating ROI estimates based on in-product activities, and establishing customer health metrics that we can consistently report on.
 - Lastly and probably most importantly:
 
-## My Top 5 Quotes 🗣
+<h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
 > “When done well, every single day is spent with a relentless focus on their success, not yours.”
 

@@ -4,6 +4,21 @@ date: 2021-11-04
 icon: "🤝"
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#enter-client-success-cs">Enter Client Success (CS)!</a></div>
+<div class="toc-item"><a href="#some-ideas-to-keep-in-mind-when-selling-to-existing-customers">Some ideas to keep in mind when selling to existing customers</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#leverage-reciprocity">Leverage reciprocity</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#no-means-maybe-later">No means &#x27;maybe later&#x27;</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#understand-that-your-priorities-their-priorities">Understand that your priorities ≠ their priorities</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#customer-facing-product-managers">Customer facing product managers</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#use-promotional-periods">Use promotional periods</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#use-your-people-map">Use your &#x27;people map&#x27;</a></div>
+<div class="toc-item" style="margin-inline-start:24px"><a href="#white-space-is-finite">&#x27;White space&#x27; is finite!</a></div>
+<div class="toc-item"><a href="#wrapping-up">Wrapping Up</a></div>
+<div class="toc-item"><a href="#sources">Sources</a></div>
+<div class="toc-item"><a href="#contact-me">Contact Me</a></div>
+</nav>
+
 ---
 
 "Depending on which study you believe, and what industry you’re in, acquiring a new customer is anywhere from five to 25 times more expensive than retaining an existing one". I am sure many of you have heard or read something like that before in discussions of customer acquisition vs. customer retention. Well, I took the above quote from a blog post written by Amy Gallo at Harvard Business Review back in October 29, 2014 - that is 7 years ago as of me starting this post.
@@ -22,7 +37,7 @@ Here is my immediate thought when reading through those ideas: Although every co
 
 <div class="nb"></div>
 
-### Enter Client Success (CS)!
+<h3 id="enter-client-success-cs">Enter Client Success (CS)!</h3>
 
 Hopefully you now have a shallow bit of knowledge on what decisions are happening at a higher level in organizations, before customers actually land in the lap of the client success team, you can understand the importance of customer experience & retention. Now, if you don't know what client success teams do, please jump over to google for a quick summary, or visit my good friend <span class="tc-blue">**[Edgar's blog](https://edgar-amaya.medium.com/)**</span> for some deeper insights on the work that CS teams do.
 
@@ -39,9 +54,9 @@ The comparison I am making is not to be confused with inbound vs. outbound sales
 
 <div class="nb"></div>
 
-### Some ideas to keep in mind when selling to existing customers
+<h3 id="some-ideas-to-keep-in-mind-when-selling-to-existing-customers">Some ideas to keep in mind when selling to existing customers</h3>
 
-#### Leverage reciprocity
+<h4 id="leverage-reciprocity">Leverage reciprocity</h4>
 
 The old give and take... This is one tactic that sales reps selling to outbound prospects do not get anything close to the same opportunity that CS teams have to leverage reciprocity. I don't think that this concept requires much explanation, but if you're interested in reading a little more on how deep reciprocity actually runs and how it can be used, I thoroughly enjoyed reading the book Influence: The Psychology of Persuasion by Robert B. Cialdini. In my recent role as a client success associate, I always kept the quotes below in mind when actively trying to leverage reciprocity:
 
@@ -51,17 +66,17 @@ The old give and take... This is one tactic that sales reps selling to outbound 
 
 The beauty of this, is that it is literally the job of the CS team to say yes as much as possible when customers have any sort of request, which creates a deep foundation of reciprocity waiting to be unleashed. You might find the wording "foundation of reciprocity" a bit strange, but hear me out and think about it this way: Every time you say 'yes', fulfill a customer request, or even answer an email, you have this meter that keeps growing. After a certain accumulation of completed tasks, your bar gets full, and you can then use that feeling of indebtedness that the customer has to time and make your pitch. As long as you are consistently providing value and supporting your customer in any sort of way, your reciprocity meter keeps growing, and you will always have this tool that outbound sales teams unfortunately do not.
 
-#### No means 'maybe later'
+<h4 id="no-means-maybe-later">No means &#x27;maybe later&#x27;</h4>
 
 This is my favourite, yet most simple idea: Even if they say no to your pitch, it's not a no forever! Even in my relatively short time period being part of a sales focused CS team, it happened many times that I pitched a certain functionality and got a hard no (for very valid reasons), only to get an email a couple months later asking for more information on it. You can ALWAYS take a 'no' and schedule follow ups based on the customer's response/sentiment at the time. This is another tool that outbound sales reps do not get to utilize nearly as much, as the work involved with keeping those communication channels open & consistent is much more difficult. As a CSM, your relationships with your customers are (hopefully) MUCH deeper than they were with the SDRs and those same customers, so by nature they should feel much more comfortable coming back to you with questions/follow ups.
 
-#### Understand that your priorities ≠ their priorities
+<h4 id="understand-that-your-priorities-their-priorities">Understand that your priorities ≠ their priorities</h4>
 
 When working with existing/established customers, understanding their current priorities are probably one of the most important things you can do when trying to make any upsells. Based on what they currently have going on, you can circle back and try and place it in their customer lifecycle appropriately. It should not matter if it is a personal initiative or a company wide initiative, the customers priorities always trump your priorities. As Edgar puts it: "... time with each customer is the most valuable resource you have", so don't waste it by pushing something that is not currently important for them!
 
 Hypothetically, let's say that after pitching a certain add-on, even to the perfect contacts, they are not extremely engaged and it is clear that there is not sense of urgency from their side, you can assume that they are just not looking for that solution at this time. As I stated earlier, your job here is to document everything you possibly can, and come back to it when the time is right - again, SDRs do NOT have it this way. As a CSM, if you always ask your customers to spend more, or market to them constantly, you are risking tainting the relationship you have worked so hard to build, so don't be that person.
 
-#### Customer facing product managers
+<h4 id="customer-facing-product-managers">Customer facing product managers</h4>
 
 You must understand that in a customer facing role in a SASS organization, every day you have the opportunity to do product discovery work that would otherwise fall on your product manager and their team! This is extremely valuable work that essentially guides the development of your organizations product suite, so don't take it lightly.
 
@@ -82,7 +97,7 @@ Not very useful, huh?
 
 </details>
 
-#### Use promotional periods
+<h4 id="use-promotional-periods">Use promotional periods</h4>
 
 I know I'm not the only one who does this, but I don't think I could even count the amount of times I have gotten a free trial for something and cancelled my subscription before I had to start paying. Fortunately for organizations with CS teams, part of their role is to get customers 'sticky' on these new features before the agreed upon date, so I would imagine that the success rate here vs. tools that I have finessed in my days would be much higher!
 
@@ -97,11 +112,11 @@ Regardless of the product, the implementation time, resources required, etc. Pro
 
 </details>
 
-#### Use your 'people map'
+<h4 id="use-your-people-map">Use your &#x27;people map&#x27;</h4>
 
 After having a few conversations with some SDRs, I came to realize how much harder it is for them to weave their way through and find the right contacts for certain items. Fortunately for CSM's, once you have build a rapport/relationship with your point of contact, it is much easier to request for some support on directing you to the appropriate contacts. The ability to grow your 'people map' over time is an invaluable resource that should not be taken lightly when it comes to selling.
 
-#### 'White space' is finite!
+<h4 id="white-space-is-finite">&#x27;White space&#x27; is finite!</h4>
 
 White space is the gap between what products or services your customer has invested in, and the other products or services that your company or business has to offer. As you could imagine, SDRs have an infinite pool of white space, since every single prospect they are reaching out to has not adopted any part of the product.
 
@@ -109,7 +124,7 @@ Established customers on the other hand, there is only so much that you could tr
 
 <div class="nb"></div>
 
-### Wrapping Up
+<h3 id="wrapping-up">Wrapping Up</h3>
 
 My above ideas are really just scratching the surface on the different variables at play when it comes to selling to existing customers vs. outbound prospects, and I am not attempting to take away from the breadth of work out there on sales and how complex it can actually be. I just wanted to shed some light on how different those two responsibilities are, and how they should each be treated as their own function of a business - you can't expectations to be consistent across both departments.
 
@@ -123,7 +138,7 @@ Thank you if you made it this far, and please don't hesitate to reach out - feed
 
 <div class="nb"></div>
 
-### Sources
+<h3 id="sources">Sources</h3>
 
 [Customer Acquisition vs. Retention (Infographic)](https://www.invespcro.com/blog/customer-acquisition-retention/)
 
@@ -145,7 +160,7 @@ Thank you if you made it this far, and please don't hesitate to reach out - feed
 
 <div class="nb"></div>
 
-### Contact Me
+<h3 id="contact-me">Contact Me</h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 

@@ -5,7 +5,7 @@ icon: "📖"
 cover: /images/blog/cover-winning-0.webp
 ---
 
-<details>
+<details class="tc-gray">
 <summary>I’m going to start inserting this toggle where you can click to read a copy & pasted version of the actual book ‘blurb’, as all the ideas and comments in my summaries are my own.</summary>
 
 **From the elite performance coach who authored the international bestseller** ***Relentless*** **and whose clients have included Michael Jordan, Kobe Bryant, and Dwyane Wade, comes this brutally honest formula for winning in business, sports, or any arena where the battle is fiercely unforgiving.**
@@ -22,15 +22,23 @@ If you’re addicted to the taste of success and crave more, then you’re ready
 
 ---
 
+<nav class="toc">
+<div class="toc-item"><a href="#the-book-in-3-sentences">The Book in 3 Sentences</a></div>
+<div class="toc-item"><a href="#impressions">Impressions 🤔</a></div>
+<div class="toc-item"><a href="#who-should-read-it">Who Should Read It❓</a></div>
+<div class="toc-item"><a href="#how-the-book-changed-me">How the Book Changed Me 💯</a></div>
+<div class="toc-item"><a href="#my-top-5-quotes">My Top 5 Quotes 🗣</a></div>
+</nav>
+
 ---
 
-## The Book in 3 Sentences
+<h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 1. **Winning IS NOT:** Glorious, Euphoric, Success, Domination, Achievement, Power, Satisfaction, Triumph, Awesome, Amazing. **Winning IS** Uncivilized, Hard, Nasty, Unpolished, Dirty, Rough, Unforgiving, Unapologetic, Uninhibited.
 2. Winning is not a spectrum, you either win or you lose, and when you do win, you get thrown right back to the beginning and have to do it all over again with even more obsession than the first time.
 3. By referring to characteristics of individuals like Michael Jordan, Kobe Bryant, and others, along with the personal details Tim shares, he creates a Winning persona as someone who: flexes their IDGAF muscle often, is extremely confident in themselves, is ok with being called selfish and not being liked, understands the importance of knowledge, is comfortable with loneliness, can control their mind, can control the uncontrollable, is addicted to results, has mastered focus, has fear but never doubts, holds themself accountable, and what I personally think is the most important for Winning: has a dark side.
 
-## Impressions 🤔
+<h2 id="impressions">Impressions 🤔</h2>
 
 After reading the above summary sentences, you might be thinking “Well then, this book sounds toxic”, but you must understand that Tim is giving you a description of what Winning is, based on the lives of the grossly successful people he has worked with; he is not describing what YOU have to become.
 
@@ -44,7 +52,7 @@ There are several parts throughout the book where he very clearly emphasizes tha
 
 All in all, I liked Tim’s take on the topic of Winning and I came into it excited to dig deeper into the brains of some of the greats like MJ and Kobe. Whether you choose to take these ideas and apply them to your life, is entirely up to you.
 
-## Who Should Read It❓
+<h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 This book is a bit harder to generally recommend to certain people because of Tim’s strong take on his ideas and I think it really depends on where you are in your life and what you want to achieve in this world. He even states in the book that if you’re reading it to get some extra motivation or a little push, then this isn’t the book for you. It’s not some guide or framework that will help you achieve some abstract goal of Winning.
 
@@ -65,7 +73,7 @@ So, with that in mind, I would recommend this book to the following people:
 
 </details>
 
-## How the Book Changed Me 💯
+<h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 > 💡 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
@@ -75,7 +83,7 @@ So, with that in mind, I would recommend this book to the following people:
 - I think about this idea a lot: Tim doesn’t like the line “It’s a marathon, it’s not a sprint” and associates it with procrastination and lack of focus, which I definitely thought was a bit aggressive, but he then conceptualized it by saying if you look at an elite marathon runner and take their average pace, it would be just about/almost the sprinting speed of most people. *Meaning, elite marathon runners are essentially sprinting throughout the entire marathon.*
 - I’m more comfortable with fear and more aware of doubt. I have thought about his 3 questions when I am doubtful of something:
 
-## My Top 5 Quotes 🗣
+<h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
 > “The reality of competitions is this: To achieve at the highest level, you have to crave the end result so completely that nothing else matters”
 

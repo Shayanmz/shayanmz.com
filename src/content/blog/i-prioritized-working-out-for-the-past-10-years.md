@@ -39,7 +39,7 @@ Some lessons are focused on my story above, but most are specific to my weightli
 
 ---
 
-### Sleep and rest is #1
+<h3 id="sleep-and-rest-is-1">Sleep and rest is #1</h3>
 
 I was convinced that if I had a choice between working out and getting good quality sleep, I should chose the gym 100% of the time.
 
@@ -51,7 +51,7 @@ It’s amazing to see sleep being highly emphasized on social media nowadays - i
 
 <div class="nb"></div>
 
-### “Don’t miss twice”
+<h3 id="don-t-miss-twice">“Don’t miss twice”</h3>
 
 I don’t even remember where I heard this anymore, but I’ve been using this for years.
 
@@ -61,7 +61,7 @@ This ties into 👇🏽
 
 <div class="nb"></div>
 
-### Missing 1 workout isn’t the end of the world
+<h3 id="missing-1-workout-isn-t-the-end-of-the-world">Missing 1 workout isn’t the end of the world</h3>
 
 Believe it or not, I needed to hear this earlier on in my lifting journey.
 
@@ -71,7 +71,7 @@ Your strength and/or physique will be fine too, btw.
 
 <div class="nb"></div>
 
-### Prioritize what matters most
+<h3 id="prioritize-what-matters-most">Prioritize what matters most</h3>
 
 This one sounds obvious too, but clearly I didn’t follow this.
 
@@ -83,7 +83,7 @@ The repercussions I had to face by chosing to go to the gym over things like: st
 
 <div class="nb"></div>
 
-### Some types of training drains you more than others
+<h3 id="some-types-of-training-drains-you-more-than-others">Some types of training drains you more than others</h3>
 
 I’ve been working out in the morning for most of my career and I’ve noticed that when I have an intense strength session before my work day or a study session, I’m actually less productive.
 
@@ -99,7 +99,7 @@ This obviously depends on what your modifiable variables look like, but keep thi
 
 ---
 
-### Consistency is only one part of the puzzle
+<h3 id="consistency-is-only-one-part-of-the-puzzle">Consistency is only one part of the puzzle</h3>
 
 <div class="nb"></div>
 
@@ -113,7 +113,7 @@ You could be working out for 10 years but still look and feel like a blob - this
 
 <div class="nb"></div>
 
-### Weightlifting is a skill
+<h3 id="weightlifting-is-a-skill">Weightlifting is a skill</h3>
 
 Yes, there are some people out there who are just freaks of nature and can lift very heavy things or do crazy athletic feats with seemingly very little effort.
 
@@ -127,7 +127,7 @@ If you want to get better at a specific movement, just do more of it.
 
 <div class="nb"></div>
 
-### Record yourself lift
+<h3 id="record-yourself-lift">Record yourself lift</h3>
 
 In similar vain as 👆🏽, recording yourself is a great way to catch movement inefficiencies and fix your technique.
 
@@ -135,7 +135,7 @@ Plus, you’ll have a bunch of cool lifting videos over the years.
 
 <div class="nb"></div>
 
-### Lift heavy things
+<h3 id="lift-heavy-things">Lift heavy things</h3>
 
 With the right technique, lifting heavy provides tremendous benefits to your body (not just bro-science).
 
@@ -145,7 +145,7 @@ This is where you grow.
 
 <div class="nb"></div>
 
-### Eat more protein
+<h3 id="eat-more-protein">Eat more protein</h3>
 
 I used to think that I ate more than enough protein, but for many goals in the gym and as an athlete, your protein intake needs to be high.
 
@@ -155,7 +155,7 @@ I noticed immediate differences once I bumped up my protein intake.
 
 <div class="nb"></div>
 
-### Eat healthy
+<h3 id="eat-healthy">Eat healthy</h3>
 
 Nutrition is a whole can of worms, but to keep this one simple, just eat your veggies & fruits, get your protein, and don’t eat too much processed junk.
 
@@ -163,7 +163,7 @@ If someone tries to tell you kale is bad for you, turn around and walk away.
 
 <div class="nb"></div>
 
-### Listen to your body & trust your instincts
+<h3 id="listen-to-your-body-trust-your-instincts">Listen to your body &amp; trust your instincts</h3>
 
 If something feels off, it’s because it probably is.
 
@@ -175,7 +175,7 @@ You know what feels normal and what doesn’t.
 
 <div class="nb"></div>
 
-### Injuries are a part of the journey
+<h3 id="injuries-are-a-part-of-the-journey">Injuries are a part of the journey</h3>
 
 I’m not saying it’s normal to get **regularly** injured, I’m just saying you could be doing everything right and still get injured.
 
@@ -189,7 +189,7 @@ But if you practice, make sure you move well, and progress gradually, you should
 
 <div class="nb"></div>
 
-### Injury-prone ≠ Injury-predisposed
+<h3 id="injury-prone-injury-predisposed">Injury-prone ≠ Injury-predisposed</h3>
 
 Heard this from <span class="tc-blue">**[Eric Cressey](https://ericcressey.com/)**</span> on a podcast recently.
 
@@ -203,7 +203,7 @@ You can still do it, but you’ll need a much more thoughtful process to get the
 
 <div class="nb"></div>
 
-### You don’t have to destroy yourself every workout
+<h3 id="you-don-t-have-to-destroy-yourself-every-workout">You don’t have to destroy yourself every workout</h3>
 
 If you’re having an off day, it’s ok to scale your workout back a little.
 
@@ -211,7 +211,7 @@ In the long run, it will save you from stupid injuries.
 
 <div class="nb"></div>
 
-### Educate yourself
+<h3 id="educate-yourself">Educate yourself</h3>
 
 Weightlifting is very easy to get into with a low barrier to entry and because of this, people think that you can just get in and pick it up quickly.
 
@@ -227,7 +227,7 @@ Or you could just hire a good trainer that would help with all this.
 
 <div class="nb"></div>
 
-### Don’t workout without a plan
+<h3 id="don-t-workout-without-a-plan">Don’t workout without a plan</h3>
 
 Whether you buy an app, a digital workout program, or an actual coach that helps you with your goals and programming, just make sure you have **something**.
 
@@ -235,7 +235,7 @@ You’ll waste a lot of time and effort with minimal results without a good plan
 
 <div class="nb"></div>
 
-### When you first get started, anything works
+<h3 id="when-you-first-get-started-anything-works">When you first get started, anything works</h3>
 
 When you first start working out, it matters WAY less what you do - you’ll see results either way.
 
@@ -247,7 +247,7 @@ Just eat good, rest well, and push yourself with good form.
 
 <div class="nb"></div>
 
-### There are 7 modifiable variables you can tweak in your programs
+<h3 id="there-are-7-modifiable-variables-you-can-tweak-in-your-programs">There are 7 modifiable variables you can tweak in your programs</h3>
 
 1. Exercise choice
 2. Exercise order
@@ -259,7 +259,7 @@ Just eat good, rest well, and push yourself with good form.
 
 <div class="nb"></div>
 
-### There are 9 adaptations you can work on
+<h3 id="there-are-9-adaptations-you-can-work-on">There are 9 adaptations you can work on</h3>
 
 1. Skill
 2. Speed
@@ -273,7 +273,7 @@ Just eat good, rest well, and push yourself with good form.
 
 You can’t specialize in all of them, so figure out which ones are a part of your goals and work towards them.
 
-### You can’t do it all
+<h3 id="you-can-t-do-it-all">You can’t do it all</h3>
 
 Let me repeate this one.
 
@@ -285,7 +285,7 @@ Use Mesocycle & Macrocycle training blocks if you’re training for something sp
 
 <div class="nb"></div>
 
-### Over the long-term, add exercise variation
+<h3 id="over-the-long-term-add-exercise-variation">Over the long-term, add exercise variation</h3>
 
 Unless you’re regularly specializing in something like powerlifting, over the long-term make sure to add exercise variation.
 
@@ -297,7 +297,7 @@ Over-specifying for long periods of time is generally not ideal for moving well.
 
 <div class="nb"></div>
 
-### Don’t follow too many fitness social media accounts at once
+<h3 id="don-t-follow-too-many-fitness-social-media-accounts-at-once">Don’t follow too many fitness social media accounts at once</h3>
 
 It depends what you’re interested in learning about, but don’t get caught up following so many different styles of fitness that you get confused as to what you should be doing.
 
@@ -307,7 +307,7 @@ If you want to get into gymnastics, find a few good gymnastic accounts.
 
 <div class="nb"></div>
 
-### Most people are roided up
+<h3 id="most-people-are-roided-up">Most people are roided up</h3>
 
 Understand that most of the really (and I mean REALLY) jacked famous influencers either:
 
@@ -322,7 +322,7 @@ Compare yourself to your past self.
 
 <div class="nb"></div>
 
-### Don’t ever base your schedule around someone else’s plans
+<h3 id="don-t-ever-base-your-schedule-around-someone-else-s-plans">Don’t ever base your schedule around someone else’s plans</h3>
 
 If you really want it, they are never as serious as you.
 
@@ -356,7 +356,7 @@ If you want to ask me any questions or tell me why I’m wrong, feel free to rea
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
 
-### Contact Me
+<h3 id="contact-me">Contact Me</h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 

@@ -22,15 +22,15 @@ active: resume
 
 ---
 
-## 🧑🏽‍💻 Work Experience
+<h2 id="work-experience">🧑🏽‍💻 Work Experience</h2>
 
-### GTM Engineer
+<h3 id="gtm-engineer">GTM Engineer</h3>
 
 <span class="tc-blue">***[Gorgias](https://www.gorgias.com/)***</span><span class="tc-gray">*, Toronto, Canada – (Dec 2024 - Present)*</span>
 
 Currently focused on RevOps for our CX & sales teams
 
-### Customer Success Manager (Bilingual)
+<h3 id="customer-success-manager-bilingual">Customer Success Manager (Bilingual)</h3>
 
 <span class="tc-blue">***[Gorgias](https://www.gorgias.com/)***</span><span class="tc-gray">*, Toronto, Canada – (Dec 2023 - Dec 2024)*</span>
 
@@ -43,7 +43,7 @@ Currently focused on RevOps for our CX & sales teams
 
 <div class="nb"></div>
 
-### Customer Success Manager
+<h3 id="customer-success-manager">Customer Success Manager</h3>
 
 <span class="tc-blue">***[Bluescape](https://www.bluescape.com/)***</span><span class="tc-gray">*, Remote, Canada – (Jan 2022 - Dec 2023)*</span>
 
@@ -55,7 +55,7 @@ Currently focused on RevOps for our CX & sales teams
 - Formalized customer GTM strategies through A/B testing of activation campaigns, outbound strategies, and ICP development
 - Standardized processes for the CS department through template building, best practices, and shared learnings
 
-### Senior Client Success Associate
+<h3 id="senior-client-success-associate">Senior Client Success Associate</h3>
 
 <span class="tc-blue">***[Phreesia](https://www.phreesia.com/)***</span><span class="tc-gray">*, Remote, Canada – (Oct 2020 - Oct 2021)*</span>
 
@@ -67,15 +67,15 @@ Currently focused on RevOps for our CX & sales teams
 - Managed several large scale project implementations at once, impacting thousands of front line healthcare workers
 - Acted as a 'Pod/Team Lead' by supporting a team of four CSA's through leadership asks & market-wide initiatives
 
-### Product Specialist
+<h3 id="product-specialist">Product Specialist</h3>
 
 <span class="tc-blue">***[Apple Store](https://www.apple.com/ca/retail/conestoga/)***</span> <span class="tc-gray">*(Conestoga Mall), Waterloo, ON  – (Sept 2019 - Nov 2020)*</span>
 
-### Sales Associate
+<h3 id="sales-associate">Sales Associate</h3>
 
 <span class="tc-blue">**[American Eagle](https://storelocations.ae.com/ca/on/waterloo/00903-550-king-street-north.html)**</span> <span class="tc-gray">*(Conestoga Mall), Waterloo, ON  – (Sept 2018 - Sept 2019)*</span>
 
-### QA Analyst
+<h3 id="qa-analyst">QA Analyst</h3>
 
 <span class="tc-blue">***[Kik Interactive](https://www.kik.com/)***</span><span class="tc-gray">*, Kitchener, ON – (May 2019 - Aug 2019)*</span>
 
@@ -85,7 +85,7 @@ Currently focused on RevOps for our CX & sales teams
 - Created the product spec for the 'Meet New People' feature, and translated it into epics and user stories to be tracked in JIRA
 - Performed verification on several releases of the iOS version of the Kik app
 
-### Business Systems Project Manager
+<h3 id="business-systems-project-manager">Business Systems Project Manager</h3>
 
 <span class="tc-blue">***[PWO Canada](https://www.progress-werk.de/en/)***</span><span class="tc-gray">*, Kitchener, ON – (Jan 2019 - Apr 2019)*</span>
 
@@ -95,20 +95,20 @@ Currently focused on RevOps for our CX & sales teams
 - Supported personnel from various departments in creating and maintaining master data in SAP
 - Provided IT solutions and troubleshooting services to all departments
 
-### Team Coordinator
+<h3 id="team-coordinator">Team Coordinator</h3>
 
 <span class="tc-blue">***[Care Partners](https://www.carepartners.ca/)***</span><span class="tc-gray">,</span> <span class="tc-gray">*Waterloo, ON*</span> <span class="tc-gray">*– (May 2018 - Sept 2018)*</span>
 
 - Produced schedules and comprehensive reports for entire region of care
 - Regularly communicated with patients, PSW's, funders, and various CHS departments to ensure patient health & wellbeing standards
 
-### Cook / Front of House
+<h3 id="cook-front-of-house">Cook / Front of House</h3>
 
 <span class="tc-gray">***Thrive Kitchen, Kitchener***</span><span class="tc-gray">*, ON*</span> <span class="tc-gray">*– (March 2018 - April 2018)*</span>
 
 Small stint in a vegan restaurant until they shutdown
 
-### Business Analyst
+<h3 id="business-analyst">Business Analyst</h3>
 
 <span class="tc-blue">***[Scotiabank](https://www.scotiabank.com/ca/en/personal.html)***</span><span class="tc-gray">*, Toronto, ON – (Sept 2017 - Dec 2017)*</span>
 
@@ -116,7 +116,7 @@ Small stint in a vegan restaurant until they shutdown
 - Created several functional and non-functional requirement documents for new development initiatives
 - Provided support and knowledge of requirements to QA and development teams during building and test cycle phases of new implementations
 
-### QA Technician
+<h3 id="qa-technician">QA Technician</h3>
 
 <span class="tc-blue">***[Farm Business Consultants](https://fbc.ca/)***</span> <span class="tc-gray">***(FBC)***</span><span class="tc-gray">*, London, ON – (Jan 2017 - May 2017)*</span>
 
@@ -127,41 +127,41 @@ Small stint in a vegan restaurant until they shutdown
 
 ---
 
-## Professional Skills
+<h2 id="professional-skills">Professional Skills</h2>
 
-#### Data & Programming
+<h4 id="data-programming">Data &amp; Programming</h4>
 
 BigQuery, dbt, Omni, Hightouch, Tableau, Python, SQL, HTML, CSS
 
-#### CRM & GTM
+<h4 id="crm-gtm">CRM &amp; GTM</h4>
 
 HubSpot, Vitally, Salesforce, Notion, Zapier/n8n/Cargo, Retool, Promptlayer
 
-#### Other Skills
+<h4 id="other-skills">Other Skills</h4>
 
 Sales, Customer Service, Consulting, Training & Coaching, Communications, Leadership, Copywriting, Market Research, Data Analysis
 
-#### Certifications
+<h4 id="certifications">Certifications</h4>
 
 Certified Associate Project Manager (<span class="tc-blue">**[CAPM](https://www.pmi.org/certifications/certified-associate-capm)**</span>), <span class="tc-blue">**[Brainstation](https://brainstation.io/)**</span> Product Management Certification, <span class="tc-blue">**[Designlab](https://designlab.com/)**</span> UX Academy Foundations, <span class="tc-blue">**[Notion Essentials](/3dc79ca1aae24f9a81e7a1e2ab74f5de)**</span> Certification, <span class="tc-blue">**[Pre-Script L1](https://www.pre-script.com/)**</span> (Personal Training), Functional Patterns
 
 ---
 
-### Languages
+<h3 id="languages">Languages</h3>
 
-#### English 🇨🇦
+<h4 id="english">English 🇨🇦</h4>
 
 Native speaker
 
-#### French 🇫🇷
+<h4 id="french">French 🇫🇷</h4>
 
 Bilingual/Native speaker
 
-#### Farsi 🇮🇷
+<h4 id="farsi">Farsi 🇮🇷</h4>
 
 Basic/conversational speaker
 
-#### Portuguese 🇧🇷
+<h4 id="portuguese">Portuguese 🇧🇷</h4>
 
 Basic/conversational speaker
 
@@ -169,7 +169,7 @@ Basic/conversational speaker
 
 ---
 
-## 📅 What do I do in a day?
+<h2 id="what-do-i-do-in-a-day">📅 What do I do in a day?</h2>
 
 - Sports & weightlifting
 - Read books (psychology, productivity, business, health)
@@ -180,9 +180,9 @@ Basic/conversational speaker
 
 ---
 
-## 📚 Education
+<h2 id="education">📚 Education</h2>
 
-### Bachelors of Honours Economics & Business
+<h3 id="bachelors-of-honours-economics-business">Bachelors of Honours Economics &amp; Business</h3>
 
 <span class="tc-gray">*University of Waterloo, 2015 - 2020*</span>
 

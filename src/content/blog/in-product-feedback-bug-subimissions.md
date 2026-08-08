@@ -55,19 +55,19 @@ That all being said, simply implementing this functionality won’t in and of it
 
 This suggestion I’m making is not all encompasing; providing other avenues for users to provide feedback is also great, like public documentation/community pages, Slack/Discord communities, and through social media.
 
-#### Public Documentation
+<h4 id="public-documentation">Public Documentation</h4>
 
 ![image](/images/blog/in-product-feedback-bug-subimissions-9.webp)
 
 I’ve always found that API & Developer documentation has been extremely easy to navigate and understand. I feel like the gold standard is <span class="tc-blue">**[Mozilla’s MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)**</span>. Another company that has a variety of different resource options is Webflow, their <span class="tc-blue">**[developer docs](https://developers.webflow.com/docs)**</span> are nice too 🙂
 
-#### Slack/Discord Communities
+<h4 id="slack-discord-communities">Slack/Discord Communities</h4>
 
 ![image](/images/blog/in-product-feedback-bug-subimissions-10.webp)
 
 This has become a lot more popular and is an amazing way to create a low friction way for users to get involved with the community, ask questions, and submit feedback.
 
-#### Social media
+<h4 id="social-media">Social media</h4>
 
 ![image](/images/blog/in-product-feedback-bug-subimissions-11.webp)
 
@@ -89,7 +89,7 @@ These are all great, but it’s still weird how many massive SaaS tools don’t 
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
 
-### Contact Me
+<h3 id="contact-me">Contact Me</h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 
