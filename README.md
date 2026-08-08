@@ -80,6 +80,19 @@ Use the `good-ux-add` skill (shyOS), or by hand:
 node scripts/add-item.mjs --name "..." --company "..." --description "..." --media <file>
 ```
 
+## Editing in a browser (Pages CMS)
+
+[`.pages.yml`](.pages.yml) configures [Pages CMS](https://pagescms.org), so the
+site can be edited from a browser — phone included — at
+[app.pagescms.org](https://app.pagescms.org). Sign in with GitHub, grant access
+to this repo, and it exposes four things to edit: blog posts, the home page,
+the home-page archive, and the resume. It commits straight to `main`; Cloudflare
+rebuilds on push. No database — the markdown here stays the source of truth.
+
+Images uploaded through the CMS land in `public/images` and are referenced as
+`/images/...`. They are *not* auto-compressed, so run anything large through
+`scripts/compress-asset.sh` when adding it from a laptop.
+
 ## Dev
 
 ```bash

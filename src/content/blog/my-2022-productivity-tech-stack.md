@@ -43,7 +43,7 @@ There are so many people building interesting products on top of Notion because 
 
 <div class="nb"></div>
 
-I recently got my Notion Essentials Certification and am working towards becoming a <span class="tc-blue">**[Certified Consultant](/344175b8ebfe48fda4edf557826241d0)**</span> - so if you or anyone you know needs help setting up your Notion workspaces, let me know!
+I recently got my Notion Essentials Certification and am working towards becoming a <span class="tc-blue">**Certified Consultant**</span> - so if you or anyone you know needs help setting up your Notion workspaces, let me know!
 
 <div class="nb"></div>
 

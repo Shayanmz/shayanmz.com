@@ -511,15 +511,33 @@ body {
   }
 }
 
-/* "now" page archive — a quiet toggle holding past versions of this page */
-.now-archive {
-  margin-top: 2.5rem;
-  padding-top: 0.5rem;
+/* "now" page: body copy under each heading is gray in Notion, headings stay
+   default. Applied here so the markdown source needs no colour spans. */
+.now-body p,
+.now-body li {
+  color: var(--text-gray);
+}
+
+.now-body h2,
+.now-body h3,
+.now-body h4 {
+  color: var(--text);
+}
+
+/* Archive — a quiet toggle holding past versions of this page.
+   Selector matches `.prose-site details` specificity so the margins stick.
+   24px above the label (padding) and 24px below (the footer's margin-top)
+   keeps the divider above and the footer divider equidistant. */
+.prose-site .now-archive {
+  margin: 32px 0 0;
+  padding-top: 24px;
   border-top: 1px solid var(--border);
 }
 
-.now-archive > summary {
+/* the Archive label and each date toggle read at the same size */
+.now-archive summary {
   font-size: 0.875rem;
+  color: var(--text-gray);
 }
 
 .now-archive .archive-update {
@@ -529,6 +547,11 @@ body {
 
 .now-archive details {
   margin: 6px 0;
+}
+
+/* the page's own bottom padding collapses so the two gaps match */
+.page:has(.now-archive) {
+  padding-bottom: 0;
 }
 
 /* inline database heading (e.g. "❄️December" above the habit tracker) */

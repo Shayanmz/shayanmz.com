@@ -1,0 +1,120 @@
+# Pages CMS — https://pagescms.org
+# Edit this site from a browser (including a phone) at https://app.pagescms.org.
+# Pages CMS commits straight to this repo; Cloudflare rebuilds on push.
+# There is no database: the markdown files here stay the source of truth.
+
+media:
+  input: public/images
+  output: /images
+
+content:
+  # ── Blog ──────────────────────────────────────────────────────────
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: src/content/blog
+    filename: '{fields.title}.md'
+    view:
+      primary: title
+      sort: [date, title]
+      order: desc
+      fields: [title, date]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: icon
+        label: Icon (emoji)
+        type: string
+        description: Shows on the blog card and above the post title, e.g. 📖
+      - name: cover
+        label: Cover image
+        type: image
+        description: Wide banner behind the post title, and the blog card image.
+      - name: body
+        label: Body
+        type: rich-text
+
+  # ── Home: the live "what I'm up to" ───────────────────────────────
+  - name: now
+    label: Home — currently working on
+    type: file
+    path: src/content/now/current.md
+    fields:
+      - name: date
+        label: Last updated
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: body
+        label: Body
+        type: rich-text
+        description: >-
+          Use Heading 3 for each section. Body copy renders gray automatically.
+
+  # ── Home: past versions, shown in the Archive toggle ──────────────
+  - name: now-archive
+    label: Home — archive
+    type: collection
+    path: src/content/now/archive
+    filename: '{fields.date}.md'
+    view:
+      primary: date
+      sort: [date]
+      order: desc
+      fields: [date, update]
+    fields:
+      - name: date
+        label: Date this version was live
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: update
+        label: Update note
+        type: string
+        description: >-
+          Optional. What happened since — shown in italics above this snapshot.
+          e.g. "Hit the 90lb weighted pull-up for 5 ✅"
+      - name: body
+        label: Body
+        type: rich-text
+
+  # ── Resume ────────────────────────────────────────────────────────
+  - name: resume
+    label: Resume
+    type: file
+    path: src/pages/resume.md
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+        hidden: true
+      - name: title
+        label: Title
+        type: string
+      - name: pageTitle
+        label: Browser tab title
+        type: string
+      - name: description
+        label: Meta description
+        type: text
+      - name: active
+        label: Nav highlight
+        type: string
+        hidden: true
+      - name: body
+        label: Body
+        type: rich-text
+
+settings:
+  content:
+    merge: true

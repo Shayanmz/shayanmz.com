@@ -112,7 +112,7 @@ Sales, Customer Service, Consulting, Training & Coaching, Communications, Leader
 
 <h4 id="certifications">Certifications</h4>
 
-Certified Associate Project Manager (<span class="tc-blue">**[CAPM](https://www.pmi.org/certifications/certified-associate-capm)**</span>), <span class="tc-blue">**[Brainstation](https://brainstation.io/)**</span> Product Management Certification, <span class="tc-blue">**[Designlab](https://designlab.com/)**</span> UX Academy Foundations, <span class="tc-blue">**[Notion Essentials](/3dc79ca1aae24f9a81e7a1e2ab74f5de)**</span> Certification, <span class="tc-blue">**[Pre-Script L1](https://www.pre-script.com/)**</span> (Personal Training), Functional Patterns
+Certified Associate Project Manager (<span class="tc-blue">**[CAPM](https://www.pmi.org/certifications/certified-associate-capm)**</span>), <span class="tc-blue">**[Brainstation](https://brainstation.io/)**</span> Product Management Certification, <span class="tc-blue">**[Designlab](https://designlab.com/)**</span> UX Academy Foundations, <span class="tc-blue">**Notion Essentials**</span> Certification, <span class="tc-blue">**[Pre-Script L1](https://www.pre-script.com/)**</span> (Personal Training), Functional Patterns
 
 ---
 

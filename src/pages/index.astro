@@ -47,17 +47,19 @@ const fmt = (d: Date) =>
       <div class="nb"></div>
       <hr />
 
-      <Current />
+      <div class="now-body">
+        <Current />
+      </div>
 
       {
         rendered.length > 0 && (
-          <details class="tc-gray now-archive">
+          <details class="now-archive">
             <summary>Archive</summary>
             <div class="dtl">
               {rendered.map(({ entry, Body }) => (
                 <details>
                   <summary>{fmt(entry.data.date)}</summary>
-                  <div class="dtl">
+                  <div class="dtl now-body">
                     {entry.data.update && <p class="archive-update">{entry.data.update}</p>}
                     <Body />
                   </div>
