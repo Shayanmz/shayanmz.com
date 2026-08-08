@@ -1,0 +1,25 @@
+---
+import Base from './Base.astro';
+
+const { frontmatter } = Astro.props;
+---
+
+<Base
+  title={frontmatter.pageTitle ?? frontmatter.title}
+  description={frontmatter.description}
+  active={frontmatter.active}
+>
+  {
+    frontmatter.cover && (
+      <div class="resume-cover">
+        <img src={frontmatter.cover} alt="" />
+      </div>
+    )
+  }
+  <main class="page">
+    <h1 class="page-title">{frontmatter.title}</h1>
+    <div class="prose-site">
+      <slot />
+    </div>
+  </main>
+</Base>

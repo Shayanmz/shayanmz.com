@@ -1,0 +1,58 @@
+---
+title: "The solution business model - how surveys can help"
+date: 2020-09-07
+icon: "❓"
+cover: /images/blog/cover-the-solution-business-model-how-surveys-can-help-0.webp
+---
+
+---
+
+As I've continued to scower the web for new apps and products to test and incorporate into my daily workflow, I've come to a realization that although the (large) SaaS solutions industry is continuing to become more popular, I'm still having a hard time finding solutions/products that do a lot of things really well - understandably so. It's obviously extremely difficult to create a great product that does everything users need it to, that takes a lot of time and resources. This is why app integrations have become increasingly popular, because instead of having to build certain features into your own app, you can save development resources by simply opening up compatibility for other services to integrate within your own platform.
+
+Organizations are constantly trying to simplify their tech stacks, attempting to use the least amount of external services while still being able to maintain a wide coverage of internal resource requirements for various processes and development lifecycles. This is a balancing act of the company wanting to save money and wanting their employee workflows to be as simple and efficient as possible.
+
+A quick personal example that I can give is Notion♥️, which demonstrates how a product can have very many use cases; whether you're small start-up, a multi-million dollar organization, or even just one individual, there are many ways that you can incorporate it into your workflows/tech stacks. Even still, there are many features, such as in-app hand writing support, that are not included in its functionalities. As a result, it requires me to go use other services simply for this feature of being able to markup and add hand-written snippets. I know Notion is a new-ish product, and hand writing functionality is probably on their roadmap, but you know what I'm getting at.
+
+Ever since the popularization of Web 2.0, the product landscape was able to shift from generalized products/services targeting larger segments to more unique and individualized solutions.  In this post, I'm making the case that the next evolution of product development will be back to generalized products/services with deeply personalized solutions for each unique customer. Products should adapt dynamically to each unique user and find a spot in their workflows for itself, rather than having users try themselves to determine where it fits.
+
+#### Article: A solution business model
+
+I came across [this article](https://www.sciencedirect.com/science/article/pii/S0019850111000551?casa_token=J-1Uu03JCrAAAAAA:hTuxjYB8lWcQNQ1EA-0Rugz411vLZcIGalG5dqQz16z72b-jJ5YUz5yJDGykZYk7y8G7dBaH#!) in my attempt to structure my thoughts through research, and it puts a framework to my idea: the solution business model framework. Although this article focuses a lot on addressing the organizational capabilities and management practices necessary for this business model to work, I found that the following excerpt was the most accurate in describing what the core framework is based on: “... individualized offers for complex customer problems that are interactively designed and whose components offer an integrative added value by combining products and/or services so that the value is more than the sum of the components”. This research focuses on ‘integrated solutions’, defined as longitudinal relational processes, during which a solution provider integrates goods, service and knowledge components into unique combinations that solve strategically important customer specific problems, and is compensated on the basis of the customer's value-in-use."
+
+![Overview of the solution business model framework](/images/blog/the-solution-business-model-how-surveys-can-help-31.webp)
+
+*Overview of the solution business model framework*
+
+I've highlighted the 'solution configuration' and 'infrastructure support' phases as those are what I believe to be the key to creating personalized solutions. A quick bullet point recap of the arguments that that were in line with my thoughts on personalized solutions:
+
+- The idea of having a '***solution portfolio***'. This emphasizes focus on deciding what solutions to develop, what to invest in, what to drop, what to launch, and what to outsource. These decisions are based on the ability to leverage various solution components across several solutions
+- "Tuli et al. (2007) emphasize the role of ***post-deployment support***. Drawing on this and the empirical data the solution process is categorized into four highly interconnected and iterative phases: develop solutions (***combining customer insight** and provider resources in order to create a solution portfolio*), ... sell solution (engaging in a process that turns opportunities into orders for ***customer specific solutions***"
+- ***Closing the gap between customer needs and the firms' offerings***. A balancing act between the need for customization and the need for standardization. "Typical outcome is a modular system composed of independently designed modules that function in an integrated way"
+- Creating rules for structuring solutions that permit flexible adaptation to customer situations. The proposed design rules are:
+- Value propositions are essentially resource integration promises. Essentially, the firm explains how their product/service can enable the customer to create value when integrated with the customers extant resources and capabilities
+- Lastly, there should be dedicated configuration tools that are used to create customer-specific solutions. Based on what the customer needs, it is easy to configure your solution for them specifically!
+
+#### A quick case study on Scoutible to address my next point
+
+I came across [this interview](https://www.youtube.com/watch?v=gwDFo2Ctthc) on Bloomberg Technology's Youtube channel, where they interviewed Angela Antony, the CEO of Scoutible - an app that aims to address hiring's failures directly by using AI in an interactive gamified version of a psychometric test.
+
+Quick breakdown of Scoutible's platform:
+
+- ***The why/what problem are they solving:*** "Human talent is consistently underutilized and overvalued". They are trying to solve hiring's failures relating to resume biases, soft skill mismatches, and general socioeconomic barriers to finding employment.
+- ***How they are solving this:** *With a great team of PhD psychologists, data scientists, and partnerships with game developers, they created a proprietary assessment technology in a game format that uses the individuals in-game behaviours to measure the individuals personality and cognitive traits using built in predictive models. Visit their [science page](https://www.scoutible.com/science) for an in-depth explanation of their platform.
+
+Angela and her team saw all these problems with the hiring process/current job matching market, and created a very specific solution, unique to each user of their platform. What if all products could function like this: perform an in-depth analysis/survey of the customers' needs, their personality and cognitive traits, and THEN provide a very specific suggested solution.
+
+> 💭 **Side thought:** This kind of reminds me of the first episode of Futurama where Fry walks into the 'Fate Assignment' room and they attempt to assign him a permanent life job. There are other TV/movie examples of this idea, but that's the first one I thought of. 
+
+Think about what life would be like if we were told what career/job we would be best at, would you take the test?
+
+#### Questionnaires are a great way to learn more about your customer!
+
+Since the nature of Scoutible's offering is slightly different from my product solution comments made earlier in my introduction, it's not a perfect example, but O'm aiming to get you think about how useful pre-solution questionnaires can be, even for product/service based companies.
+
+Although Scoutible (and probably other organizations) are using gamification to enhance psychometric test experiences, I remain convinced that using ***any*** kind of survey that avoids the 'social desirability bias' referred to in the Scoutible [science page](https://www.scoutible.com/science), and using algorithms to give individualized solutions/responses is a great strategy to solving unique customer needs and the right step into the future of product development.
+
+Anyway, I'm off to go download and try Scoutible! Hopefully I don't get assigned to be a delivery boy.. (tell me you got that)
+
+Thanks for checking out my first blog post! Please bare with me as I establish my writing style on here - I also have many ideas for how I will use Notion to prettify these posts for you all!

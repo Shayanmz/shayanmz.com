@@ -1,0 +1,47 @@
+---
+layout: ../layouts/MarkdownPage.astro
+title: "What I’m currently working on 👇🏽"
+pageTitle: "Shayan Memarzadeh | Home"
+description: "What Shayan is currently working on"
+active: home
+---
+
+(outside of GTM Engineering @ **[Gorgias](https://www.gorgias.com/)**)
+
+Last updated on Nov 9, 2025. Inspired by **[Derek Sivers](https://sive.rs/now)**.
+
+---
+
+### Building shit in ops
+
+I know I know, this is work related, but after having been a CSM for my entire 4 post-grad working years, I made a career transition back in December 2024 to the Ops side of the business as a GTM Engineer - it’s a big deal for me!
+
+I’ve finally got the hang of the Modern Data Stack and have been able to build significant data pipelines and other fun workflows across GTM. With the rise in availability and access to low code tools, open API’s, and AI over the past few years, I’ve been itching to start building things both out of personal interest, and for work. What better way than to get paid doing it?
+
+My current side quest: automate slide decks for customer success managers.
+
+### Fitness
+
+After years of battling, I ***finally*** joined the 1000lb club with a 405 deadlift, 245 bench, and 355 squat (1005lbs) earlier this year! I used a strap on my left hand for the deadlift because of an injury, and I wasn’t super happy with the depth of my squat. I honestly won’t be fully satisfied until I hit the deadlift raw, and squat 365 ATG. The conquest continues…
+
+Outside of my deadlift and squat journey, I’ve really been into calisthenics and my current goals are:
+
+1. 90lb weighted pull up for 5 reps
+2. Hold a straddle lever for 5 seconds
+3. 25lb weighted ring muscle up
+
+My long-term, and I mean long-term, cali goal is to be able to hold an **[Iron Cross](https://youtu.be/HZbee93OIdo?t=11)** for 5 seconds.
+
+Lastly, after getting absolutely bodied by the **[Tromso midnight sun marathon](https://msm.no/midnight-sun-marathon/)** this past June, I’ll definitely be going back in June 2027 (after my wedding) to run it again. I was aiming to run a sub 3:20 for my first marathon, but I failed to realize that it was a rolling course, which led to the worst cramps I’ve ever had in my life in both quads **and** both hamstrings at km 32. My pace up until km 32 was 4:50. Not bad. Not great. I’ll be back, Tromso.
+
+### Learning Portuguese
+
+I’m now 3 months in my Portuguese journey to be fluent by my wedding in May 2026, and things are going pretty well.
+
+My current structure is one online class a week with two different teachers on **[Preply](https://preply.com/)**, a **ton** of Anki, AI generated quizzes, and some nice, wholesome Brazilian funk.
+
+Originally, I used **[Nathanial Drew](https://www.nathanieldrew.com/language-learning-resources)**’s Portuguese resources to download the top vocabulary, but now I’m now deep in verbs, prepositions, and general sentence structuring. I also use **[Granola](https://www.granola.ai/)** to record my lessons → summary to a google doc → AI scrapes my google doc every day and generates a daily quiz for me on my **[Readwise Reader](https://readwise.io/read)** app.
+
+Bora.
+
+---

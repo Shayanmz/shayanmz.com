@@ -1,0 +1,60 @@
+---
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/600.css';
+import '@fontsource/inter/700.css';
+import '../styles/site.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** which nav item to highlight */
+  active?: 'home' | 'resume' | 'blog';
+  /** hide the footer (the Super site hid it on the blog page) */
+  noFooter?: boolean;
+}
+
+const {
+  title,
+  description = "Shayan Memarzadeh's personal website",
+  active,
+  noFooter = false,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" type="image/webp" href="/favicon.webp" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Shayan Memarzadeh's Blog"
+      href="/rss.xml"
+    />
+  </head>
+  <body>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/" aria-current={active === 'home' ? 'page' : undefined}>Home</a>
+      <a href="/resume" aria-current={active === 'resume' ? 'page' : undefined}>Resume</a>
+      <a href="/blog" aria-current={active === 'blog' ? 'page' : undefined}>Blog</a>
+    </nav>
+
+    <slot />
+
+    {
+      !noFooter && (
+        <footer class="site-footer">
+          <a href="/">Home</a>
+          <a href="/resume">Resume</a>
+          <a href="/blog">Blog</a>
+          <a href="https://www.linkedin.com/in/shayan-memarzadeh/">LinkedIn</a>
+          <a href="https://www.instagram.com/shayanmz12/">Instagram</a>
+        </footer>
+      )
+    }
+  </body>
+</html>

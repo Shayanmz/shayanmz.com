@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    timeZone: 'UTC',
+  });
+---
+
+<Base
+  title="Shayan Memarzadeh | Blog"
+  description="A wall where you can see what goes on in my big head day to day"
+  active="blog"
+  noFooter
+>
+  <main class="page-wide">
+    <h1 class="page-title">Blog</h1>
+    <p class="blog-desc">
+      A wall where you can see what goes on in my big head day to day
+    </p>
+
+    <div class="card-grid">
+      {
+        posts.map((post) => (
+          <a class="post-card" href={`/blog/${post.id}`}>
+            <div class="cover">
+              {post.data.cover && <img src={post.data.cover} alt="" loading="lazy" />}
+            </div>
+            <div class="card-body">
+              <p class="card-title">
+                {post.data.icon && <span>{post.data.icon} </span>}
+                {post.data.title}
+              </p>
+              <span class="card-date">{fmt(post.data.date)}</span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </main>
+</Base>
