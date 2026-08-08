@@ -539,9 +539,9 @@ body {
   border-top: 1px solid var(--border);
 }
 
-/* the Archive label and each date toggle read at the same size */
+/* the Archive label and each date toggle match the body copy size (1rem) */
 .now-archive summary {
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: var(--text-gray);
 }
 
