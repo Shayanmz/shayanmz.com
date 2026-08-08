@@ -320,22 +320,27 @@ body {
   display: none;
 }
 
+/* Arrow. The ‣ glyph sits low on its own baseline, so centring the box still
+   reads as bottom-aligned — hence a masked triangle instead of a character:
+   it's geometry, so it centres exactly. The box is one line tall (1.5rem =
+   line-height), and summary is align-items:flex-start, so on a multi-line
+   summary the arrow lands centred on the FIRST line. */
 .prose-site details summary::before {
-  content: '‣';
-  font-size: 1.75rem;
+  content: '';
   width: 1.5rem;
   height: 1.5rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 6px;
   flex-shrink: 0;
-  border-radius: 2px;
+  margin-right: 6px;
+  background-color: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M3 1l5 4-5 4z'/%3E%3C/svg%3E")
+    center / 0.5rem 0.5rem no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M3 1l5 4-5 4z'/%3E%3C/svg%3E")
+    center / 0.5rem 0.5rem no-repeat;
   transition: transform 250ms;
 }
 
 .prose-site details summary:hover::before {
-  background: var(--hover-bg);
+  opacity: 0.7;
 }
 
 .prose-site details[open] > summary::before {
