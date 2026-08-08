@@ -11,4 +11,15 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+// The "now" page: current.md is what's live; archive/*.md are past versions,
+// each one a dated snapshot shown in the Archive toggle at the bottom.
+const now = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/now' }),
+  schema: z.object({
+    date: z.coerce.date(),
+    /** optional note about what changed since the previous version */
+    update: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, now };

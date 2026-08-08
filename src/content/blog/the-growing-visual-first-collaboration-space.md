@@ -23,8 +23,6 @@ cover: /images/blog/cover-the-growing-visual-first-collaboration-space-0.webp
 
 ---
 
-<h3 id="section"></h3>
-
 <h3 id="personal-foreward">Personal Foreward</h3>
 
 It’s official! I am extremely excited to share that I have accepted an offer to work at Bluescape as a Customer Success Manager to help grow the adoption of their platform. Bluescape is a virtual collaboration platform that enables teams to work together in real time, from anywhere.
@@ -32,6 +30,8 @@ It’s official! I am extremely excited to share that I have accepted an offer t
 For several years, I have been extremely interested in how collaboration platforms can create more efficient and productive teams. Even in my personal life; I have tested and played around with many different tools to get a better understanding of how they could help me personally, and how they can extend into larger teams and business outcomes. With that, I couldn’t be more excited to join the Bluescape team in a growing space to help build the worlds best visual collaboration product🎉
 
 <div class="nb"></div>
+
+<div class="bm-wrap"><a class="bookmark" href="https://www.bluescape.com/" target="_blank" rel="noopener noreferrer"><div class="bm-text"><div class="bm-title">A virtual collaboration platform for hybrid teams l Bluescape</div><div class="bm-desc">Bluescape is a true enterprise-ready solution trusted by the Fortune 1000, Federal Agencies, and the Intelligence Community to improve collaboration across teams and entire organizations.</div><div class="bm-url"><img class="bm-fav" src="/images/blog/the-growing-visual-first-collaboration-space-40.webp" alt="" loading="lazy" />www.bluescape.com</div></div><div class="bm-cover"><img src="/images/blog/the-growing-visual-first-collaboration-space-41.webp" alt="" loading="lazy" /></div></a></div>
 
 <div class="nb"></div>
 
@@ -44,8 +44,6 @@ With that in mind, here are a few resources that are on my roadmap of learning t
 <ol class="nlist"><li><span class="tc-blue"><strong><a href="https://www.amazon.ca/dp/B08HZ5XY7X/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">The Cold Start Problem</a></strong></span> - Andrew Chen<p>By nature, collaboration products need 1+ persons get the intended results, but one of the keys to success for any software nowadays, is to create viral growth and exponentially growing product value through the advantages of “the network effect”.</p></li><li><span class="tc-blue"><strong><a href="https://www.amazon.ca/dp/B01BWM41GS/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">Customer Success</a></strong></span> - Nick Mehta<p>Subscription pricing and cloud based products have changed the way businesses operate - <u>the quicker you can understand this idea and its associated intricacies, the better.</u></p></li><li>My experience at Bluescape (well, duh)<p>It would be very interesting to write a ‘part 2’ to this post after I have spent some time working with the team over at Bluescape. We will see!</p></li></ol>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h3 id="defining-collaboration-tools">Defining ‘Collaboration Tools’</h3>
 
@@ -61,8 +59,6 @@ The way I see it, the next natural iteration of collaboration growth is to bring
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h3 id="how-do-we-store-our-ideas-anyway">How do we store our ideas, anyway?</h3>
 
 To start, I wanted to review what fundamental systems allowed for collaboration tools to take off in the first place. It just feels natural nowadays to document our work and ideas into different spaces, which we now refer to has ‘files’ or ‘folders’, but I hope that you all aren’t taking this system for granted, as this wasn’t always the case..
@@ -77,17 +73,15 @@ So, you might be asking why I just wasted 30 seconds of your lives reviewing wha
 
 Every software application that we interact with today has some sort of user interface that prettifies the underlying data structures, where we end up with buttons that we can click that bring us to a new page with all sorts of new information. For example, if you take a look at my demo Trello board below, you will see that by clicking onto the ‘How to Use This Board’ you are then displayed more information that was nested in that ‘card’:
 
-<details><summary>Trello board example</summary><div class="dtl"><figure><img src="/images/blog/the-growing-visual-first-collaboration-space-39.webp" alt="" loading="lazy" /></figure></div></details>
+<details><summary>Trello board example</summary><div class="dtl"><figure><img src="/images/blog/the-growing-visual-first-collaboration-space-42.webp" alt="" loading="lazy" /></figure></div></details>
 
 Now, if I were to visualize the same thing in terms of how the underlying folder structure works, at a **very** basic level it would look something like this:
 
-<details><summary>Folder structure</summary><div class="dtl"><figure><img src="/images/blog/the-growing-visual-first-collaboration-space-40.webp" alt="" loading="lazy" /></figure></div></details>
+<details><summary>Folder structure</summary><div class="dtl"><figure><img src="/images/blog/the-growing-visual-first-collaboration-space-43.webp" alt="" loading="lazy" /></figure></div></details>
 
 Although I wouldn’t be able to tell you how every app in the world structures their data, I could guarantee that a very high level the same ideas apply.
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h3 id="expanding-the-scope-of-collaboration-with-infinite-canvases">Expanding the Scope of Collaboration with Infinite Canvases</h3>
 
@@ -105,15 +99,13 @@ Now, there are several reasons for why these technologies might not have been wi
 
 By definition, disruptive technologies are ones that innovate on low-end or new markets, so while all these other collaboration tools continue to add new products and features, they continue to miss out on the simple idea of an entirely ‘visual’ experience. This is because they really don’t need to create that functionality, as their platforms already do the job that most users need it to, and that means they are making $$ either way.
 
-<details><summary>Disruptive Innovation Model</summary><div class="dtl"><figure><img src="/images/blog/the-growing-visual-first-collaboration-space-41.webp" alt="" loading="lazy" /><figcaption>Great graphic on disruptive innovation from <span class="tc-blue"><strong><a href="https://hbr.org/2015/12/what-is-disruptive-innovation">Harvard Business Review</a></strong></span></figcaption></figure></div></details>
+<details><summary>Disruptive Innovation Model</summary><div class="dtl"><figure><img src="/images/blog/the-growing-visual-first-collaboration-space-44.webp" alt="" loading="lazy" /><figcaption>Great graphic on disruptive innovation from <span class="tc-blue"><strong><a href="https://hbr.org/2015/12/what-is-disruptive-innovation">Harvard Business Review</a></strong></span></figcaption></figure></div></details>
 
 In comes the design world! As the competitive landscape stands right now, I have yet to see tools that deeply integrate the work of both development and design teams into the same spaces as most of their non-technical counterparts. I just feel that giving users access to an almost infinitely manipulatable canvas, would allow teams that had a traditionally harder time directly collaborating in the same space the ability to do so.
 
 Whether or not you agree that it is disruptive, or will be added to most collaboration spaces, I’m sure you can see the possible use cases here. Which begs the question: how can the success of visual tools be measured over time? We’ll get to that.
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h3 id="the-nature-of-value">The Nature of Value</h3>
 
@@ -135,8 +127,6 @@ So, how do we quantify the above problems? Well, that’s the hard (and probably
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h3 id="quantifying-subjective-experiences">Quantifying Subjective Experiences</h3>
 
 In preparation for my interviews with Bluescape, I came across their *Total Economic Impact Study* <span class="tc-gray">(you can get it</span> <span class="tc-blue">**[here](https://create.bluescape.com/evaluation-bluescape-total-economic-impact-2021)**</span><span class="tc-gray">)</span>, which was done by an independent research-based consulting firm, Forrester Consulting. I’m not going to summarize it here, but this study aimed to do exactly what I was mentioning above; giving tangible ROI metrics associated with the implementation and use of Bluescape’s platform. Here is a little snippet of one customer speaking to the benefit they saw in their sales cycles (I’ve gone ahead and highlighted the pieces that emphasize my earlier points about problems that collaboration tools aim to solve):
@@ -153,8 +143,6 @@ Honestly, I had a hard time coming up with these or any more metrics that could 
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h3 id="you-don-t-have-to-quantify-everything">You don’t HAVE to quantify everything</h3>
 
 You really don’t! As I mentioned in my foreward, *The Cold Start Problem* by Andrew Chen will be a great read to learn more about how the value of a platform is directly associated with the number of users that engage with it. Meaning, if you’ve done your research and created a really good product that has seen high levels of organic adoption, you probably won’t have to spend as much time, if at all, quantifying all the outcomes that users will see with it, because they already do.
@@ -164,8 +152,6 @@ As Marty Cagan put it in his book <span class="tc-blue">***[INSPIRED](https://ww
 <blockquote><p>“Life is too short for bad products”</p></blockquote>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h3 id="wrapping-up-with-a-notion-case-study">Wrapping up with a <span class="tc-blue"><a href="https://www.notion.so/">Notion</a></span> case study</h3>
 
@@ -186,8 +172,6 @@ That’s it from me - bye for now!
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.</span>
-
-<h3 id="section"></h3>
 
 <h3 id="contact-me">Contact Me</h3>
 

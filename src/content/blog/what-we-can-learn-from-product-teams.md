@@ -25,11 +25,9 @@ For many years now, Google has employed an 'Innovation Time out' policy that enc
 
 Now, if you were to extend this idea and let entire teams adopt this model of work, well, you would end up with what we refer to as product development teams. With the exclusion of strategic business constraints, one of the main responsibilities of product teams is to innovate and continue to expand on ideas to create new business solutions. Product teams are at the core of the business, and because of this, a lot of the innovative bandwidth of an organization ends up being forced on them. But why? Shouldn't shared learning and feedback be a core component of all teams in innovative companies?
 
-<figure><img src="/images/blog/what-we-can-learn-from-product-teams-46.webp" alt="" loading="lazy" /><figcaption>The A → D figures were pulled from James Clear&#x27;s article on feedback loops mentioned below</figcaption></figure>
+<figure><img src="/images/blog/what-we-can-learn-from-product-teams-49.webp" alt="" loading="lazy" /><figcaption>The A → D figures were pulled from James Clear&#x27;s article on feedback loops mentioned below</figcaption></figure>
 
 Well, there are a lot of things that product teams do that naturally encourage innovation, many of which are <u>not</u> being used by their non-technical counterparts. So let's dig into what product teams do well, and what other teams can learn from the strategies and frameworks that they use to be successful.
-
-<h3 id="section"></h3>
 
 <h3 id="product-teams-rely-on-continuous-feedback-loops">Product teams rely on continuous Feedback Loops</h3>
 
@@ -47,8 +45,6 @@ There is a natural iterability deeply ingrained into all successful businesses, 
 
 That being said, this is easier said than done for non-technical teams, as they usually do not participate in structured, reflective brainstorming sessions the same way technical teams do. Technical teams have work that is generally more dependent or closely tied to each other's outputs, whereas non-technical teams have outputs that are generally independent of what their colleagues are doing, leading to individual results and learnings. This means that less collaborative teams will have to get more comfortable speaking up during their time together, which brings me to my next point.
 
-<h3 id="section"></h3>
-
 <h3 id="product-teams-communicate-well">Product teams communicate well</h3>
 
 One thing that the best product managers do well, is understand that every individual on their team has so much value and knowledge to bring to the table, so by creating an environment that encourage dialogue, the probably for success is much greater. One of the most overlooked aspects of any successful culture is communication. Without appropriate communication, the so called 'feedback' needed to change will either be wrong or simply nonexistent.
@@ -58,8 +54,6 @@ In the book <span class="tc-blue">**[Inspired](https://www.amazon.ca/INSPIRED-Cr
 This idea <u>does not</u> change for other teams. With the pre-requirement that an organization has done a good job in hiring motivated and willing individuals, I can guarantee that no matter what department you try this in, if you create an environment where the ones who are building your product and interacting with customers are comfortable sharing their insights on a regular basis, you will get the following results:
 
 <ol class="nlist"><li>Information will be moved from being siloed and never expanded upon, to developing on extensive key learnings, knowledge, or ideas that will extend into actionable items for the larger team</li><li>Encouraged camaraderie and cooperation, leading to a more tightly knit team and overall loyalty to the organization</li></ol>
-
-<h3 id="section"></h3>
 
 <h3 id="product-teams-are-transparent">Product teams are transparent</h3>
 
@@ -77,8 +71,6 @@ Transparency is a very specific thing that seems to be is deeply rooted in produ
 
 The easiest way I thought of conceptualizing this for managers and leaders is to think of <u>treating your employees as if they were your paying customers</u>. If you had 8 hours a day with your customers, would you not want to know what they are thinking? What would you ask them? Imagine how much these 40 hours of feedback would impact your product. Your employees have the same potential energy.
 
-<h3 id="section"></h3>
-
 <h3 id="product-teams-use-tools-structure-to-transfer-knowledge">Product teams use tools &amp; structure to transfer knowledge</h3>
 
 For whatever reason(s), it seems to be more commonplace for technical teams to leverage technologies to streamline their workflows than their non-technical counterparts. That shouldn't be the case. Once teams are stable enough to explore and test different things that will improve overall productivity, it should be prioritized. Whether it is a technology, new process, or even a training, they should always be happening and be readily available to your teams.
@@ -89,13 +81,9 @@ Just because some teams *can* live out of Google Docs, Excel, and Sharepoint, do
 
 It is important to emphasize that tools are not *necessary* to achieve more fluent communication and transference of knowledge, however based on the size the organization, budget allocations, geographic locations of employees, and several other variables, they may be more strongly recommended for some over others.
 
-<h3 id="section"></h3>
-
 <h3 id="practical-takeaways-my-suggestions">Practical takeaways - my suggestions</h3>
 
 This takeaways portion is really what I have been thinking a lot about lately and is the main reason I wanted to write this blog post. I have recently been seeing a lot of great companies use new, unorthodox tools and frameworks to encourage collaboration and overall company culture. The list below are some of the ideas that I believe most teams and businesses could use to encourage better feedback loops, communication, transparency, and knowledge sharing.
-
-<h3 id="section"></h3>
 
 <h4 id="conversational-outlets">Conversational outlets</h4>
 
@@ -109,8 +97,6 @@ I would also rather listen to my CEO speak with an engineer about developments, 
 
 I could go on for hours about how this would create a more knowledgeable, confident, and most importantly, innovative workforce; so please try this, test it out in small teams first, and see how everyone engages with it. Don't feel like you must have an entire structure from day one either. You can use any video conferencing platform, Loom, Clubhouse, etc.
 
-<h3 id="section"></h3>
-
 <h4 id="anonymous-feedback">Anonymous feedback</h4>
 
 Unfortunately, this tactic won't create the direct transparency and camaraderie that I mentioned earlier due to it's non-interactive, impersonal nature, however anonymous surveys still work by giving a lot of insight as to what the different members of organizations have to say about their experience. This could be more general questions like "How has your experience been at ___ over the past year?", or it could be as specific as "What are your thoughts on the new sales structure?". There are so many cheap tools out there that could do this for you, like Google Forms, Survey Monkey, Typeform, and Lattice, just to name a few.
@@ -120,8 +106,6 @@ Unfortunately, this tactic won't create the direct transparency and camaraderie 
 <div class="embed embed-tall"><iframe src="https://shayanmz12.typeform.com/to/oQ9K1WBJ" loading="lazy" allowfullscreen></iframe></div>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="reoccurring-reflective-meetings">Reoccurring reflective meetings</h4>
 
@@ -137,15 +121,11 @@ One of the keys for success for reflective learning sessions is to document and 
 
 <span class="tc-gray">(Also worth mentioning that all 3 of the above mentioned structures are usually implemented by the best product teams)</span>
 
-<h3 id="section"></h3>
-
 <h4 id="internal-knowledge-base-solutions">Internal knowledge base solutions</h4>
 
 This is my most non-trivial suggestion because most companies already do this, but it is more about *how* they are doing it. Building knowledge bases that are organized and very easily searchable is the key to creating extremely efficient teams. Now, I'm not going to go into detail about HOW you should structure your knowledge bases, because that could have its own entire blog post, but what I will mention some of the ideas that have crossed my mind in this regard:
 
 <ul class="nlist"><li>I have come across some really interesting intelligent AI powered searching softwares that use integrations to search across all your various platforms that keep your company&#x27;s information. I think that over the next several years, as APIs continue to grow, and internal platform-based integrations extend, AI powered search tools will be commonplace in the workplace. A couple companies I have come across: <span class="tc-blue"><strong><a href="https://www.elastic.co/enterprise-search">Elastic Search</a></strong></span>and <span class="tc-blue"><strong><a href="https://www.coveo.com/en/platform/intelligent-search">Coveo Intelligent Search</a></strong></span>.</li><li>Another idea that I feel has been attempted by some organizations before is a company&#x27;s own &#x27;Intranet&#x27;, where employees basically live out of and put all their notes and work through integrations to other tools. There are many companies doing this, so if you&#x27;re interested in seeing some of them, here&#x27;s a link to <span class="tc-blue"><strong><a href="https://www.g2.com/categories/employee-intranet">G2&#x27;s review</a></strong></span> of the best softwares out there. I&#x27;m personally not the biggest fan of this idea, but I feel like it is inevitable that there will be some similar structure with my next point.</li><li>All the largest communication/collaboration tools that companies are now using will end up converging into being the &#x27;single platform&#x27; that employees live out of, only accessing other tools through on-platform integrations. For example, as Slack continues to build out integrations with other 3rd party tools (this has already been accelerated with them being acquired by Salesforce in July 2021), they are trying to keep you working out of their platform for as much of the day as possible.</li></ul>
-
-<h3 id="section"></h3>
 
 <h4 id="create-the-culture-first">Create the culture first</h4>
 
@@ -156,8 +136,6 @@ The problem when it comes to implementing all my suggestions above, is that it's
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.</span>
-
-<h3 id="section"></h3>
 
 <h3 id="contact-me">Contact Me</h3>
 

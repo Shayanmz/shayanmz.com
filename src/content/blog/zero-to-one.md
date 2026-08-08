@@ -19,15 +19,11 @@ cover: /images/blog/cover-zero-to-one-0.webp
 
 ---
 
-<h3 id="section"></h3>
-
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 <ol class="nlist"><li>In the world, there is horizontal progress and vertical progress. Horizontal progress is simply an extension of what we know today, basically copying things that work and making them marginally better, if at all. China is a good example of horizontal progress, i.e. globalization &amp; large supply of cheap labour = mass efficiency on what we already know. Vertical progress, on the other hand, is new innovation that brings us to new horizons. This is what Peter refers to as going from Zero to One. Technology has been our means to vertical progress over the past ~century.</li><li>Perfect competition is detrimental to business success; a monopoly is the only condition for a truly successful business. The problem with competition is that it sucks profits out of businesses, leading to low risk-taking, little innovation, and marginally better products over time. To continue innovating, we need businesses to escape deep competition. Achieving monopoly status can be done by having some sort of proprietary technology (10x better than the closest substitute is ideal), strong network effects, strong economies of scale, good branding, and answering the important questions below appropriately. 👇🏽</li><li>Of course, there are some people that are better entrepreneurs than others, but it’s important to know that it is possible to find secrets in our world. Getting something from Zero to One is extremely difficult. It requires a lot of courage, taking on a lot of risk, and being willing to be wrong about things. You are trying to find secrets in this world that others have not dared to try and find. But by diligently planning for and thinking about what the future could look like and finding the right team of people to build for it, you can achieve amazing things and exponential payoffs.<details><summary>Here are important questions you should ask yourself when building your business:</summary><div class="dtl"><ol class="nlist"><li>The Engineering Question:<p>Can you create breakthrough technology instead of incremental improvements?</p></li><li>The Timing Question:<p>Is now the right time to start your particular business?</p></li><li>The Monopoly Question:<p>Are you starting with a big share of a small market?</p></li><li>The People Question:<p>Do you have the right team?</p></li><li>The Distribution Question:<p>Do you have a way to not just create but deliver your product?</p></li><li>The Durability Question:<p>Will your market position be defensible 10 and 20 years into the future?</p></li><li>The Secret Question:<p>Have you identified a unique opportunity that others don’t see?</p></li></ol></div></details></li></ol>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h2 id="impressions">Impressions 🤔</h2>
 
@@ -41,23 +37,17 @@ I really enjoyed how it combined the "Hustle hard, grind hard, you can achieve g
 
 I've always heard of Peter Thiel through podcasts, other books, or just randomly on social media, but never really knew much about him. He's definitely a great thinker of our generation, and I'll probably be doing a bit more research about him to see what he's up to and what his work/involvement with Palantir is.
 
-<h3 id="section"></h3>
-
 <h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 Generally, if you care about business, technology, and how to create value & make money in the tech world, then I’d recommend the book. Otherwise, here are some more specific people I recommend it to:
 
 <ul class="nlist"><li>All product leaders within technology businesses.</li><li>Students! I wish I had read something like this during university.</li><li>If you’re nervous about the future of AI… It’s funny how it’s almost been over 10 years since this book was written, and he called out that the future of AI is coming and how we can navigate around it.</li><li>Recruiters, HR leaders, or anyone interviewing new candidates for their business. The “Mechanics of Mafia” chapter will be useful.</li></ul>
 
-<h3 id="section"></h3>
-
 <h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 <div class="callout bg-gray-light"><div class="callout-icon">💡</div><div class="callout-body"><p>How my life / behaviour / thoughts / ideas have changed as a result of reading the book.</p></div></div>
 
 <ul class="nlist"><li>As I mentioned above, the &quot;Man and Machine&quot; chapter highlights what is currently happening in the AI revolution. &quot;The most valuable businesses of the coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete.&quot; I kind of needed to hear this right now 😅</li><li>I resonated with the message of horizontal vs. vertical progress. I really want to be part of an organization that aims to do something incredible, whether I&#x27;m a part of it or leading it. In my current role, it has shifted how I think about solving problems for our customers. What could we do that would increase the value exponentially, rather than incrementally?</li><li>I got some good frameworks to work with if I end up creating one of the many business ideas in my head...</li><li>Overall, I&#x27;d say I&#x27;m just inspired lately to be part of the future of technology. There are so many secrets yet to be discovered, and I&#x27;m not afraid to try and uncover them. I often have ideas that others have a hard time agreeing with, and I&#x27;m going to make sure I never stop building on those ideas.</li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 

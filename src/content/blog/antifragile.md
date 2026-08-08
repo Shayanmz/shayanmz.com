@@ -19,13 +19,9 @@ cover: /images/blog/cover-antifragile-0.webp
 
 ---
 
-<h3 id="section"></h3>
-
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 <ol class="nlist"><li>All things (and I mean <strong>all</strong> things) can be placed on the Fragile, Robust, or Antifragile continuum, which represents how a particular thing responds to randomness, in other words, external stressors. Fragility implies weakness to volatility, robustness implies strength against volatility, and antifragility implies a benefit from volatility.</li><li>Thinking that we need to intervene in every possible way when we see something that scares us (which Taleb refers to as naive interventionism) is a problem. In fact, small dosages of stress are beneficial to the larger system if it is antifragile. An evident example of this is through hormesis - a biological process as a response to exposure of something in small, and possibly increasing amounts.<details><summary>More hormesis examples referenced in the book</summary><div class="dtl"><ul class="nlist"><li>Weight lifting</li><li>Vaccines</li><li>Fasting</li><li>Fiscal irresponsibility of governments - I’m writing this in 2022 and this feels ever so relevant…</li><li>Not quite a hormesis example but: iatrogenics - the causation of complications/ill effects with the original intent of helping (i.e doctors)</li></ul></div></details></li><li>By leveraging optionality (freedom of choice + more options) &amp; the barbell strategy (don’t be in the middle, balance your extremes), you can position things to be robust to negative ‘black swans’, and welcoming to positive ones. A simple example Taleb gives is putting 90% of your investments in extremely safe assets, and the other 10% in highly risky but nonlinear payoff asset classes.</li></ol>
-
-<h3 id="section"></h3>
 
 <h2 id="impressions">Impressions 🤔</h2>
 
@@ -37,21 +33,15 @@ Unfortunately, I rarely found myself entirely encapsulated as it was injected wi
 
 As I write this summary, though, and as you will see in the sections below, I do find that the lessons are easily memorable and applicable. Out of all the books I can remember reading, this has been one that has really challenged me even months after finishing in thinking about how I can apply the lessons into my every day life - because they’re not necessarily as direct as “set a timer for maximum productivity”.
 
-<h3 id="section"></h3>
-
 <h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 <ul class="nlist"><li>All government policy makers</li><li>Anyone in the financial industry, more specifically investment bankers/analysts</li><li>Anyone in the medical field</li><li>If you’re not sensitive to someone else’s strong opinion about things</li><li>If you can handle a deep vocabulary want to hear an ex-academic roast modern academia🙃</li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 <div class="callout bg-gray-light"><div class="callout-icon">💡</div><div class="callout-body"><p>How my life / behaviour / thoughts / ideas have changed as a result of reading the book.</p></div></div>
 
 <ul class="nlist"><li>I don’t listen to people who don’t have skin in the game</li><li>I try to absorb content from both academics <strong>and </strong>practitioners, because I feel like there’s a beautiful balance between the two</li><li>I’ve tried to be a lot more ambitious with 10-20% of my time &amp; resources</li><li>I believe that this is both a good and a bad thing, but I question things a lot more than I used to…</li><li>The idea of naive interventionism has really overlapped with my interest in our body’s ability to adapt, so I have applied this idea in how I move &amp; train - I don’t need to micromanage everything I feel &amp; do</li><li>I learned a LOT of new words 😅<details><summary>Here are several I’ve used here and there</summary><div class="dtl"><ul class="nlist"><li>Procrustean</li><li>Mendacious</li><li>Erroneous</li><li>Demarcation</li><li>Asceticism</li><li>Apocryphal</li></ul></div></details></li><li>I’ve thought a lot about what things in my life that are antifragile, and where I can build redundancies. Here’s a quick Twitter thread I had with Mr. Taleb himself:</li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 

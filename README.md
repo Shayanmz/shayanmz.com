@@ -7,7 +7,8 @@ is markdown in this repo.
 ## Layout
 
 ```
-src/pages/index.md        home ("what I'm up to")
+src/content/now/current.md      home ("what I'm up to") — the live version
+src/content/now/archive/*.md    past versions, shown in the Archive toggle
 src/pages/resume.md       resume
 src/content/blog/*.md     blog posts (one file per post; slug = filename)
 src/pages/good-ux/        the Good UX appreciation board (React island)
@@ -33,6 +34,42 @@ Body in plain markdown.
 ```
 
 The blog index, post page, and RSS feed (`/rss.xml`) pick it up on the next build.
+
+## Updating the "now" page (and keeping the old one)
+
+Nothing gets deleted — every past version stays readable under the Archive
+toggle at the bottom of the homepage.
+
+1. Move the current version into the archive, named for the date it went up:
+
+   ```bash
+   git mv src/content/now/current.md src/content/now/archive/2026-08-08.md
+   ```
+
+2. Write the new `src/content/now/current.md` with today's date:
+
+   ```markdown
+   ---
+   date: 2026-11-01
+   ---
+
+   ### Section heading
+
+   Body text.
+   ```
+
+The archived file can carry an optional `update:` line in its frontmatter —
+a note on what happened since, shown in italics above that snapshot:
+
+```markdown
+---
+date: 2026-08-08
+update: Hit the 90lb weighted pull-up for 5 ✅
+---
+```
+
+Archive entries are ordinary markdown, so an update can include images or
+video the same way a blog post does.
 
 ## Adding a Good UX item
 

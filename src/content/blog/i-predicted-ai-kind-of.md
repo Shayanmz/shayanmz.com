@@ -95,8 +95,6 @@ My answers:
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
 
-<h3 id="section"></h3>
-
 <h3 id="contact-me">Contact Me</h3>
 
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)

@@ -19,13 +19,9 @@ cover: /images/blog/cover-the-lion-trackers-guide-to-life-0.webp
 
 ---
 
-<h3 id="section"></h3>
-
 <h2 id="the-book-in-3-sentences">The Book in 3 ‘Sentences’</h2>
 
 <ol class="nlist"><li>Boyd Varty, a lion tracker and life coach, combines his learnings in both the modern and wild natural worlds to teach us a powerful lesson on how the ancient art of tracking (yes, tracking wild animals) can guide us to have more meaningful lives. As Varty puts it: “The unbroken stream of life that animates all things is supremely intelligent, and nothing in the wild needs a coach to help it discover what it truly is. If we had lost our way in the modern world—our sense of value, direction, and belonging—it was because we had lost contact with something more instinctual, more innate.”</li><li>Life is full of information, however it’s on us to train ourselves to see what we are looking for. Unfortunately, our modern world today is continuously sucking our attention outwards - everything in the natural world knows how to be itself, so turn your attention inwards by exploring our wild self. Find what puts you into your essence, no matter how small, and play with it, lose the track, keep trying.</li><li>Nature doesn’t care about your “plan”, it doesn’t care about your status or wealth or social position. It only cares about your presence and how you respond to the randomness of life. There is no social conditioning in nature. The answer to “who am I?” changes. Once you can learn how to be present in the process of your own transformation, rather than fixating on being transformed through some conditioned goals you’ve been taught, you will find greater pleasure in life.</li></ol>
-
-<h3 id="section"></h3>
 
 <h2 id="impressions">Impressions 🤔</h2>
 
@@ -37,21 +33,15 @@ The book combines live story telling, historical context, and how it all relates
 
 This has by far been one of my favourite books I have ever read.
 
-<h3 id="section"></h3>
-
 <h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 There is not a single person I would not recommend this book to.
-
-<h3 id="section"></h3>
 
 <h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 <div class="callout bg-gray-light"><div class="callout-icon">💡</div><div class="callout-body"><p>How my life / behaviour / thoughts / ideas have changed as a result of reading the book</p></div></div>
 
 <ul class="nlist"><li>I get out into nature a lot more and really appreciate the little intricacies of Mother Nature’s genius</li><li>I am trying to enjoy the process of growth in my professional career instead of fixating on my end ‘goals’</li><li>I have always kind of been this way, but I really listen to my body when it is trying to tell me something</li><li>As someone with mild OCD I’m learning to be more comfortable with chaos. Sometimes life doesn’t care about my ‘plan’ or ‘perfection’</li><li>I’ve really been absorbing the fact that we are all outcomes of our cultures &amp; social conditioning. Everyone I know and love in my life have all been conditioned in similar ways at this point. I want to travel and connect with the natural world at a deeper level. And no, I don’t mean doing mushrooms in a forest</li><li>As someone who cares a lot about wealth and having money, I have had many deep sessions of thought where I challenged myself in this regard. What do I really want?</li><li>A new motto of mine “Be the river”. Here’s Boyd Varty on rivers in nature:<div class="callout"><div class="callout-icon">🌊</div><div class="callout-body"><p>As it runs its course it wordlessly creates life. In the villages, women draw water in large buckets and young boys fish for bream and barbel. Inside the reserve, the river offers water on hot days for giraffes; it provides reeds and nest sites for thousands of birds. <u>It invites huge trees to its richly soiled banks, and it asks for nothing as it gives life out of its very riverness. All around us, nature quietly teaches of abundance.</u></p></div></div></li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 

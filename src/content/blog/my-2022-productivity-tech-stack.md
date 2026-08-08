@@ -33,8 +33,6 @@ This marks the first of my new annual tradition of outlining my tech stack that 
 
 In no particular order, let’s get right into it.
 
-<h3 id="section"></h3>
-
 <h4 id="notion"><span class="tc-blue"><strong><a href="https://www.notion.so/">Notion</a></strong></span></h4>
 
 I’ve already started putting together an entire blog post dedicated to how I use Notion because it touches so many parts of my life, but as a general explanation, it’s my life documentation hub. I have my to-do board, calendar events, work dashboard/to-do board with all my daily notes and projects, notes from courses I’ve taken, book notes, product/project ideas, job application spreadsheet, my website, and so much more. It’s also an extremely powerful collaboration tool for small teams to large businesses. I’ve used it with teams I’ve done contract/consulting work with, and as you will see below, to send the associated invoices.
@@ -53,8 +51,6 @@ Oh, and the base product is entirely free! With some minor limitations of course
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="slack"><span class="tc-blue"><strong><a href="https://slack.com/">Slack</a></strong></span></h4>
 
 I’ve used Slack both in my full-time role and in contract work that I’ve done in the past year. It’s by far my favourite communications tool that I’ve ever used. Some of my favourite functionalities are reminders of certain messages, statuses and notification pausing, auto-transcribing of videos uploaded (a newish feature I think), and huddles. I haven’t really gotten in the weeds of their workflows and what those can do for me - I’m planning on playing around with them this year for some internal projects at work.
@@ -64,8 +60,6 @@ I’ve used Slack both in my full-time role and in contract work that I’ve don
 I don’t know what it is about Discord, but it feels so overwhelming to use. I mean, I kind of do know, but that could warrant its own blog post entirely. Microsoft Teams is also, well, Microsoft Teams. Anyone who’s ever used that knows how mid it is. 😅
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="arc-from-the-browser-company"><span class="tc-blue"><strong><a href="https://arc.net/">Arc (from The Browser Company)</a></strong></span></h4>
 
@@ -81,15 +75,15 @@ Some of my favourite functionalities are:
 
 <div class="nb"></div>
 
-<ul class="nlist"><li>A beautiful way to separate and customize your browser groups, called ‘Spaces’.<figure><img src="/images/blog/my-2022-productivity-tech-stack-28.gif" alt="" loading="lazy" /></figure></li></ul>
+<ul class="nlist"><li>A beautiful way to separate and customize your browser groups, called ‘Spaces’.<figure><img src="/images/blog/my-2022-productivity-tech-stack-29.gif" alt="" loading="lazy" /></figure></li></ul>
 
 <div class="nb"></div>
 
-<ul class="nlist"><li>Live previews of favourited links<figure><img src="/images/blog/my-2022-productivity-tech-stack-29.webp" alt="" loading="lazy" /></figure></li></ul>
+<ul class="nlist"><li>Live previews of favourited links<figure><img src="/images/blog/my-2022-productivity-tech-stack-30.webp" alt="" loading="lazy" /></figure></li></ul>
 
 <div class="nb"></div>
 
-<ul class="nlist"><li>Downloads show up in the same place as all the tabs<figure><img src="/images/blog/my-2022-productivity-tech-stack-30.webp" alt="" loading="lazy" /></figure><div class="nb"></div></li><li><span class="tc-blue"><a href="https://www.youtube.com/watch?v=ukquBSOpmTk">Easels</a></span> - I recently created an Easel to brainstorm on some outfit ideas with my girlfriend for a New Years party. It was so easy to bring content in and the white boarding functionalities were clean &amp; simple. I also loved how easy it was to share it and access it across devices:</li></ul>
+<ul class="nlist"><li>Downloads show up in the same place as all the tabs<figure><img src="/images/blog/my-2022-productivity-tech-stack-31.webp" alt="" loading="lazy" /></figure><div class="nb"></div></li><li><span class="tc-blue"><a href="https://www.youtube.com/watch?v=ukquBSOpmTk">Easels</a></span> - I recently created an Easel to brainstorm on some outfit ideas with my girlfriend for a New Years party. It was so easy to bring content in and the white boarding functionalities were clean &amp; simple. I also loved how easy it was to share it and access it across devices:</li></ul>
 
 <span class="tc-blue">**[Check it out here](https://arc.net/e/69F8FB6F-77EF-4489-8389-FFE528CF84D8)**</span>
 
@@ -99,15 +93,11 @@ Some of my favourite functionalities are:
 
 <ul class="nlist"><li>Boooooosts 😍  I honestly haven’t been able to create anything with this yet, but here’s a rundown of what Arc Boosts are capable of (this is just scratching the surface):<div class="embed"><iframe src="https://www.youtube.com/embed/53KQ2wUZG2s?feature=oembed" loading="lazy" allowfullscreen></iframe></div><div class="nb"></div></li></ul>
 
-<h3 id="section"></h3>
-
 <h4 id="newsfeed-eradicator-df-tube"><span class="tc-blue"><a href="https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en">Newsfeed Eradicator</a></span> &amp; <span class="tc-blue"><strong><a href="https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna?hl=en">DF Tube</a></strong></span></h4>
 
 These have both been instrumental in minimizing distractions and keeping me focused. No more getting stuck in the black hole of endless scrolling and Youtube recommendation spirals. I go on each platform for a purpose, then get off. If I feel like scrolling through LinkedIn or something, you can very easily disable the news feed eradicator for a short amount of time. I can’t recommend these enough. Now, if only the same existed for my mobile apps 😪
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="cleanshot-x"><span class="tc-blue"><strong><a href="https://cleanshot.com/">CleanShot X</a></strong></span></h4>
 
@@ -123,8 +113,6 @@ There is one caveat: it’s only available for Macs.
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="super-so"><span class="tc-blue"><strong><a href="https://super.so/">Super.so</a></strong></span></h4>
 
 Super is how I created my website that you are on right now! It allows you to create websites directly from your Notion pages with a lot of simple design capabilities, SEO customization, and custom code snippets.
@@ -135,15 +123,11 @@ You can use it for free - you just won’t be able to set a custom domain, use c
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="spectacle"><span class="tc-blue"><a href="https://www.spectacleapp.com/">Spectacle</a></span></h4>
 
 My go-to window resizer. It’s not being maintained anymore, but the app does what I need it to do, so no biggie. I’m sure there is better out there, so when I come across something I’ll probably switch.
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="readwise"><span class="tc-blue"><a href="https://readwise.io/">Readwise</a></span></h4>
 
@@ -153,11 +137,9 @@ Readwise takes my highlights from my Kindle books and exports each one to Notion
 
 I’ve probably saved over 10,000 hours in note-taking/transferring my highlights from Kindle to Notion. Here are some of the other export options 👇🏼
 
-<figure><img src="/images/blog/my-2022-productivity-tech-stack-31.webp" alt="" loading="lazy" /></figure>
+<figure><img src="/images/blog/my-2022-productivity-tech-stack-32.webp" alt="" loading="lazy" /></figure>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="gsuite-cron">GSuite + <span class="tc-blue"><strong><a href="https://cron.com/">Cron</a></strong></span></h4>
 
@@ -177,11 +159,9 @@ You can just let me know or confirm here: [https://cron.com/shayanmemarzadeh/s6k
 
 <div class="nb"></div>
 
-<details class="tc-gray"><summary><span class="tc-gray">The link won’t work if you are reading this past those dates, so click here for a demo (it’s basically a Calendly style scheduling)</span></summary><div class="dtl"><figure><img src="/images/blog/my-2022-productivity-tech-stack-32.gif" alt="" loading="lazy" /></figure></div></details>
+<details class="tc-gray"><summary><span class="tc-gray">The link won’t work if you are reading this past those dates, so click here for a demo (it’s basically a Calendly style scheduling)</span></summary><div class="dtl"><figure><img src="/images/blog/my-2022-productivity-tech-stack-33.gif" alt="" loading="lazy" /></figure></div></details>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="amazon-kindle"><span class="tc-blue"><strong><a href="https://www.amazon.ca/Kindle-Paperwhite/dp/B08N36XNTT">Amazon Kindle</a></strong></span></h4>
 
@@ -195,8 +175,6 @@ I recommend the <span class="tc-blue">**[Paperwhite](https://www.amazon.ca/Kindl
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="goodnotes"><span class="tc-blue"><strong><a href="https://www.goodnotes.com/">GoodNotes</a></strong></span></h4>
 
 GoodNotes is my favourite note-taking app for the iPad. I use it regularly to sign documents, take notes on courses and textbooks, and brainstorm ideas for blog posts and random mind-dumps.
@@ -207,15 +185,11 @@ I also have Notability, which has a couple features that GoodNotes doesn’t (at
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="notion-invoice"><span class="tc-blue"><a href="https://notioninvoice.com/">Notion Invoice</a></span></h4>
 
 Introduced to this by my good friend <span class="tc-blue">**[Xavier](https://www.linkedin.com/in/xavier-caffrey-157209175/)**</span>, it’s an extremely light-weight way to create professional PDF invoices for any contract work I do, directly from within Notion. It’s only a 2 person team, so don’t expect too much from it. It’s a simple tool and will probably remain that way. Which works for me.
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="canva"><span class="tc-blue"><strong><a href="https://www.canva.com/">Canva</a></strong></span></h4>
 

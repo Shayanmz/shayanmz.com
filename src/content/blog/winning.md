@@ -19,13 +19,9 @@ cover: /images/blog/cover-winning-0.webp
 
 ---
 
-<h3 id="section"></h3>
-
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 <ol class="nlist"><li><u><strong>Winning IS NOT:</strong></u> Glorious, Euphoric, Success, Domination, Achievement, Power, Satisfaction, Triumph, Awesome, Amazing. <u><strong>Winning IS</strong></u> Uncivilized, Hard, Nasty, Unpolished, Dirty, Rough, Unforgiving, Unapologetic, Uninhibited.</li><li>Winning is not a spectrum, you either win or you lose, and when you do win, you get thrown right back to the beginning and have to do it all over again with even more obsession than the first time.</li><li>By referring to characteristics of individuals like Michael Jordan, Kobe Bryant, and others, along with the personal details Tim shares, he creates a Winning persona as someone who: flexes their IDGAF muscle often, is extremely confident in themselves, is ok with being called selfish and not being liked, understands the importance of knowledge, is comfortable with loneliness, can control their mind, can control the uncontrollable, is addicted to results, has mastered focus, has fear but never doubts, holds themself accountable, and what I personally think is the most important for Winning: has a dark side.<p><span class="tc-gray">(Yes, I just tried to summarize every chapter with commas)</span></p></li></ol>
-
-<h3 id="section"></h3>
 
 <h2 id="impressions">Impressions 🤔</h2>
 
@@ -41,8 +37,6 @@ There are several parts throughout the book where he very clearly emphasizes tha
 
 All in all, I liked Tim’s take on the topic of Winning and I came into it excited to dig deeper into the brains of some of the greats like MJ and Kobe. Whether you choose to take these ideas and apply them to your life, is entirely up to you.
 
-<h3 id="section"></h3>
-
 <h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 This book is a bit harder to generally recommend to certain people because of Tim’s strong take on his ideas and I think it really depends on where you are in your life and what you want to achieve in this world. He even states in the book that if you’re reading it to get some extra motivation or a little push, then this isn’t the book for you. It’s not some guide or framework that will help you achieve some abstract goal of Winning.
@@ -53,15 +47,11 @@ So, with that in mind, I would recommend this book to the following people:
 
 <details><summary>To give you a little glimpse, click on the toggle to read an excerpt that gives you an idea of how his writing makes you feel at times. This might sound cheesy, but if you read that and related to it, or it motivated you somehow, I feel like you would appreciate the entire book.</summary><div class="dtl"><div class="callout bg-gray-light"><div class="callout-icon">💬</div><div class="callout-body"><p><em>Winning will use every dirty trick in the book-and make up new ones just to entertain itself- to keep you in hell. It&#x27;s too hard, it whispers ... you&#x27;ll never get there... your parents don&#x27;t believe in you ... your friends think you&#x27;re crazy ... look at you, you&#x27;re already a failure. Which, by no coincidence, is exactly what you were already thinking. So you stay there, waiting. Waiting to feel different, waiting to be told what to do, waiting for an answer that never comes. And meanwhile, the flames are getting hotter and hotter, until you can&#x27;t take it. You have to take action, or you burn out. But instead of being propelled by the heat, you can become frozen where you are.</em></p></div></div><div class="nb"></div></div></details>
 
-<h3 id="section"></h3>
-
 <h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 <div class="callout bg-gray-light"><div class="callout-icon">💡</div><div class="callout-body"><p>How my life / behaviour / thoughts / ideas have changed as a result of reading the book.</p></div></div>
 
 <ul class="nlist"><li>I say “no” to things that do not entirely excite me.</li><li>I am more comfortable with the fact that I can’t always make other people happy with my decisions. Meaning, I am generally more confident with the choices that I make.</li><li>Having read other books that described competitiveness as being a bad thing, this one helped me come to a healthier balance by re-encouraging my competitive personality to shine how I see fit.</li><li>I think about this idea a lot: Tim doesn’t like the line “It’s a marathon, it’s not a sprint” and associates it with procrastination and lack of focus, which I definitely thought was a bit aggressive, but he then conceptualized it by saying if you look at an elite marathon runner and take their average pace, it would be just about/almost the sprinting speed of most people. <em>Meaning, elite marathon runners are essentially sprinting throughout the entire marathon.</em><ol class="nlist"><li><div class="callout bg-gray-light"><div class="callout-icon">💭</div><div class="callout-body"><p>Winning is not a marathon, it’s a sprint with no finish line</p></div></div></li><li>Life truly is short, so this idea has encouraged me to stay motivated and keep sprinting through my life.</li></ol></li><li>I’m more comfortable with fear and more aware of doubt. I have thought about his 3 questions when I am doubtful of something:<ol class="nlist"><li>Do I want to do it?</li><li>Can I do it?</li><li>Is it worth my time?</li></ol></li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 

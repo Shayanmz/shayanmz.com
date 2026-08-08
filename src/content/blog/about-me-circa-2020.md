@@ -17,13 +17,9 @@ cover: /images/blog/cover-about-me-circa-2020-0.webp
 
 Hi!👋🏽 Allow me to actually introduce myself. I'm Shy - if you want to learn Shayan and not Shy, <span class="tc-blue">**[click here](/resume)**</span> for my resume. Here I'm going to give you my own little twist on an 'About Me' page, where I'll be focusing on what you don't really get to see on my traditional resume. I had a lot of fun putting this together, and I learned a lot about myself after rewriting it approximately 20 times. I challenge you all to give this a try when you get a chance - write an entire page about who you REALLY are.
 
-<h3 id="section"></h3>
-
 <h3 id="shortest-timeline-ever">Shortest timeline ever</h3>
 
 <ul class="nlist"><li>Born in London, ON, 4 minutes before my twin. He hates it when I call him my younger brother.</li><li>Started playing soccer at the age of 4, and piano at the age of 6. Not a prodigy in either.</li><li>Attended full french school until grade 8. Yes, even math was in french.</li><li>Moved to Etobicoke, ON, where I attended Richview CI for secondary school.</li><li>Attended the University of Waterloo for 5 years where I graduated from the Honours Economics Co-op program - while also playing on the varsity soccer team.</li><li>Throughout the first 6 months of COVID-19 I: Had fun learning the basics of HTML/CSS to build the first version of this website, started my personal blog, and had the opportunity to interview with many amazing organizations.</li><li>Worked @ <span class="tc-blue"><strong><a href="https://www.phreesia.com/">Phreesia</a></strong></span> on the Customer Success team for just over 1 year. Summarized experience: Great product, amazing people, great (remote) work environment, and even better partners. <span class="tc-blue"><strong><a href="https://www.kudoboard.com/boards/febiYVGc#view">Click here</a></strong></span> to see what a few of my immediate teammates had to say about working with me!</li><li>Worked @ <span class="tc-blue"><strong><a href="https://www.bluescape.com/">Bluescape</a></strong></span> as a Customer Success Manager for 2 years. A real-life case study experience for me. We were a media-differentiated whiteboard product with incredible customers but weren’t able to nail our offering quickly enough and ended up losing to products like Miro, Figma, Figjam, Adobe XD, etc.</li><li>After working as a CSM @ <span class="tc-blue"><strong><a href="https://www.gorgias.com/">Gorgias</a></strong></span> for 1 year, I made my first big career transition into the Ops side of the business as a GTM Engineer.</li></ul>
-
-<h3 id="section"></h3>
 
 <h3 id="why-i-made-this-website"><strong>Why I made this website</strong></h3>
 
@@ -33,11 +29,7 @@ That's where the blog comes in. When I read blog posts, I look to see if the aut
 
 As for the cereal link, it's just a little fun side project of mine I've been working on where you can fill out a quick survey about your taste and food preferences, and it returns a list of my cereal recommendations based on every cereal that I have personally tasted and reviewed on my cereal Instagram page. I did this mostly so I could play around with the basics of Python scripts, web scraping, JavaScript, React, and Firebase. Oh - and because I love cereal.
 
-<h3 id="section"></h3>
-
 <h2 id="about-me">About Me</h2>
-
-<h3 id="section"></h3>
 
 <h3 id="the-integration-of-technology-in-different-industries-intrigues-me">The integration of technology in different industries intrigues me</h3>
 
@@ -47,8 +39,6 @@ Career wise, I'm highly interested in and always learning about product manageme
 
 My long-term career plan is to be a part of the fit-tech industry and create products that help people take full control of their own physical health. If this excites you as well, <span class="tc-blue">**[send me an email](/cdn-cgi/l/email-protection#47627577342f263e26292a3d767507202a262e2b6924282a)**</span>, I'd love to have a chat.
 
-<h3 id="section"></h3>
-
 <h3 id="when-i-see-someone-doing-something-i-can-t-do-the-first-thing-i-always-think-is-i-could-do-that-if">When I see someone doing something I can&#x27;t do, the first thing I always think is &quot;I could do that if ___&quot;</h3>
 
 Let me preface this by saying that I am not by any means taking away from other people's accomplishments. Rather, I'm breaking down what I am seeing as I see it. I'm generally a systematic thinker, so I often ask myself a series of questions like: "How is this person currently doing this?", "How did they learn to do this?", "How long would this take for me to learn?", "What would I have to do/change to be able to do this?", and "Do I even want to learn how to do this?".
@@ -56,8 +46,6 @@ Let me preface this by saying that I am not by any means taking away from other 
 <blockquote><p>&quot;Everyone you will ever meet knows something that you don&#x27;t&quot; - Bill Nye</p></blockquote>
 
 Ever since I came across this quote, however, I have spent a lot of my time learning how to make better connections with others and how to be a better listener. Yes, I can try and systematically break down everything I see, but if I also listen closely to the person themself, I'll most likely be able to learn something worthwhile.
-
-<h3 id="section"></h3>
 
 <h3 id="my-athletic-life-will-always-be-a-part-of-me"><strong>My athletic life will always be a part of me</strong></h3>
 
@@ -71,8 +59,6 @@ Two of my favourite athletes:Cam Newton - I connect with his outgoing/I don't ca
 
 <p>Cam Newton - I connect with his outgoing/I don&#x27;t care attitude, but he also puts the work in. A little cheesy, but watch <span class="tc-blue"><strong><a href="https://www.youtube.com/watch?v=6Mo5IIEK3Zk">this video</a></strong></span>. I get goosebumps every time.Ross Edgley - A very humble, educated, and well-spirited athlete to follow. Oh, he also <span class="tc-blue"><strong><a href="https://www.youtube.com/watch?v=C922Z0E6vs0&amp;list=PLnuf8iyXggLGggJSzhHACar1CYpIeuTzS&amp;index=25">swam around Great Britain</a></strong></span>.</p>
 
-<h3 id="section"></h3>
-
 <h3 id="i-m-not-a-fan-of-the-saying-i-m-a-creature-of-habit"><strong>I&#x27;m not a fan of the saying “I’m a creature of habit”</strong></h3>
 
 Throughout my last few years in university, I was never content with how 'productive' I was. I tried different morning, night, and daily routines, but they never stuck. What I didn't realize however, was that throughout testing all these different tactics, I had unknowingly been accumulating many small habits that had been continuously compounding (<span class="tc-blue">**[James Clear's 1% rule](/blog/atomic-habits#block-56b550f37965478f923c86c5e71f5f61)**</span>).
@@ -83,21 +69,15 @@ It wasn't until after I read the 'Power of Habit' by Charles Duhigg and 'Atomic 
 
 Every day I'm constantly making the conscious effort to manipulate the systems I use to make the rituals and routines that I want to stick, habitual. Please reach out to me via my email at the bottom if you want some examples of what I mean by this.
 
-<h3 id="section"></h3>
-
 <h3 id="i-m-an-ocd-driven-minimalist"><strong>I&#x27;m an OCD driven minimalist</strong></h3>
 
 What I mean by this is that my (non-crippling) OCD restricts me from owning too many things. I hate having so many things that I don't know where to put them - if everything I own doesn't fit into their designated spots, then I know it's time to donate or throw some stuff out. I use this definition of minimalism for myself because, although I'd like to say that I'm a true minimalist, I like shoes too much; as long as there's a shoe rack big enough for all of them, then I am happy.
 
 Being a minimalist has been trending over recent years, and although it's very hard to be done to perfection, there are still many benefits to trying. Something that I've used a lot is the 1 year rule; if you haven't worn or used it in an entire year, then you could probably get rid of it.
 
-<h3 id="section"></h3>
-
 <h2 id="more-fun-facts-about-me">More fun facts about me</h2>
 
 <ul class="nlist"><li><u><strong>I&#x27;m a protagonist</strong></u><strong>:</strong> I&#x27;m sure you&#x27;ve heard of the Myers Briggs personality matrix. Well, feel free to <span class="tc-blue"><strong><a href="https://www.16personalities.com/enfj-personality">read mine (I&#x27;m type A)</a></strong></span> - I&#x27;d say it&#x27;s fairly accurate.</li><li><u><strong>I ask a lot of questions</strong></u><strong>:</strong> I don&#x27;t ever feel like I sound stupid because there&#x27;s a 95%+ chance that other people have the same questions as me. People also fear that their questions have to bring value to the discussion without the answer - which just isn&#x27;t the case.</li><li><u><strong>I&#x27;m a &#x27;mama&#x27;s boy&#x27;</strong></u><strong>:</strong> My mother immigrated to Canada at the age of 19, got her undergraduate degree, and became a full time nurse all while raising myself and my two brothers, all by herself. I&#x27;m still not quite sure how she was able to do all that, but there&#x27;s not a single thing in this world I wouldn&#x27;t do for her.</li><li><u><strong>I&#x27;ve been &#x27;vegan&#x27; for almost 6 years</strong></u><strong>:</strong> I&#x27;m not very vocal about this, because I do it for myself. I just believe that if we do not need to eat animals to survive anymore, there&#x27;s no need for me to eat them. I just eat a little different, that&#x27;s all.</li><li><u><strong>I don&#x27;t watch TV shows or movies by myself</strong></u><strong>:</strong> I believe that a large part of watching television is to experience it and talk about it with your friends, so I&#x27;d rather binge watch Grey&#x27;s Anatomy with my girlfriend.</li><li><u><strong>I&#x27;m highly intrinsically motivated</strong></u><strong>:</strong> I don&#x27;t have to be pushed to get results. If it&#x27;s a priority of mine, I don&#x27;t need anyone but myself to get me to where I want to be.</li><li><u><strong>In another life I would design homes for a living</strong></u><strong>: </strong>Creating sustainable, modern housing would be my specialty.</li><li><u><strong>I have an addictive personality - in a good way</strong></u><strong>!</strong> When something becomes a priority in my life, I&#x27;m obsessive about becoming better at it. Come to think of it, that&#x27;s probably why I stopped playing video games - probably for the better.</li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="quotes-i-currently-live-by">Quotes I currently live by</h2>
 

@@ -31,13 +31,13 @@ The results were:
 
 Anyway, here’s the viz:
 
+<div class="bm-wrap"><a class="bookmark" href="https://public.tableau.com/app/profile/shayan.memarzadeh/viz/JobHuntResponseRate/JobHuntResponseRate?publish=yes" target="_blank" rel="noopener noreferrer"><div class="bm-text"><div class="bm-title">public.tableau.com</div><div class="bm-url"><img class="bm-fav" src="/images/blog/my-2021-job-hunt-a-quick-post-27.webp" alt="" loading="lazy" />public.tableau.com</div></div></a></div>
+
 ---
 
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! Please don't hesitate to reach out - feedback is always appreciated.</span>
-
-<h3 id="section"></h3>
 
 <h3 id="contact-me">Contact Me</h3>
 

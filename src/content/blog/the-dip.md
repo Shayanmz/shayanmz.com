@@ -19,13 +19,9 @@ cover: /images/blog/cover-the-dip-0.webp
 
 ---
 
-<h3 id="section"></h3>
-
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
-<ol class="nlist"><li>The majority of this book is essentially trying to give you every reason that you need to be a “successful quitter”. Quitting the wrong stuff (Cul-de-Sacs or dead ends) is one of the most important things you can do, because it frees up your time to focus on the right things. Just make sure to ask the right questions of yourself before making a decision. <em>(many of these are provided)</em></li><li>Everything in life that’s worth doing is controlled by <em>the Dip</em>. It’s what separates the average from the great. Being persistent through the times that are extremely difficult is exactly what creates the distinction between the top 1% and the rest. The best part…? You don’t have to be the best in the entire world, because the word <em>“world”</em> is flexible to whatever you are trying to achieve.<figure><img src="/images/blog/the-dip-37.webp" alt="" loading="lazy" /></figure></li><li>Becoming #1 should be your top priority. The disproportionate rewards that the best players receive (Zipf’s law) are so dramatically undervalued. Stop trying to be a generalist. Getting through the Dip is the secret to success, so making sure you are “doing the right things” is how you will persevere”</li></ol>
-
-<h3 id="section"></h3>
+<ol class="nlist"><li>The majority of this book is essentially trying to give you every reason that you need to be a “successful quitter”. Quitting the wrong stuff (Cul-de-Sacs or dead ends) is one of the most important things you can do, because it frees up your time to focus on the right things. Just make sure to ask the right questions of yourself before making a decision. <em>(many of these are provided)</em></li><li>Everything in life that’s worth doing is controlled by <em>the Dip</em>. It’s what separates the average from the great. Being persistent through the times that are extremely difficult is exactly what creates the distinction between the top 1% and the rest. The best part…? You don’t have to be the best in the entire world, because the word <em>“world”</em> is flexible to whatever you are trying to achieve.<figure><img src="/images/blog/the-dip-38.webp" alt="" loading="lazy" /></figure></li><li>Becoming #1 should be your top priority. The disproportionate rewards that the best players receive (Zipf’s law) are so dramatically undervalued. Stop trying to be a generalist. Getting through the Dip is the secret to success, so making sure you are “doing the right things” is how you will persevere”</li></ol>
 
 <h2 id="impressions">Impressions 🤔</h2>
 
@@ -49,21 +45,15 @@ It’s important not to be a generalist/master of none as a result of you quitti
 
 I really enjoyed it. It was a really quick read too - I finished it in a couple hours.
 
-<h3 id="section"></h3>
-
 <h2 id="who-should-read-it">Who Should Read It❓</h2>
 
 <ul class="nlist"><li>Generalists. People who are decent at many things but don’t feel like they really belong or are really good in one. (me 🙋🏽 )</li><li>If you’re looking to decide what you want to spend the next chunk of your life working on.</li><li>If you’re early in your career.</li><li>If you aren’t very satisfied with your current career.</li><li>Probably most entrepreneurs and business owners.</li><li>Athletes, as a resource to “not quit” and get past the Dip.<blockquote><p>“In a competitive world, adversity is your ally. The harder it gets, the better chance you have of insulating yourself from the competition.”</p></blockquote></li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 <div class="callout bg-gray-light"><div class="callout-icon">💡</div><div class="callout-body"><p>How my life / behaviour / thoughts / ideas have changed as a result of reading the book.</p></div></div>
 
 <ul class="nlist"><li>I’m less attached to the random ideas I have, because I know that I personally would not be able truly commit and see them through.</li><li>I’m much more open to <em>testing</em> things… If I lose my excitement very quickly or if I can’t see myself doing something long-term, I feel better quitting early.<ul class="nlist"><li>I’ve always given myself a hard time internally for quitting things “too early” in the past, like certain jobs that really didn’t resonate with me, side projects that had potential, or even past relationships.<blockquote><p>“Quitting the projects that don’t go anywhere is essential if you want to stick out the right ones.”</p></blockquote></li></ul></li><li>I’m a really passionate dude. I want to work on things that are really cool or excite me. I’m allowing myself to believe that it IS possible to find a career that aligns with my passions. Even against the advice of Cal Newport.<blockquote><p>“Quitting a job doesn’t have to mean giving up. A job is just a tactic, a way to get to what you really want. As soon as your job hits a dead end, it makes sense to quit and take your quest to a bigger marketplace—because every day you wait puts your goal further away.”</p></blockquote></li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 

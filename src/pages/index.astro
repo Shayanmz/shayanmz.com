@@ -1,0 +1,72 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const entries = await getCollection('now');
+
+const current = entries.find((e) => e.id === 'current');
+if (!current) throw new Error('src/content/now/current.md is missing');
+const { Content: Current } = await render(current);
+
+// Past versions, newest first. Each becomes a toggle inside the Archive.
+const archive = entries
+  .filter((e) => e.id.startsWith('archive/'))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const rendered = await Promise.all(
+  archive.map(async (entry) => ({
+    entry,
+    Body: (await render(entry)).Content,
+  }))
+);
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+    timeZone: 'UTC',
+  });
+---
+
+<Base
+  title="Shayan Memarzadeh | Home"
+  description="What Shayan is currently working on"
+  active="home"
+>
+  <main class="page">
+    <h1 class="page-title">What I’m currently working on 👇🏽</h1>
+
+    <div class="prose-site">
+      <p>
+        <span class="tc-gray">Last updated on {fmt(current.data.date)}. Inspired by</span>
+        <span class="tc-blue"><strong><a href="https://sive.rs/now">Derek Sivers</a></strong></span
+        ><span class="tc-gray">.</span>
+      </p>
+
+      <div class="nb"></div>
+      <hr />
+
+      <Current />
+
+      {
+        rendered.length > 0 && (
+          <details class="tc-gray now-archive">
+            <summary>Archive</summary>
+            <div class="dtl">
+              {rendered.map(({ entry, Body }) => (
+                <details>
+                  <summary>{fmt(entry.data.date)}</summary>
+                  <div class="dtl">
+                    {entry.data.update && <p class="archive-update">{entry.data.update}</p>}
+                    <Body />
+                  </div>
+                </details>
+              ))}
+            </div>
+          </details>
+        )
+      }
+    </div>
+  </main>
+</Base>

@@ -59,23 +59,17 @@ That all being said, simply implementing this functionality won’t in and of it
 
 This suggestion I’m making is not all encompasing; providing other avenues for users to provide feedback is also great, like public documentation/community pages, Slack/Discord communities, and through social media.
 
-<h3 id="section"></h3>
-
 <h4 id="public-documentation">Public Documentation</h4>
 
 <figure><img src="/images/blog/in-product-feedback-bug-subimissions-16.webp" alt="" loading="lazy" /></figure>
 
 I’ve always found that API & Developer documentation has been extremely easy to navigate and understand. I feel like the gold standard is <span class="tc-blue">**[Mozilla’s MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)**</span>. Another company that has a variety of different resource options is Webflow, their <span class="tc-blue">**[developer docs](https://developers.webflow.com/docs)**</span> are nice too 🙂
 
-<h3 id="section"></h3>
-
 <h4 id="slack-discord-communities">Slack/Discord Communities</h4>
 
 <figure><img src="/images/blog/in-product-feedback-bug-subimissions-17.webp" alt="" loading="lazy" /></figure>
 
 This has become a lot more popular and is an amazing way to create a low friction way for users to get involved with the community, ask questions, and submit feedback.
-
-<h3 id="section"></h3>
 
 <h4 id="social-media">Social media</h4>
 
@@ -96,8 +90,6 @@ These are all great, but it’s still weird how many massive SaaS tools don’t 
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! Please give me feedback. Writing is hard.</span>
-
-<h3 id="section"></h3>
 
 <h3 id="contact-me"><strong>Contact Me</strong></h3>
 

@@ -5,7 +5,7 @@ icon: "🏋🏽"
 cover: /images/blog/cover-mvp-minimum-viable-phitness-0.webp
 ---
 
-<h3 id="section"></h3><h4 id="mvp-minimum-viable-product">MVP (Minimum Viable Product)</h4><h3 id="section"></h3><h4 id="mvp-minimum-viable-phitness">MVP (Minimum Viable Phitness)</h4>
+<h4 id="mvp-minimum-viable-product">MVP (Minimum Viable Product)</h4><h4 id="mvp-minimum-viable-phitness">MVP (Minimum Viable Phitness)</h4>
 
 <blockquote><p>&quot;A version of a product with just enough features to satisfy early customers and provide feedback for future product development&quot;</p></blockquote><blockquote><p>&quot;A version of yourself that allows you to satisfy your body and fulfill your daily activities/tasks without pain, discomfort, or the abolishment of your long-term health goals&quot;</p></blockquote>
 
@@ -55,15 +55,15 @@ It's obvious that for each of the personalities above, the MVP would vary tremen
 
 With the various fit-tech technologies being sold in the market today, I believe that this is possible. As we move towards a more remote workforce, meaning more time being spent at home, it opens up new opportunities to take care of our physical health. This has led to a surge in various at home workout equipment:
 
-<div class="nb"></div><h3 id="section"></h3><h4 id="tempo">Tempo</h4>
+<div class="nb"></div><h4 id="tempo">Tempo</h4>
 
 <div class="embed"><iframe src="https://player.vimeo.com/video/379317809?app_id=122963" loading="lazy" allowfullscreen></iframe></div>
 
-<div class="nb"></div><h3 id="section"></h3><h4 id="mirror">Mirror</h4>
+<div class="nb"></div><h4 id="mirror">Mirror</h4>
 
 <div class="embed"><iframe src="https://www.youtube.com/embed/Tk2E1pfg0og?rel=0" loading="lazy" allowfullscreen></iframe></div>
 
-<div class="nb"></div><h3 id="section"></h3><h4 id="tonal">Tonal</h4>
+<div class="nb"></div><h4 id="tonal">Tonal</h4>
 
 <div class="embed"><iframe src="https://www.youtube.com/embed/jX_JfWCgdRE?start=1&feature=oembed" loading="lazy" allowfullscreen></iframe></div>
 

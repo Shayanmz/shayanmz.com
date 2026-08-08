@@ -19,21 +19,15 @@ cover: /images/blog/cover-the-courage-to-be-disliked-0.webp
 <div class="toc-item" style="margin-inline-start:24px"><a href="#fifth-night-to-live-in-the-earnest-in-the-here-and-now">Fifth Night: To live in the earnest in the here and now</a></div>
 </nav>
 
-<h3 id="section"></h3>
-
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
 <ol class="nlist"><li>We should view our lives through the lens of Teleology (The study of the <u><em>purpose</em></u> of a given phenomenon, rather than it&#x27;s cause), and not through Etiological thinking (determinism/causation).</li><li>We need interpersonal relationships to live happy lives, but at the same time all our problems come from interpersonal relationships, so we need to learn how to separate our tasks and theirs (i.e what other people think about you is not your task, it’s theirs).</li><li>To live in life harmony you have to: Stop comparing yourself to others, believe that others are your comrades (you want the best for each other), and understand that you are of use (important) to at least one person.</li></ol>
-
-<h3 id="section"></h3>
 
 <h2 id="impressions">Impressions 🤔</h2>
 
 I usually find it challenging to consciously implement things that I learn from books into my daily life, however the authors Ichiro Kishimi & Fumitake Koga did an amazing job at simplifying the extremely complex topic of our desire to be happy.
 
 As an extremely competitive person, this book has proved to be very helpful in understanding the downsides associated with being competitive, and how I can internalize my drive to be better rather than comparing myself to others.
-
-<h3 id="section"></h3>
 
 <h3 id="who-should-read-it">Who Should Read It❓</h3>
 
@@ -43,15 +37,11 @@ More specifically, I believe that people who are currently dealing with any sort
 
 It's also a fairly quick read as the text is in dialogue format. I would recommend reading it in chunks so you can think about what you've read and how to apply it to your own life.
 
-<h3 id="section"></h3>
-
 <h2 id="how-the-book-changed-me">How the Book Changed Me 💯</h2>
 
 <div class="callout bg-gray-light"><div class="callout-icon">💡</div><div class="callout-body"><p>How my life / behaviour / thoughts / ideas have changed as a result of reading the book.</p></div></div>
 
 <ul class="nlist"><li>It made me re-assess my use of competitiveness in my day-to-day life</li><li>It encouraged me to volunteer more</li><li>I&#x27;m more laid back about things now, especially my interpersonal relationships<p>→ I don&#x27;t overthink things as much</p></li><li>I think more about why I decide to do things - is it for myself or other people?</li></ul>
-
-<h3 id="section"></h3>
 
 <h2 id="my-top-3-quotes">My Top 3 Quotes 🗣</h2>
 
@@ -63,13 +53,9 @@ It's also a fairly quick read as the text is in dialogue format. I would recomme
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h2 id="raw-notes">Raw Notes ✍🏼</h2>
 
 <span class="tc-gray">(I will be removing my raw notes from my book summaries moving forward for the sake of not making the authors work superfluous)</span>
-
-<h3 id="section"></h3>
 
 <h3 id="first-night-deny-trauma"><span class="tc-orange">First Night: Deny trauma</span></h3>
 
@@ -111,8 +97,6 @@ You can change your life right now
 <ul class="nlist"><li>People always make excuses and say things like: &quot;I&#x27;ve been really busy lately, I couldn&#x27;t work on it&quot; to explain why they haven&#x27;t done things. However this is simply to leave the possibility of &quot;I can do it if I try&quot; open, by not actually committing to anything.<ul class="nlist"><li>This is usually done because of other reasons, like not having the courage or being afraid of criticism etc..</li></ul></li><li>No matter what has occurred in your life up to this point, it should have no bearing at all on how you live from now on</li></ul>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h3 id="second-night-all-problems-are-interpersonal-relationship-problems"><span class="tc-orange">Second Night: All problems are interpersonal relationship problems</span></h3>
 
@@ -179,8 +163,6 @@ A healthy feeling of inferiority is not something that comes from comparing ones
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h3 id="third-night-discard-other-people-s-tasks"><span class="tc-orange">Third Night: Discard other people&#x27;s tasks</span></h3>
 
 <ul class="nlist"><li>Adlerian psychology denies the need to seek recognition from others<ul class="nlist"><li><span class="tc-yellow">One must not seek recognition</span></li></ul></li><li>It&#x27;s dangerous to fall in the trap of reward-and-punishment education. If one does not receive recognition when they do something good, then they&#x27;ll start thinking &quot;why tf am I doing this then&quot;</li><li>You&#x27;re living other people&#x27;s lives when all you care about is how they see you</li></ul>
@@ -193,15 +175,11 @@ Separation of tasks
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h3 id="fourth-night-where-the-center-of-the-world-is"><span class="tc-orange">Fourth Night: Where the center of the world is</span></h3>
 
 <ul class="nlist"><li>&quot;Individual&quot; has the meaning &quot;indivisible&quot; → It is the smallest possible unit and cannot be broken down any further</li><li>The mind and body are viewed as one - tension in the mind can make one&#x27;s arms and legs shake, or cause one&#x27;s cheeks to turn red<ul class="nlist"><li>It&#x27;s that same as what we say! We can&#x27;t justify certain actions and say &quot;I couldn&#x27;t control it&quot;, you can control everything!</li></ul></li><li><span class="tc-yellow">The goal of interpersonal relationships is &quot;community feeling&quot;</span></li><li>Community is much more than our friends, work, school etc. It&#x27;s actually the entire universe.. If we don&#x27;t feel part of a certain community, there&#x27;s always a larger one surrounding it that we can step back and be a part of<ul class="nlist"><li>&quot;Storm in a teacup&quot;</li></ul></li><li>When there are two people society emerges, and community emerges there too</li><li>It goes from self-interest to interest in others (social interest)</li><li><span class="tc-yellow">People who are obsessed with the desire for recognition are also extremely self-centered</span></li><li>Make sure we move from &quot;attachment to self&quot; to &quot;concern for others&quot;</li><li>We&#x27;re all part of a larger connected system</li><li>We should not praise or rebuke. Praising has an aspect of it being &quot;the passing of judgement by a person of ability on a person of no ability&quot;.<ul class="nlist"><li><span class="tc-yellow">Praise creates an unconscious hierarchical structure</span><ul class="nlist"><li>Judgement = Vertical relationships</li></ul></li><li>Focus on creating horizontal relationships with people and not vertical<ul class="nlist"><li>Gratitude&gt;praise!<ul class="nlist"><li>This gives someone the feeling of contribution and that &#x27;they are of use to someone</li><li>They don&#x27;t actually have to <u><em><strong>do</strong></em></u> anything. Even their mere existence can be enough</li></ul></li></ul></li></ul></li><li><span class="tc-yellow">&quot;Equal but not the same&quot; → Equal = Horizontal = Encouragement</span></li><li>When one does not separate tasks, it is implied that the person will intervene in another persons life with a goal of some sort. E.g a parent intervening on a child&#x27;s life to manipulate them somehow</li><li>Start building horizontal relationships. If people do not cooperate, they&#x27;re not connected to you so it doesn&#x27;t matter. Just start assuming everyone is your comrade!</li><li>You can&#x27;t be building both vertical and horizontal relationships. Because once you have one vertical relationship, you&#x27;ll soon start treating all your other relationships as vertical as well</li><li>There is space for you to refuse work that you disagree with in a company setting. Because it is you who is doing the work and therefore you who will be responsible if it fails. Don&#x27;t avoid interpersonal conflict to avoid responsibility.<ul class="nlist"><li>Be constructive and respectful, but also understand that you shouldn&#x27;t hide behind vertical relationships.</li></ul></li></ul>
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h3 id="fifth-night-to-live-in-the-earnest-in-the-here-and-now"><span class="tc-orange">Fifth Night: To live in the earnest in the here and now</span></h3>
 

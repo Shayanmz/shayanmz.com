@@ -51,7 +51,7 @@ What was it that made John miss on this interaction? Well, my theory is that the
 
 <ol class="nlist"><li>Knowledge</li><li>Emotional Intelligence (EQ)</li><li>Curiosity</li></ol>
 
-<figure><img src="/images/blog/the-3-pillars-of-customer-service-34.webp" alt="" loading="lazy" /></figure>
+<figure><img src="/images/blog/the-3-pillars-of-customer-service-35.webp" alt="" loading="lazy" /></figure>
 
 <div class="nb"></div>
 
@@ -75,8 +75,6 @@ As I tried to answer their questions and muttered sad responses of wine suggesti
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="knowledge">Knowledge</h4>
 
 A simple way to think about the knowledge pillar is: you should, most of the time, know more than the customer and be very confident about your products & services. Customers come to you for your knowledge, your consultation, and your experience with the products & services you provide. The moment that they start to realize they know more than you and that you're hiding it, you will lose their trust. If you don't know an answer to something, don't fake it, transparency is key.
@@ -87,8 +85,6 @@ A simple way to think about the knowledge pillar is: you should, most of the tim
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="emotional-intelligence-eq">Emotional Intelligence (EQ)</h4>
 
 Emotional intelligence is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, empathize with others, overcome challenges, and defuse conflict ([helpguide.org](https://www.helpguide.org/articles/mental-health/emotional-intelligence-eq.htm)). In a customer service setting, the empathy part is the most important. It's basically how you acknowledge and understand the emotions of the customer and yourself within an interaction to manage the outcome positively.
@@ -98,8 +94,6 @@ Emotional intelligence is the ability to understand, use, and manage your own em
 If a customer comes in frustrated, being a robot in your responses by reciting the customer service policy will never work out optimally. Because of these high emotion situations, EQ is probably the most difficult pillar to master, but when done well, it comes with an amazing outcome: the customer feeling like you're on their side.
 
 <div class="nb"></div>
-
-<h3 id="section"></h3>
 
 <h4 id="curiosity">Curiosity</h4>
 
@@ -129,8 +123,6 @@ Oh, and you can’t fake curiosity either.
 
 <div class="nb"></div>
 
-<h3 id="section"></h3>
-
 <h4 id="why-do-these-pillars-work">Why do these pillars work?</h4>
 
 They work to build trust with the customer. That's it. Trust.
@@ -150,8 +142,6 @@ Now go out and build trust, people.
 <div class="nb"></div>
 
 <span class="tc-gray">Thank you for making it this far! I’ll be testing less structured posts like this occasionally. Please give me feedback. Writing is hard.</span>
-
-<h3 id="section"></h3>
 
 <h3 id="contact-me">Contact Me</h3>
 
