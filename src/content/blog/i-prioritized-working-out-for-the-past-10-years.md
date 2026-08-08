@@ -21,7 +21,7 @@ I did very little studying because of how distracted I was with varisty soccer a
 
 To top it off, before every single one of these midterms, I always made sure to get my workouts in, even if it was 8pm, the night before my 8am exam. I still thought it was a good idea to go to the gym and spend 3 total hours of physical and mental energy on what could have been used towards studying.
 
-I did end up graduating (with honours), but boy oh boy did I learn a little thing or two about **prioritization**.
+I did end up graduating (with honours), but boy oh boy did I learn a little thing or two about <u>**prioritization**</u>.
 
 <div class="nb"></div>
 
@@ -29,7 +29,7 @@ Now, many years have passed since those dark days and I’d like to believe that
 
 <div class="nb"></div>
 
-Below, I’ll be sharing the main things I’ve learned over the past ~10 years of working out, basically so you **don’t** do what I did. Don’t be 1st year Shy.
+Below, I’ll be sharing the main things I’ve learned over the past ~10 years of working out, basically so you <u>**don’t**</u> do what I did. Don’t be 1st year Shy.
 
 <div class="nb"></div>
 
@@ -103,7 +103,7 @@ This obviously depends on what your modifiable variables look like, but keep thi
 
 <div class="nb"></div>
 
-> “The literature will show very clearly that **adherence** is the number one predictor of physical fitness outcomes”
+> “The literature will show very clearly that <u>**adherence**</u> is the number one predictor of physical fitness outcomes”
 
 <div class="nb"></div>
 
@@ -149,7 +149,7 @@ This is where you grow.
 
 I used to think that I ate more than enough protein, but for many goals in the gym and as an athlete, your protein intake needs to be high.
 
-**Aiming** for (it’s ok if you don’t always hit it) 1g of protein / lb of bodyweight is my recommendation.
+<u>**Aiming**</u> for (it’s ok if you don’t always hit it) 1g of protein / lb of bodyweight is my recommendation.
 
 I noticed immediate differences once I bumped up my protein intake.
 
@@ -177,7 +177,7 @@ You know what feels normal and what doesn’t.
 
 <h3 id="injuries-are-a-part-of-the-journey">Injuries are a part of the journey</h3>
 
-I’m not saying it’s normal to get **regularly** injured, I’m just saying you could be doing everything right and still get injured.
+I’m not saying it’s normal to get <u>**regularly**</u> injured, I’m just saying you could be doing everything right and still get injured.
 
 Generally in the weight room, the equation is as follows:
 
@@ -229,7 +229,7 @@ Or you could just hire a good trainer that would help with all this.
 
 <h3 id="don-t-workout-without-a-plan">Don’t workout without a plan</h3>
 
-Whether you buy an app, a digital workout program, or an actual coach that helps you with your goals and programming, just make sure you have **something**.
+Whether you buy an app, a digital workout program, or an actual coach that helps you with your goals and programming, just make sure you have <u>**something**</u>.
 
 You’ll waste a lot of time and effort with minimal results without a good plan.
 
@@ -254,6 +254,7 @@ Just eat good, rest well, and push yourself with good form.
 3. Frequency (x per week)
 4. Progression (session over session increases in any of weight, sets, reps)
 5. Volume (reps x sets)
+  1. Volume Load (reps x sets x weight)
 6. Intensity (% of 1RM or % of Max Heart Rate/VO2 Max)
 7. Rest (how long you rest between sets & exercises)
 
@@ -328,7 +329,7 @@ Compare yourself to your past self.
 
 If you really want it, they are never as serious as you.
 
-What you should do instead: create your **own** schedule and ask if they want to join.
+What you should do instead: create your <u>**own**</u> schedule and ask if they want to join.
 
 The amount of times I’ve moved my schedule around to accommodate for someone else, only to be told that “I am too busy” or “next time” or “I need to eat” at the last minute 🙄
 
@@ -344,7 +345,7 @@ These are my learnings 10 years in, we’ll see what changes in the next 10.
 
 <div class="nb"></div>
 
-The beauty of exercise & physical fitness in general, is that everything **ALWAYS depends on context.**
+The beauty of exercise & physical fitness in general, is that everything <u>**ALWAYS depends on context.**</u>
 
 <div class="nb"></div>
 

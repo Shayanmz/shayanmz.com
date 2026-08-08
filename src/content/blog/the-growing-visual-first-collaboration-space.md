@@ -19,7 +19,7 @@ cover: /images/blog/cover-the-growing-visual-first-collaboration-space-0.webp
 
 ---
 
-> 🥱 **TL;DR**I accepted an offer from <span class="tc-blue">[Bluescape](https://www.bluescape.com/)</span> as a CSMI believe that collaboration tools will eventually all converge into one global platform, where all cross-functional teams will work out ofAll software apps that we use are just glorified filing cabinets, and our brains love itDeeply integrated infinite canvas apps are disruptive to the collaboration space - they will become much more popular over the coming yearsCommunicating the value of collaboration tools is easy, quantifying it is hardAlthough quantifying value can really help, it’s not requiredThis <span class="tc-blue">**[Notion case study](https://foundationinc.co/lab/notion-strategy)**</span> demonstrates why it’s not
+> 🥱 **TL;DR**I accepted an offer from <span class="tc-blue">[Bluescape](https://www.bluescape.com/)</span> as a CSMI believe that collaboration tools will eventually all converge into one global platform, where all cross-functional teams will work out ofAll software apps that we use are just glorified filing cabinets, and our brains love itDeeply integrated infinite canvas apps are disruptive to the collaboration space - they will become much more popular over the coming yearsCommunicating the value of collaboration tools is easy, quantifying it is hardAlthough quantifying value can really help, it’s not <u>required</u>This <span class="tc-blue">**[Notion case study](https://foundationinc.co/lab/notion-strategy)**</span> demonstrates why it’s not
 
 ---
 
@@ -33,7 +33,7 @@ For several years, I have been extremely interested in how collaboration platfor
 
 <div class="nb"></div>
 
-In spirit of starting my journey at Bluescape, I’m writing this quick post on why I believe visual tools are the future of the collaboration space by explaining what industry barriers ‘whiteboard’ or ‘canvas’ style products are breaking, and why ‘quantifying’ business outcomes for SaaS products is becoming less important (at least for collaboration tools).
+In spirit of starting my journey at Bluescape, I’m writing this quick post on why I believe <u>visual tools are the future of the collaboration space</u> by explaining what industry barriers ‘whiteboard’ or ‘canvas’ style products are breaking, and why ‘quantifying’ business outcomes for SaaS products is becoming less important (at least for collaboration tools).
 
 And listen, I’m no fool - I definitely have a lot of gaps in my current knowledge when it comes to properly scaling new ideas or disruptive technologies into the world, so please do share your thoughts and let me know if you agree or disagree.
 
@@ -62,7 +62,7 @@ Here are some of the various ‘buckets’ of tools that different teams need:
 - Development (Github, VS Code, CodePen, etc...)
 - The list goes on...
 
-The way I see it, the next natural iteration of collaboration growth is to bring all these cross-functional team members into one space. With the use of visual ‘canvas’ style platforms, where teams can bring all of their work together and place it strategically to inspire a larger scale collaboration process, this might become possible.
+The way I see it, the next natural iteration of collaboration growth is to bring <u>all</u> these cross-functional team members into one space. With the use of visual ‘canvas’ style platforms, where teams can bring all of their work together and place it strategically to inspire a larger scale collaboration process, this might become possible.
 
 <div class="nb"></div>
 
@@ -83,7 +83,7 @@ Every software application that we interact with today has some sort of user int
 <details>
 <summary>Trello board example</summary>
 
-![image](/images/blog/the-growing-visual-first-collaboration-space-27.webp)
+![image](/images/blog/the-growing-visual-first-collaboration-space-31.webp)
 
 </details>
 
@@ -92,7 +92,7 @@ Now, if I were to visualize the same thing in terms of how the underlying folder
 <details>
 <summary>Folder structure</summary>
 
-![image](/images/blog/the-growing-visual-first-collaboration-space-28.webp)
+![image](/images/blog/the-growing-visual-first-collaboration-space-32.webp)
 
 </details>
 
@@ -132,7 +132,7 @@ By definition, disruptive technologies are ones that innovate on low-end or new 
 <details>
 <summary>Disruptive Innovation Model</summary>
 
-![Great graphic on disruptive innovation from ](/images/blog/the-growing-visual-first-collaboration-space-29.webp)
+![Great graphic on disruptive innovation from ](/images/blog/the-growing-visual-first-collaboration-space-33.webp)
 
 *Great graphic on disruptive innovation from Harvard Business Review*
 
@@ -170,7 +170,7 @@ So, how do we quantify the above problems? Well, that’s the hard (and probably
 
 In preparation for my interviews with Bluescape, I came across their *Total Economic Impact Study* <span class="tc-gray">(you can get it</span> <span class="tc-blue">**[here](https://create.bluescape.com/evaluation-bluescape-total-economic-impact-2021)**</span><span class="tc-gray">)</span>, which was done by an independent research-based consulting firm, Forrester Consulting. I’m not going to summarize it here, but this study aimed to do exactly what I was mentioning above; giving tangible ROI metrics associated with the implementation and use of Bluescape’s platform. Here is a little snippet of one customer speaking to the benefit they saw in their sales cycles (I’ve gone ahead and highlighted the pieces that emphasize my earlier points about problems that collaboration tools aim to solve):
 
-> “Bluescape keeps everyone aligned so much better. If you are meeting every week in the same Bluescape session and you have to revisit something, you can go back and look at it quickly to review a full report. It just keeps everyone aligned by having all the information in one source.”
+> “Bluescape <span class="bg-yellow">keeps everyone aligned</span> so much better. If you are meeting every week in the same Bluescape session and you have to revisit something, you can go back and <span class="bg-yellow">look at it quickly to review a full report</span>. It just keeps everyone aligned by having <span class="bg-yellow">all the information in one source</span>.”
 
 Forrester’s study does a really good job of taking this kind of information and turning it into tangible outcomes by breaking down the benefits, costs, flexibility, and risks associated with the deployment of Bluescape. Please follow the link above to get a copy of the report if you are interested in learning more about the financial models they used, and how they came up with metrics like: ROI %, Benefits PV, NPV, Payback period.
 
@@ -181,6 +181,7 @@ For many organizations, paying for a 3rd party research firm to do a study like 
 
 - Session length/time-in app
 - # of users (i.e monthly active users)
+  - # of users collaborating in same spaces
 - # of departments using the platform
 - # of items uploaded
 - NPS/Surveys

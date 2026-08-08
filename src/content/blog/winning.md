@@ -34,7 +34,7 @@ If you’re addicted to the taste of success and crave more, then you’re ready
 
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
-1. **Winning IS NOT:** Glorious, Euphoric, Success, Domination, Achievement, Power, Satisfaction, Triumph, Awesome, Amazing. **Winning IS** Uncivilized, Hard, Nasty, Unpolished, Dirty, Rough, Unforgiving, Unapologetic, Uninhibited.
+1. <u>**Winning IS NOT:**</u> Glorious, Euphoric, Success, Domination, Achievement, Power, Satisfaction, Triumph, Awesome, Amazing. <u>**Winning IS**</u> Uncivilized, Hard, Nasty, Unpolished, Dirty, Rough, Unforgiving, Unapologetic, Uninhibited.
 2. Winning is not a spectrum, you either win or you lose, and when you do win, you get thrown right back to the beginning and have to do it all over again with even more obsession than the first time.
 3. By referring to characteristics of individuals like Michael Jordan, Kobe Bryant, and others, along with the personal details Tim shares, he creates a Winning persona as someone who: flexes their IDGAF muscle often, is extremely confident in themselves, is ok with being called selfish and not being liked, understands the importance of knowledge, is comfortable with loneliness, can control their mind, can control the uncontrollable, is addicted to results, has mastered focus, has fear but never doubts, holds themself accountable, and what I personally think is the most important for Winning: has a dark side.
 
@@ -81,7 +81,11 @@ So, with that in mind, I would recommend this book to the following people:
 - I am more comfortable with the fact that I can’t always make other people happy with my decisions. Meaning, I am generally more confident with the choices that I make.
 - Having read other books that described competitiveness as being a bad thing, this one helped me come to a healthier balance by re-encouraging my competitive personality to shine how I see fit.
 - I think about this idea a lot: Tim doesn’t like the line “It’s a marathon, it’s not a sprint” and associates it with procrastination and lack of focus, which I definitely thought was a bit aggressive, but he then conceptualized it by saying if you look at an elite marathon runner and take their average pace, it would be just about/almost the sprinting speed of most people. *Meaning, elite marathon runners are essentially sprinting throughout the entire marathon.*
+  1. Life truly is short, so this idea has encouraged me to stay motivated and keep sprinting through my life.
 - I’m more comfortable with fear and more aware of doubt. I have thought about his 3 questions when I am doubtful of something:
+  1. Do I want to do it?
+  2. Can I do it?
+  3. Is it worth my time?
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 

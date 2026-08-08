@@ -23,9 +23,19 @@ As I've continued to drift into adulthood and my fitness levels have become a lo
 <summary>So I put together a small list of all the reasons I could think of as to why people exercise on a regular basis:</summary>
 
 - For the looks
+  - To lose body fat
+  - To gain muscle
 - To be healthy (now and in the future)
+  - Reduced risk of heart diseases
+  - Helps your body manage blood sugar and insulin levels
+  - For brain health
+  - For bone health
+  - Reduction of cancer risk
 - Because it's fun
+  - If it isn't fun for you, you're doing it wrong!
 - It feels good
+  - Improves mental health/mood
+  - Improves sleep
 
 </details>
 
@@ -39,11 +49,11 @@ If I missed any obvious reasons please let me know here:
 
 While trying to answer this question, I came across this definition of 'fitness':
 
-> 📔 The quality of being suitable to fulfill a **particular role or task**
+> 📔 The quality of being suitable to fulfill a <span class="bg-yellow">**particular role or task**</span>
 
 <div class="nb"></div>
 
-![Proof that ](/images/blog/mvp-minimum-viable-phitness-14.webp)
+![Proof that ](/images/blog/mvp-minimum-viable-phitness-18.webp)
 
 *Proof that fit-tech is growing!😂 (Google Ngram of 'workout')*
 
@@ -60,28 +70,28 @@ Here are a variety of examples of lifestyles that I've pre-defined, with each th
 <details>
 <summary>9-5 office job & 5-10 gamer</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-15.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-19.webp)
 
 </details>
 
 <details>
 <summary>Stay at home mom</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-16.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-20.webp)
 
 </details>
 
 <details>
 <summary>Construction/manual labourer</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-17.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-21.webp)
 
 </details>
 
 <details>
 <summary>Olympic gymnast</summary>
 
-![image](/images/blog/mvp-minimum-viable-phitness-18.webp)
+![image](/images/blog/mvp-minimum-viable-phitness-22.webp)
 
 </details>
 
@@ -121,6 +131,9 @@ It will require a tremendous amount of research, but eventually there will be pr
 
 - During set up of device, you enter all your personal information, i.e your weight, age, daily activities, any pains you have, goals with the product etc.
 - Based on information given, Tempo creates a set tailored workouts to help 'bullet proof' your body. For the 9-5 & gamer I would imagine the exercises would be focused on:
+  1. Strengthening postural muscles
+  2. Activating muscles not used while sitting (glutes, core, upper back etc.)
+  3. Addressing chronically shortened & lengthened muscles/tendons (hamstrings, quads)
 - While doing these workouts Tempo uses 3D motion sensors and AI technologies to track your movements and give you personalized feedback
 
 <div class="nb"></div>
@@ -128,6 +141,9 @@ It will require a tremendous amount of research, but eventually there will be pr
 Until these technologies come out, we'll all probably continue to live our current lifestyles and only address our physical problems as they arise. I know the point of this post was to discover what our MVP would be, but for now, if I had to give some quick pieces of advice to maintain physical health they would be:
 
 - Look for solutions to keep you moving during sedentary tasks
+  - [Stand/sit desks](https://www.fully.com/standing-desks.html)
+  - [Treadmill desks](https://www.lifespanfitness.com/workplace/treadmill-desks)
+  - [Different types of seating](https://www.fully.com/chairs/for-standing-desks.html)
 - Exercise! Whatever you enjoy, just get up and move
 - "Use it or lose it"
 - Move, move, move!
@@ -139,5 +155,3 @@ Until these technologies come out, we'll all probably continue to live our curre
 <div class="nb"></div>
 
 <div class="embed"><iframe src="https://giphy.com/embed/453fdLGucOMwg" loading="lazy" allowfullscreen></iframe></div>
-
-<div class="nb"></div>

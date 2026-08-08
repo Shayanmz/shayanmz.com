@@ -41,7 +41,7 @@ Customers want products that help them achieve their own business outcomes. By e
 The risk of switching is now owned almost exclusively by the software vendor. Customers no longer bear the burden of huge upfront costs (usually).
 
 1. “Acquiring customers is expensive. Really expensive. That makes keeping them a necessity, no matter how big your market might be”.
-2. Customer Success is a philosophy that should be embodied by your entire organization. EVERYONE must be customer obsessed. Additionally, every part of the organization should be equally committed to and **incentivized** by the success of your customers. This comes from a cross-functional agreement and buy-in from sales, product, data, marketing, and executives alike.
+2. Customer Success is a philosophy that should be embodied by your entire organization. EVERYONE must be customer obsessed. Additionally, every part of the organization should be equally committed to and <u>**incentivized**</u> by the success of your customers. This comes from a cross-functional agreement and buy-in from sales, product, data, marketing, and executives alike.
 
 <h2 id="impressions">Impressions 🤔</h2>
 
@@ -84,5 +84,3 @@ Because I’ve been in a CSM role for the past 2+ years, the way I think about C
 > “Ninety percent of all churn happens at the time of sale.”
 
 > “In a recurring revenue business, there's no such thing as post-sales. Every single activity is a pre-sales activity.”
-
-<div class="nb"></div>

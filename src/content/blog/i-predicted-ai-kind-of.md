@@ -45,7 +45,7 @@ AI ✨
 
 <div class="nb"></div>
 
-The farthest extension of my idea was basically: LLM’s that are trained on your codebase as well as all your documentation, both internal and external, providing you the ability to ask questions and receive answers that are literally based on the code itself.
+The farthest extension of my idea was basically: <span class="bg-yellow">LLM’s that are trained on your codebase as well as all your documentation, both internal and external, providing you the ability to ask questions and receive answers that are literally based on the code itself.</span>
 
 <div class="nb"></div>
 
@@ -103,7 +103,3 @@ My answers:
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 
 [https://www.linkedin.com/in/shayan-memarzadeh/](https://www.linkedin.com/in/shayan-memarzadeh/)
-
-<div class="nb"></div>
-
-<div class="nb"></div>

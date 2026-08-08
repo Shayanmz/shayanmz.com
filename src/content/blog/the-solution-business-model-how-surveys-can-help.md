@@ -19,13 +19,13 @@ Organizations are constantly trying to simplify their tech stacks, attempting to
 
 A quick personal example that I can give is Notion♥️, which demonstrates how a product can have very many use cases; whether you're small start-up, a multi-million dollar organization, or even just one individual, there are many ways that you can incorporate it into your workflows/tech stacks. Even still, there are many features, such as in-app hand writing support, that are not included in its functionalities. As a result, it requires me to go use other services simply for this feature of being able to markup and add hand-written snippets. I know Notion is a new-ish product, and hand writing functionality is probably on their roadmap, but you know what I'm getting at.
 
-Ever since the popularization of Web 2.0, the product landscape was able to shift from generalized products/services targeting larger segments to more unique and individualized solutions.  In this post, I'm making the case that the next evolution of product development will be back to generalized products/services with deeply personalized solutions for each unique customer. Products should adapt dynamically to each unique user and find a spot in their workflows for itself, rather than having users try themselves to determine where it fits.
+Ever since the popularization of Web 2.0, the product landscape was able to shift from generalized products/services targeting larger segments to more unique and individualized solutions.  <span class="bg-yellow">In this post, I'm making the case that the next evolution of product development will be back to generalized products/services with deeply personalized solutions for each unique customer. Products should adapt dynamically to each unique user and find a spot in their workflows for itself, rather than having users try themselves to determine where it fits.</span>
 
 <h4 id="article-a-solution-business-model">Article: A solution business model</h4>
 
 I came across <span class="tc-blue">[this article](https://www.sciencedirect.com/science/article/pii/S0019850111000551?casa_token=J-1Uu03JCrAAAAAA:hTuxjYB8lWcQNQ1EA-0Rugz411vLZcIGalG5dqQz16z72b-jJ5YUz5yJDGykZYk7y8G7dBaH#!)</span> in my attempt to structure my thoughts through research, and it puts a framework to my idea: the solution business model framework. Although this article focuses a lot on addressing the organizational capabilities and management practices necessary for this business model to work, I found that the following excerpt was the most accurate in describing what the core framework is based on: “... individualized offers for complex customer problems that are interactively designed and whose components offer an integrative added value by combining products and/or services so that the value is more than the sum of the components”. This research focuses on ‘integrated solutions’, defined as longitudinal relational processes, during which a solution provider integrates goods, service and knowledge components into unique combinations that solve strategically important customer specific problems, and is compensated on the basis of the customer's value-in-use."
 
-![Overview of the solution business model framework](/images/blog/the-solution-business-model-how-surveys-can-help-32.webp)
+![Overview of the solution business model framework](/images/blog/the-solution-business-model-how-surveys-can-help-36.webp)
 
 *Overview of the solution business model framework*
 
@@ -35,6 +35,9 @@ I've highlighted the 'solution configuration' and 'infrastructure support' phase
 - "Tuli et al. (2007) emphasize the role of ***post-deployment support***. Drawing on this and the empirical data the solution process is categorized into four highly interconnected and iterative phases: develop solutions (***combining customer insight*** and provider resources in order to create a solution portfolio), ... sell solution (engaging in a process that turns opportunities into orders for ***customer specific solutions***"
 - ***Closing the gap between customer needs and the firms' offerings***. A balancing act between the need for customization and the need for standardization. "Typical outcome is a modular system composed of independently designed modules that function in an integrated way"
 - Creating rules for structuring solutions that permit flexible adaptation to customer situations. The proposed design rules are:
+  1. An architecture that specifies what modules will be part of the solution
+  2. Interfaces that describe how modules interact
+  3. Standards for testing a module's conformity to design rules (basically making sure that it's within the solution portfolio scope)
 - Value propositions are essentially resource integration promises. Essentially, the firm explains how their product/service can enable the customer to create value when integrated with the customers extant resources and capabilities
 - Lastly, there should be dedicated configuration tools that are used to create customer-specific solutions. Based on what the customer needs, it is easy to configure your solution for them specifically!
 
@@ -68,5 +71,3 @@ Anyway, I'm off to go download and try Scoutible! Hopefully I don't get assigned
 <div class="nb"></div>
 
 <span class="tc-gray">Thanks for checking out my first blog post! Please bare with me as I establish my writing style on here - I also have many ideas for how I will use Notion to prettify these posts for you all!</span>
-
-<div class="nb"></div>

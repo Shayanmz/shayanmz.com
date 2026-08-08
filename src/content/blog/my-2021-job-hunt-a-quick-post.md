@@ -30,9 +30,9 @@ Before I share the link to my sad looking pie chart, I want to also highlight so
 
 The results were:
 
-- 15/24 companies responded to my application (that’s only 62.5% - which I found pretty low)
+- <span class="bg-yellow">15/24 companies responded to my application (that’s only 62.5%</span> - which I found pretty low)
 - It has been at least 2 months since I have submitted my application to any of the roles that have not responded
-- The average time it took for companies that did respond to get back to me was 9.93 days
+- The average time it took for companies that <u>did</u> respond to get back to me was 9.93 days
 
 <div class="nb"></div>
 

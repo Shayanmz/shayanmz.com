@@ -32,9 +32,9 @@ active: home
 2. <span class="tc-gray">Hold a straddle lever for 5 seconds</span>
 3. <span class="tc-gray">25lb weighted ring muscle up</span>
 
-<span class="tc-gray">My long-term, and I mean long-term, cali goal is to be able to hold an</span> <span class="tc-blue">**[Iron Cross](https://youtu.be/HZbee93OIdo?t=11)**</span> <span class="tc-gray">for 5 seconds.</span>
+<span class="tc-gray">My long-term, and I mean</span> <span class="tc-gray"><u>long</u></span><span class="tc-gray">-term, cali goal is to be able to hold an</span> <span class="tc-blue">**[Iron Cross](https://youtu.be/HZbee93OIdo?t=11)**</span> <span class="tc-gray">for 5 seconds.</span>
 
-<span class="tc-gray">Lastly, after getting absolutely bodied by the</span> <span class="tc-blue">**[Tromso midnight sun marathon](https://msm.no/midnight-sun-marathon/)**</span> <span class="tc-gray">this past June, I’ll definitely be going back in June 2027 (after my wedding) to run it again. I was aiming to run a sub 3:20 for my first marathon, but I failed to realize that it was a rolling course, which led to the worst cramps I’ve ever had in my life in both quads</span> <span class="tc-gray">**and**</span> <span class="tc-gray">both hamstrings at km 32. My pace up until km 32 was 4:50. Not bad. Not great. I’ll be back, Tromso.</span>
+<span class="tc-gray">Lastly, after getting absolutely bodied by the</span> <span class="tc-blue">**[Tromso midnight sun marathon](https://msm.no/midnight-sun-marathon/)**</span> <span class="tc-gray">this past June, I’ll definitely be going back in June 2027 (after my wedding) to run it again. I was aiming to run a sub 3:20 for my first marathon, but I failed to realize that it was a rolling course, which led to the worst cramps I’ve ever had in my life in both quads</span> <span class="tc-gray"><u>**and**</u></span> <span class="tc-gray">both hamstrings at km 32. My pace up until km 32 was 4:50. Not bad. Not great. I’ll be back, Tromso.</span>
 
 <h3 id="learning-portuguese">Learning Portuguese</h3>
 
@@ -45,7 +45,3 @@ active: home
 <span class="tc-gray">Originally, I used</span> <span class="tc-blue">**[Nathanial Drew](https://www.nathanieldrew.com/language-learning-resources)**</span><span class="tc-gray">’s Portuguese resources to download the top vocabulary, but now I’m now deep in verbs, prepositions, and general sentence structuring. I also use</span> <span class="tc-blue">**[Granola](https://www.granola.ai/)**</span> <span class="tc-gray">to record my lessons → summary to a google doc → AI scrapes my google doc every day and generates a daily quiz for me on my</span> <span class="tc-blue">**[Readwise Reader](https://readwise.io/read)**</span> <span class="tc-gray">app.</span>
 
 <span class="tc-gray">Bora.</span>
-
-<div class="nb"></div>
-
----

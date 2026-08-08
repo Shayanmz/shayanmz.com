@@ -188,7 +188,3 @@ Basic/conversational speaker
 
 - Played 5 years on the Men's Varsity Soccer Team
 - Was an upper year mentor for the Economics Society
-
-<div class="nb"></div>
-
----

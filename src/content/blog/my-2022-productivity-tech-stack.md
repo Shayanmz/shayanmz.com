@@ -141,7 +141,7 @@ Readwise takes my highlights from my Kindle books and exports each one to Notion
 
 I’ve probably saved over 10,000 hours in note-taking/transferring my highlights from Kindle to Notion. Here are some of the other export options 👇🏼
 
-![image](/images/blog/my-2022-productivity-tech-stack-21.webp)
+![image](/images/blog/my-2022-productivity-tech-stack-25.webp)
 
 <div class="nb"></div>
 

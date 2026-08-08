@@ -21,7 +21,7 @@ cover: /images/blog/cover-the-courage-to-be-disliked-0.webp
 
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
-1. We should view our lives through the lens of Teleology (The study of the *purpose* of a given phenomenon, rather than it's cause), and not through Etiological thinking (determinism/causation).
+1. We should view our lives through the lens of Teleology (The study of the <u>*purpose*</u> of a given phenomenon, rather than it's cause), and not through Etiological thinking (determinism/causation).
 2. We need interpersonal relationships to live happy lives, but at the same time all our problems come from interpersonal relationships, so we need to learn how to separate our tasks and theirs (i.e what other people think about you is not your task, it’s theirs).
 3. To live in life harmony you have to: Stop comparing yourself to others, believe that others are your comrades (you want the best for each other), and understand that you are of use (important) to at least one person.
 
@@ -66,21 +66,26 @@ It's also a fairly quick read as the text is in dialogue format. I would recomme
 
 - The world is simple and life is simple too. The world is not complicated, people make it complicated
 - None of us live in an objective world, but instead a subjective world that we ourselves have given meaning to. The world you see is different from the one I see, and it's impossible to share your world with anyone else
+  - Uses an analogy of water from a well, and how depending on the time of the year, the water feels like it's different temperature. Even though it's the same temperature, it just feels different because of your current subjective view on the temperature of things
 - This philosopher focuses on Alfred Adler's school of psychology - Adlerian psychology
+  - This is in line with greek philosophy
+  - His work has been accepted as a realization, a culmination of truths and of human understanding
 - The idea of 'determinism' explains how if we focus on explaining things solely through cause and effect. Which implies that our present and our future have already been decided by past occurrences
 
 <div class="nb"></div>
 
-> 🆚 Etiology: The study of causation
+> 🆚 <span class="bg-yellow">Etiology:</span> The study of causation
 
-Teleology: The study of the purpose of a given phenomenon, rather than its cause
+<span class="bg-yellow">Teleology:</span> The study of the purpose of a given phenomenon, rather than its cause
 
 - <span class="tc-yellow">Alderian psychology focuses on present "goals" rather than past "causes"</span>
+  - This is the idea of teleology
+  - The past doesn't matter!
 - The argument against Etiology is that <span class="tc-yellow">trauma does not exist</span>
 
 <div class="nb"></div>
 
-> 💭 Example:
+> 💭 <span class="bg-yellow">Example:</span>
 If your friend doesn't want to go out, the explanation isn't: he is insecure so he can't go out. It should be: He doesn't want to go out, so he's creating a state of anxiety
 
 <div class="nb"></div>
@@ -94,12 +99,15 @@ If your friend doesn't want to go out, the explanation isn't: he is insecure so 
 Fabrication of anger
 
 - <span class="tc-yellow">People fabricate emotions to allow themselves to act a certain way</span>
+  - People say "It was unavoidable, I couldn't do anything about it". But we could basically proceed with that reasoning and veto any offense committed in anger because "it wasn't our fault"
+  - Anger is a tool that can be taken out as needed
+  - <span class="tc-yellow">"Anger is a means to a goal"</span>
 
 <div class="nb"></div>
 
 Unhappiness is something you choose for yourself
 
-- You chose to be unhappy, being born under an unlucky star doesn't make you unhappy
+- You chose to be unhappy, being born under an unlucky star doesn't <u>make</u> you unhappy
 - Every criminal has an internal justification for getting involved in crime
 - The Greek word for "good" (agathon) does not have a moral meaning. It just means "beneficial." Conversely, the word for "evil" (kakon) manes "not beneficial"
 - <span class="tc-yellow">People use "I'm a pessimist" rather than "I have a pessimistic view of the world". Instead of using it as a defining personality trait, it should be used as a current "Lifestyle"</span>
@@ -110,6 +118,7 @@ Unhappiness is something you choose for yourself
 You can change your life right now
 
 - People always make excuses and say things like: "I've been really busy lately, I couldn't work on it" to explain why they haven't done things. However this is simply to leave the possibility of "I can do it if I try" open, by not actually committing to anything.
+  - This is usually done because of other reasons, like not having the courage or being afraid of criticism etc..
 - No matter what has occurred in your life up to this point, it should have no bearing at all on how you live from now on
 
 <div class="nb"></div>
@@ -135,17 +144,20 @@ You can change your life right now
 
 <div class="nb"></div>
 
-- They have to do with one's value judgement of oneself
+- They have to do with one's <span class="bg-yellow">value judgement</span> of oneself
+  - The feeling that one has no worth, or that one is worth only so much
 - Feelings about yourself are all subjective feelings of inferiority, which arise from comparing yourself to others
+  - Choosing to how to view these things are entirely subjective
 - The "pursuit of superiority" is the universal desire to escape from the helpless state that we enter the world as - helpless beings
+  - The problem comes when we are not able to reach one's ideals or goals, because we start harboring a sense of being lesser → which can only happen through comparison → which is basically the feeling of inferiority
 - <span class="tc-yellow">If it is not used in the wrong way, the feeling of inferiority, too, can promote striving and growth</span>
 
 <div class="nb"></div>
 
-> 🆚 Inferiority Complex: An abnormal mental state made up of a complicated group of emotions and ideas:
+> 🆚 <span class="bg-yellow">Inferiority Complex:</span> An abnormal mental state made up of a complicated group of emotions and ideas:
 👉🏼 "I'm not well educated, so I can't succeed, or I'm not good-looking, so I can't get married"
 
-Feeling of Inferiority: The feeling of not being where you want to be in a certain aspect or pursuit
+<span class="bg-yellow">Feeling of Inferiority:</span> The feeling of not being where you want to be in a certain aspect or pursuit
 👉🏼"I'm not well educated, so I'll just have to try harder than anyone else"
 
 <div class="nb"></div>
@@ -153,12 +165,14 @@ Feeling of Inferiority: The feeling of not being where you want to be in a certa
 - Those who manifest their inferiority complexes in words or attitudes, who say that "A is the situation, so B cannot be done" are implying that if only it were not for A, they'd be capable and have value
 - People who aren't able to compensate through striving and growth, will end up in an inferiority complex
 - "The real me, which just happens to be obscured right now by the matter of _____, is superior"
-- People who wear and do things for other people have feelings of inferiority, because they are living other people's lives. They are essentially living in a "superiority complex"
+- People who wear and do things for other people have feelings of inferiority, because they are living other people's lives. They are essentially living in a <span class="bg-yellow">"superiority complex"</span>
+  - Braggarts have superiority complexes
 - People who brag about their own misfortunes have these issues too!
+  - They try to use their misfortune to their advantage and try to control the other party with it
 
 <div class="nb"></div>
 
-> 💭 Life is not a competition
+> 💭 <span class="bg-yellow">Life is not a competition</span>
 We're all on the same level playing field, there are people who are moving forward, and there are people who are moving forward behind them. The speed of walking is the only thing that differs - everyone is in the same flat place.
 The pursuit of superiority is the mind-set of taking a single step forward on one's own feet, not that mind-set of competition of the sort that necessitates aiming to be greater than other people
 <span class="tc-yellow">A healthy feeling of inferiority is not something that comes from comparing oneself to others; it comes from one's comparison with one's ideal self</span>
@@ -169,20 +183,22 @@ The pursuit of superiority is the mind-set of taking a single step forward on on
 - When one is conscious of competition and victory and defeat, it is inevitable that feelings of inferiority will arise
 - Refer to people as your comrades rather than your competitors!
 - Don't get caught in power struggles with other people
+  - No matter how much you might think you're right, try not to criticize the other party on that basis. This is an interpersonal relationship trap that many people fall into → it just leads to someone needing to be right and someone being wrong
 - Once the interpersonal relationship reaches the revenge stage, it is almost impossible for either party to find a solution
+  - E.g a kid cutting himself to get back at his parents for the awful upbringing
 
 <div class="nb"></div>
 
 > 🔢 <span class="tc-yellow">Life Tasks (All dependent on interpersonal relationships):</span>
-1. Tasks of Work
+1. Tasks of <span class="bg-yellow">Work</span>
 👉🏼 Work is impossible without cooperation of other people
 👉🏼 Lowest hurdles because work relationships are much different than love or friendship
 
-2. Tasks of Friendships
+2. Tasks of <span class="bg-yellow">Friendships</span>
 👉🏼 Difficult to initiate or deepen
 👉🏼 Getting back together even after a long time, things will be the same as they were before
 
-3. Tasks of Love
+3. Tasks of <span class="bg-yellow">Love</span>
 👉🏼 Two stages: love relationships, and family relationships
 👉🏼 Love relationships in which people restrict each other eventually fall apart
 👉🏼 When one can think: "Whenever I am with this person, I can behave freely", one can really love
@@ -198,6 +214,7 @@ The pursuit of superiority is the mind-set of taking a single step forward on on
 <h3 id="third-night-discard-other-people-s-tasks">Third Night: Discard other people&#x27;s tasks</h3>
 
 - Adlerian psychology denies the need to seek recognition from others
+  - <span class="tc-yellow">One must not seek recognition</span>
 - It's dangerous to fall in the trap of reward-and-punishment education. If one does not receive recognition when they do something good, then they'll start thinking "why tf am I doing this then"
 - You're living other people's lives when all you care about is how they see you
 
@@ -206,6 +223,7 @@ The pursuit of superiority is the mind-set of taking a single step forward on on
 Separation of tasks
 
 - "One does not intrude on other people's tasks. That's all"
+  - The example made in the book is about a kid not doing his homework. It shouldn't be the parent saying "you need to do it!", because by the kid not doing their work, it is their task as they are the ones who will be affected by it, not the parent.
 - In general, all interpersonal relationship troubles are caused by intruding on other people's tasks, or having one's own tasks intruded on
 - Not intruding doesn't mean ignoring. It's important to show support when required: "If you need anything just know that I'm here!"
 - All you can do is live your own life and choose the best path that you believe in. It is not your task to worry about what others around you might feel or think
@@ -221,19 +239,28 @@ Separation of tasks
 
 - "Individual" has the meaning "indivisible" → It is the smallest possible unit and cannot be broken down any further
 - The mind and body are viewed as one - tension in the mind can make one's arms and legs shake, or cause one's cheeks to turn red
+  - It's that same as what we say! We can't justify certain actions and say "I couldn't control it", you can control everything!
 - <span class="tc-yellow">The goal of interpersonal relationships is "community feeling"</span>
 - Community is much more than our friends, work, school etc. It's actually the entire universe.. If we don't feel part of a certain community, there's always a larger one surrounding it that we can step back and be a part of
+  - "Storm in a teacup"
 - When there are two people society emerges, and community emerges there too
 - It goes from self-interest to interest in others (social interest)
 - <span class="tc-yellow">People who are obsessed with the desire for recognition are also extremely self-centered</span>
 - Make sure we move from "attachment to self" to "concern for others"
 - We're all part of a larger connected system
 - We should not praise or rebuke. Praising has an aspect of it being "the passing of judgement by a person of ability on a person of no ability".
+  - <span class="tc-yellow">Praise creates an unconscious hierarchical structure</span>
+    - Judgement = Vertical relationships
+  - Focus on creating horizontal relationships with people and not vertical
+    - Gratitude>praise!
+      - This gives someone the feeling of contribution and that 'they are of use to someone
+      - They don't actually have to <u>***do***</u> anything. Even their mere existence can be enough
 - <span class="tc-yellow">"Equal but not the same" → Equal = Horizontal = Encouragement</span>
 - When one does not separate tasks, it is implied that the person will intervene in another persons life with a goal of some sort. E.g a parent intervening on a child's life to manipulate them somehow
 - Start building horizontal relationships. If people do not cooperate, they're not connected to you so it doesn't matter. Just start assuming everyone is your comrade!
 - You can't be building both vertical and horizontal relationships. Because once you have one vertical relationship, you'll soon start treating all your other relationships as vertical as well
 - There is space for you to refuse work that you disagree with in a company setting. Because it is you who is doing the work and therefore you who will be responsible if it fails. Don't avoid interpersonal conflict to avoid responsibility.
+  - Be constructive and respectful, but also understand that you shouldn't hide behind vertical relationships.
 
 <div class="nb"></div>
 
@@ -243,17 +270,17 @@ Separation of tasks
 
 > 3️⃣ <span class="tc-yellow">Making the switch from attachment to self (self-interest) to concern for others (social interest) requires three things:</span>
 
-Self-acceptance
+<span class="bg-yellow">Self-acceptance</span>
 👉🏼 "The important thing is not what one is born with but what use one makes of that equipment"
 👉🏼 Very different from self affirmation
                 → "I can do this, I know it's the real me" vs. "Oh I didn't get my result? How can I work to get myself there?"
 👉🏼 Have to the courage to change what one can change
 
-Confidence in others
+<span class="bg-yellow">Confidence in others</span>
 👉🏼 "Believing in others" not "Trusting others"
 👉🏼 You are not the one who decides whether or not you're taking advantage of, it's the other person's task to do so. The best you can do is to not doubt them → comrades wouldn't doubt each other
 
-Contribution to others
+<span class="bg-yellow">Contribution to others</span>
 👉🏼 "It's ok to be here"
 👉🏼 I am of use to someone
 👉🏼 Doesn't have to be an action. It could even just be a matter of existing
@@ -261,13 +288,16 @@ Contribution to others
 <div class="nb"></div>
 
 - Life harmony is an important aspect of being healthy
+  - Don't focus on the people who criticizes you or anything, focus on the ones that are your comrades
 - "Pursuit of easy superiority" is similar to the idea of 'revenge' that was referred to earlier. To easily become 'special' based on your actions
 - <span class="tc-yellow">The courage to be normal</span>
+  - <span class="tc-yellow">Being normal is not the same as being incapable</span>
 - Life is about the journey and not the end goal kind of vibes
+  - Think of life as a series of dots, not a line
+  - The dots are a series of moments
 - Kinetic (dynamic) life = a life where you're trying to reach a destination
+  - Has a beginning and an end point
 - Energeial life (actual-active-state) = Dancing in every moment of your life - enjoying the journey
 - "This is what I did today" → Dancing in the moment
 - <span class="tc-yellow">The greatest life lie is to not live in the here and the now</span>
 - An experience of hardship should be an opportunity to look ahead and think, "*What can I do from now on?"*
-
-<div class="nb"></div>

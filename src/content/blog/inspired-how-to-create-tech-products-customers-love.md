@@ -38,12 +38,12 @@ The first edition of INSPIRED, published ten years ago, established itself as th
 
 <h2 id="the-book-in-3-sentences">The Book in 3 Sentences</h2>
 
-An important retrospective clarification: this is a **textbook** about Product Management, not a regular old book. There are so many ways one could go about summarizing this treasure chest of knowledge, so please don’t take this review as all encompassing. As with all textbooks, there are many “terminology/framework > definition > how to do it well” examples throughout the book, but for the purpose of this summary I chose not to focus on those streams of knowledge, and instead focused on what I found to be the 3 most generalizable and applicable topics that I believe would benefit any reader.
+An important retrospective clarification: this is a <u>**textbook**</u> about Product Management, not a regular old book. There are so many ways one could go about summarizing this treasure chest of knowledge, so please don’t take this review as all encompassing. As with all textbooks, there are many “terminology/framework > definition > how to do it well” examples throughout the book, but for the purpose of this summary I chose not to focus on those streams of knowledge, and instead focused on what I found to be the 3 most generalizable <u>and</u> applicable topics that I believe would benefit any reader.
 
 <div class="nb"></div>
 
 1. It’s a product managers job to make sure that a solution being delivered solves an underlying problem, which can only be done successfully if the idea/solution proves to be (1) valuable - will the customer buy this, or choose to use it? (2) usable - can the user figure out how to use it? (3) feasible - can we build it? (4) viable - does this solution work for our business?
-2. ‘Product/market fit’ was mentioned 36 times in this book, while ‘product-led growth’ (which is a more recent buzzterm) was not mentioned at all, but they are both used to explain a similar idea: everything depends on strong products. Without strong products, marketing programs require customer acquisition costs that are too high; the sales organization is forced to get “creative,” which drives up cost of sales, lengthens the sales cycle, and puts downward pressure on price; and the customer success organization is forced to take it on the chin every day with frustrated customers
+2. ‘Product/market fit’ was mentioned 36 times in this book, while ‘product-led growth’ (which is a more recent buzzterm) was not mentioned at all, but they are both used to explain a similar idea: <u>everything depends on strong products</u>. Without strong products, marketing programs require customer acquisition costs that are too high; the sales organization is forced to get “creative,” which drives up cost of sales, lengthens the sales cycle, and puts downward pressure on price; and the customer success organization is forced to take it on the chin every day with frustrated customers
 3. Most of what Marty speaks about in this book can be umbrella’d under the idea of creating the right product culture; he describes how great companies think, organize, and operate. Here’s a very detailed list of what separates good product teams vs. bad ones:
 
 <h2 id="impressions">Impressions 🤔</h2>
@@ -58,7 +58,7 @@ That being said, as someone who is not in a product role at the time of reading 
 
 For the purpose of this book, by ‘read’, it could just mean “go to the table of contents and go directly to the topic that you want to learn more about”.
 
-- If you are involved in any part of product development at your organization
+- If you are involved in <u>any part</u> of product development at your organization
 - As I mentioned above, I will be using many parts of this book as a sort of ‘guide’ as I maneuver through my career in tech & product, so anyone in a leadership product role who feels that they could take a step back and re-frame what they’re currently working on. This means CEOs, CTOs, COOs, CPOs, and most of their reports
 - If you are an an entrepreneur or building a company
 - If you read ‘Sprint’ and enjoyed it, or it helped you in your career - Marty stated that it is a “must read book for product managers” and that he highly recommends it
@@ -83,4 +83,4 @@ For the purpose of this book, by ‘read’, it could just mean “go to the tab
 
 > “When a product succeeds, it’s because everyone on the team did what they needed to do. But when a product fails, it’s the product manager’s fault”
 
-> “Data is not everything, but data beats opinion” **AND** “Data will shine a light on *what* is happening, but it won’t explain *why*. We need our qualitative techniques to explain the quantitative results”
+> “Data is not everything, but data beats opinion” <u>**AND**</u> “Data will shine a light on *what* is happening, but it won’t explain *why*. We need our qualitative techniques to explain the quantitative results”

@@ -25,23 +25,23 @@ For many years now, Google has employed an 'Innovation Time out' policy that enc
 
 Now, if you were to extend this idea and let entire teams adopt this model of work, well, you would end up with what we refer to as product development teams. With the exclusion of strategic business constraints, one of the main responsibilities of product teams is to innovate and continue to expand on ideas to create new business solutions. Product teams are at the core of the business, and because of this, a lot of the innovative bandwidth of an organization ends up being forced on them. But why? Shouldn't shared learning and feedback be a core component of all teams in innovative companies?
 
-![The A → D figures were pulled from James Clear's article on feedback loops mentioned below](/images/blog/what-we-can-learn-from-product-teams-34.webp)
+![The A → D figures were pulled from James Clear's article on feedback loops mentioned below](/images/blog/what-we-can-learn-from-product-teams-38.webp)
 
 *The A → D figures were pulled from James Clear's article on feedback loops mentioned below*
 
-Well, there are a lot of things that product teams do that naturally encourage innovation, many of which are not being used by their non-technical counterparts. So let's dig into what product teams do well, and what other teams can learn from the strategies and frameworks that they use to be successful.
+Well, there are a lot of things that product teams do that naturally encourage innovation, many of which are <u>not</u> being used by their non-technical counterparts. So let's dig into what product teams do well, and what other teams can learn from the strategies and frameworks that they use to be successful.
 
 <h3 id="product-teams-rely-on-continuous-feedback-loops">Product teams rely on continuous Feedback Loops</h3>
 
 Ah yes, the trendy term you might have heard many times by now.. Just in case though you might not have come across it, the term 'feedback loop' is just a way to define the cyclical nature of things. They exist everywhere, in nature, in business, in human biology, in investing, etc. If you want to learn more on how to structure feedback loops, here are a few books I enjoyed reading: <span class="tc-blue">**[The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)**</span>, <span class="tc-blue">**[Atomic Habits](https://www.amazon.ca/dp/B07D23CFGR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**</span>, and <span class="tc-blue">**[The Lean Startup](https://www.amazon.ca/dp/B004J4XGN6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)**</span>.
 
-In James Clear's <span class="tc-blue">**[short article](https://jamesclear.com/feedback-loops)**</span>, he states that "feedback loops are the invisible forces that shape human behavior". By extending this, I am saying that feedback loops are the invisible forces that shape all business behavior. As you will see in all the resources I have linked above, feedback loops are everywhere, but it is how you use them that will determine your success, which is what the best product teams out there have mastered.
+In James Clear's <span class="tc-blue">**[short article](https://jamesclear.com/feedback-loops)**</span>, he states that "feedback loops are the invisible forces that shape human behavior". By extending this, I am saying that feedback loops are the invisible forces that shape all <u>business</u> behavior. As you will see in all the resources I have linked above, feedback loops are everywhere, but it is how you use them that will determine your success, which is what the best product teams out there have mastered.
 
 There is a natural iterability deeply ingrained into all successful businesses, however, it is important to emphasize that iterating and creating feedback loops should not JUST be for product development teams or strategy decision makers. There is great value in creating a culture of dedicating time to 'retrospectives', which can be weekly, bi-weekly, or even monthly (I tend to like more regular meetings than monthly because new ideas and learnings are susceptible to recency bias) problem-solving sessions where groups of employees work together to come up with creative solutions to problems that they themselves, or their customers/users have faced or continue to face. These meetings aren't meant to give vague suggestions either - they are meant to be specific and actionable. The best feedback loops are ones that can give measurable and comparable results. In product sprint retrospectives, teams go into detail about what went well, what didn't go well, and how they can change moving forward. My tip would be to have a mix of 'senior' and 'junior' people so that there is a balanced dialogue and someone will be able to answer questions like "Why do we do ___ that way?" or "What is the value of this?". It is also worth emphasizing that these suggestions can be for both internal and external facing feedback loops, meaning that product team retros might be more easily quantifiable and user data focused than other teams, but that's ok, the key is to give time to work as a team to 'tweak' your systems.
 
 <div class="nb"></div>
 
-> ❗ Processes won't change as quickly as they should unless you give dedicated time for team "retros" or ideation
+> ❗ Processes won't change as quickly as they should unless you give dedicated time for <u>team</u> "retros" or ideation
 
 <div class="nb"></div>
 
@@ -53,7 +53,7 @@ One thing that the best product managers do well, is understand that every indiv
 
 In the book <span class="tc-blue">**[Inspired](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)**</span> by Marty Cagan, he consistently emphasizes that team collaboration is key and that the best product ideas usually come from your engineering team. So, by making your engineering team comfortable giving feedback and participating, you are tapping into possibly some of the most valuable pieces of insight about your product/business. The only way to do this is by giving them a platform and creating feedback loops!
 
-This idea does not change for other teams. With the pre-requirement that an organization has done a good job in hiring motivated and willing individuals, I can guarantee that no matter what department you try this in, if you create an environment where the ones who are building your product and interacting with customers are comfortable sharing their insights on a regular basis, you will get the following results:
+This idea <u>does not</u> change for other teams. With the pre-requirement that an organization has done a good job in hiring motivated and willing individuals, I can guarantee that no matter what department you try this in, if you create an environment where the ones who are building your product and interacting with customers are comfortable sharing their insights on a regular basis, you will get the following results:
 
 1. Information will be moved from being siloed and never expanded upon, to developing on extensive key learnings, knowledge, or ideas that will extend into actionable items for the larger team
 2. Encouraged camaraderie and cooperation, leading to a more tightly knit team and overall loyalty to the organization
@@ -70,9 +70,9 @@ I have recently found that a lot of employees leaving negative reviews very comm
 
 <div class="nb"></div>
 
-Transparency is a very specific thing that seems to be is deeply rooted in product development teams. If a product manager does not explain to the rest of the development team why they are building something, you could expect to miss out on a lot of opportunities and you will probably have a team that is generally less engaged and excited. Product teams understand that knowledge is power, and the only way to achieve a shared vision is by being transparent, truthful, and open about what the priorities are and how they can work together to achieve desired business outcomes.
+Transparency is a very specific thing that seems to be is deeply rooted in product development teams. If a product manager does not explain to the rest of the development team <u>why</u> they are building something, you could expect to miss out on a lot of opportunities and you will probably have a team that is generally less engaged and excited. Product teams understand that knowledge is power, and the only way to achieve a shared vision is by being transparent, truthful, and open about what the priorities are and how they can work together to achieve desired business outcomes.
 
-The easiest way I thought of conceptualizing this for managers and leaders is to think of treating your employees as if they were your paying customers. If you had 8 hours a day with your customers, would you not want to know what they are thinking? What would you ask them? Imagine how much these 40 hours of feedback would impact your product. Your employees have the same potential energy.
+The easiest way I thought of conceptualizing this for managers and leaders is to think of <u>treating your employees as if they were your paying customers</u>. If you had 8 hours a day with your customers, would you not want to know what they are thinking? What would you ask them? Imagine how much these 40 hours of feedback would impact your product. Your employees have the same potential energy.
 
 <h3 id="product-teams-use-tools-structure-to-transfer-knowledge">Product teams use tools &amp; structure to transfer knowledge</h3>
 
@@ -90,7 +90,7 @@ This takeaways portion is really what I have been thinking a lot about lately an
 
 <h4 id="conversational-outlets">Conversational outlets</h4>
 
-I am a firm believer that every organization should have internal, podcast style conversations, that are not rehearsed, but structured in some sort of way to guide the conversation. If these are done consistently, it creates so many opportunities to learn, adapt, and most importantly, it creates a deep transparency through cross-organizational conversations.
+I am a firm believer that <u>every organization should have internal, podcast style conversations,</u> that are not rehearsed, but structured in some sort of way to guide the conversation. If these are done consistently, it creates so many opportunities to learn, adapt, and most importantly, it creates a deep transparency through cross-organizational conversations.
 
 This doesn't have to be leaders or managers either, you could structure it in so many ways to include a variety of employees across the organization to speak about their experiences and learnings.
 

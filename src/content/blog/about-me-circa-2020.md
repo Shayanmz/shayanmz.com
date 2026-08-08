@@ -88,14 +88,14 @@ Being a minimalist has been trending over recent years, and although it's very h
 
 <h2 id="more-fun-facts-about-me">More fun facts about me</h2>
 
-- **I'm a protagonist:** I'm sure you've heard of the Myers Briggs personality matrix. Well, feel free to <span class="tc-blue">**[read mine (I'm type A)](https://www.16personalities.com/enfj-personality)**</span> - I'd say it's fairly accurate.
-- **I ask a lot of questions:** I don't ever feel like I sound stupid because there's a 95%+ chance that other people have the same questions as me. People also fear that their questions have to bring value to the discussion without the answer - which just isn't the case.
-- **I'm a 'mama's boy':** My mother immigrated to Canada at the age of 19, got her undergraduate degree, and became a full time nurse all while raising myself and my two brothers, all by herself. I'm still not quite sure how she was able to do all that, but there's not a single thing in this world I wouldn't do for her.
-- **I've been 'vegan' for almost 6 years:** I'm not very vocal about this, because I do it for myself. I just believe that if we do not need to eat animals to survive anymore, there's no need for me to eat them. I just eat a little different, that's all.
-- **I don't watch TV shows or movies by myself:** I believe that a large part of watching television is to experience it and talk about it with your friends, so I'd rather binge watch Grey's Anatomy with my girlfriend.
-- **I'm highly intrinsically motivated:** I don't have to be pushed to get results. If it's a priority of mine, I don't need anyone but myself to get me to where I want to be.
-- **In another life I would design homes for a living:** Creating sustainable, modern housing would be my specialty.
-- **I have an addictive personality - in a good way!** When something becomes a priority in my life, I'm obsessive about becoming better at it. Come to think of it, that's probably why I stopped playing video games - probably for the better.
+- <u>**I'm a protagonist**</u>: I'm sure you've heard of the Myers Briggs personality matrix. Well, feel free to <span class="tc-blue">**[read mine (I'm type A)](https://www.16personalities.com/enfj-personality)**</span> - I'd say it's fairly accurate.
+- <u>**I ask a lot of questions**</u>: I don't ever feel like I sound stupid because there's a 95%+ chance that other people have the same questions as me. People also fear that their questions have to bring value to the discussion without the answer - which just isn't the case.
+- <u>**I'm a 'mama's boy'**</u>: My mother immigrated to Canada at the age of 19, got her undergraduate degree, and became a full time nurse all while raising myself and my two brothers, all by herself. I'm still not quite sure how she was able to do all that, but there's not a single thing in this world I wouldn't do for her.
+- <u>**I've been 'vegan' for almost 6 years**</u>: I'm not very vocal about this, because I do it for myself. I just believe that if we do not need to eat animals to survive anymore, there's no need for me to eat them. I just eat a little different, that's all.
+- <u>**I don't watch TV shows or movies by myself**</u>: I believe that a large part of watching television is to experience it and talk about it with your friends, so I'd rather binge watch Grey's Anatomy with my girlfriend.
+- <u>**I'm highly intrinsically motivated**</u>: I don't have to be pushed to get results. If it's a priority of mine, I don't need anyone but myself to get me to where I want to be.
+- <u>**In another life I would design homes for a living**</u>: Creating sustainable, modern housing would be my specialty.
+- <u>**I have an addictive personality - in a good way**</u>! When something becomes a priority in my life, I'm obsessive about becoming better at it. Come to think of it, that's probably why I stopped playing video games - probably for the better.
 
 <h2 id="quotes-i-currently-live-by">Quotes I currently live by</h2>
 
@@ -119,7 +119,3 @@ Being a minimalist has been trending over recent years, and although it's very h
 > "Working right trumps finding the right work" - *Cal Newport*
 >
 > "A person's success in life can usually be measured by the number of uncomfortable conversations he or she is willing to have" - *Brené Brown*
-
-<div class="nb"></div>
-
----

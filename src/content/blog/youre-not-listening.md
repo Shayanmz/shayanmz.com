@@ -41,6 +41,7 @@ More specifically, if you are a leader of any sort (i.e., executive, manager, te
 
 - I speak less and listen more
 - I constantly use the thought of being curious - it makes everything so much more interesting
+  - "Good listeners are good questioners"
 - I have worked on becoming a better listener with my family and friends, as they were the ones I found myself getting impatient with
 - I have become more 'present' in my conversations with people
 - I try to read 'between the lines' more
@@ -61,5 +62,3 @@ More specifically, if you are a leader of any sort (i.e., executive, manager, te
 > "Even in the era of abundant data, we need to listen to get a better understanding"
 
 > "By listening, you're welcoming another person's words and feelings into your consciousness"
-
-<div class="nb"></div>

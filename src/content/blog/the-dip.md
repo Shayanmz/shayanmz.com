@@ -73,11 +73,12 @@ I really enjoyed it. It was a really quick read too - I finished it in a couple 
 
 - I’m less attached to the random ideas I have, because I know that I personally would not be able truly commit and see them through.
 - I’m much more open to *testing* things… If I lose my excitement very quickly or if I can’t see myself doing something long-term, I feel better quitting early.
+  - I’ve always given myself a hard time internally for quitting things “too early” in the past, like certain jobs that really didn’t resonate with me, side projects that had potential, or even past relationships.
 - I’m a really passionate dude. I want to work on things that are really cool or excite me. I’m allowing myself to believe that it IS possible to find a career that aligns with my passions. Even against the advice of Cal Newport.
 
 <h2 id="my-top-5-quotes">My Top 5 Quotes 🗣</h2>
 
-> “Realize that you have only two good choices: Quit or be exceptional. Average is for losers.”
+> “Realize that you have only two <u>good</u> choices: Quit or be exceptional. Average is for losers.”
 
 > “Quitting (via the dip) creates scarcity; scarcity creates value.” … “Scarcity makes being at the top worth something”
 
@@ -86,5 +87,3 @@ I really enjoyed it. It was a really quick read too - I finished it in a couple 
 > “It’s easier to be mediocre than it is to confront reality and quit.”
 
 > “Quitting as a short-term strategy is a bad idea. Quitting for the long term is an excellent idea.”
-
-<div class="nb"></div>

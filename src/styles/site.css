@@ -172,6 +172,66 @@ body {
 /* colored links keep their span color, not the default blue */
 .tc-gray a { color: inherit; }
 
+/* list markers inherit the item's Notion color */
+li:has(> .tc-gray)::marker   { color: hsl(0, 0%, 61%); }
+li:has(> .tc-blue)::marker   { color: hsl(217, 100%, 65%); }
+li:has(> .tc-green)::marker  { color: hsl(146, 32%, 47%); }
+li:has(> .tc-orange)::marker { color: hsl(25, 54%, 53%); }
+li:has(> .tc-pink)::marker   { color: hsl(329, 57%, 58%); }
+li:has(> .tc-red)::marker    { color: hsl(1, 69%, 60%); }
+li:has(> .tc-yellow)::marker { color: hsl(38, 54%, 54%); }
+li:has(> .tc-purple)::marker { color: hsl(270, 55%, 62%); }
+li:has(> .tc-brown)::marker  { color: hsl(18, 35%, 58%); }
+
+/* Notion background highlights, dark theme (derived from Super's hsl math) */
+.bg-gray   { background: hsl(0, 0%, 14.5%); }
+.bg-blue   { background: hsl(201, 100%, 26%); }
+.bg-green  { background: hsl(149, 26%, 19%); }
+.bg-orange { background: hsl(25, 44%, 25%); }
+.bg-pink   { background: hsl(332, 28%, 24%); }
+.bg-red    { background: hsl(6, 32%, 24%); }
+.bg-yellow { background: hsl(38, 36%, 25%); }
+.bg-purple { background: hsl(272, 24%, 23%); }
+.bg-brown  { background: hsl(18, 28%, 22%); }
+
+/* Notion simple table (Super: collapse, 1px borders, gray header row) */
+.tbl-wrap {
+  overflow-x: auto;
+  margin: 8px 0 18px;
+}
+
+.ntable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.ntable th,
+.ntable td {
+  border: 1px solid var(--border);
+  padding: 7px 9px;
+  vertical-align: top;
+  text-align: left;
+  font-weight: 400;
+}
+
+.ntable tr:first-child th {
+  background: hsl(0, 0%, 14.5%);
+}
+
+/* linked-collection gallery (e.g. Good UX examples embedded in a post) */
+.mini-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 8px 0;
+}
+
+.mini-gallery img {
+  width: 100%;
+  border-radius: 5px;
+  display: block;
+}
+
 .prose-site a {
   color: var(--link);
   text-decoration: underline;
@@ -480,13 +540,24 @@ html {
 .site-footer {
   border-top: 1px solid var(--border);
   margin-top: 24px;
-  padding: 20px 24px 28px;
+  padding: 24px 24px 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  font-size: 16px;
+}
+
+.footer-icons {
+  display: flex;
+  gap: 16px;
+}
+
+.footer-links {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  gap: 20px;
-  font-size: 14px;
+  gap: 24px;
 }
 
 .site-footer a {
@@ -494,6 +565,10 @@ html {
   text-decoration: none;
   display: inline-block;
   transition: all 0.1s ease-in-out;
+}
+
+.footer-icons a {
+  color: #e1e1e1;
 }
 
 .site-footer a:hover {

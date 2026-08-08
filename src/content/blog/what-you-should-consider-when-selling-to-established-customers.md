@@ -45,13 +45,13 @@ Hopefully you now have a shallow bit of knowledge on what decisions are happenin
 <details>
 <summary>If you're too lazy to do either of those, just click on the toggle to see Edgar's quick paragraph on CS</summary>
 
-![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-36.webp)
+![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-40.webp)
 
 </details>
 
 In the past, I have been exposed to a couple different internal sales structures. For instance, one structure was where I regularly had inbound SDRs hopping onto my calls and trying to pitch certain functionalities of our product. I can't say that the interactions I generally saw were the most successful, as it felt strange seeing a sales rep interact with an established client as if they were a net new customer. On the other hand, I was also part of a structure where the inbound SDR team was removed entirely and all the selling of our immediate add-on products fell on the CS team. Throughout this transition I came to realize that there are so many situational variables at play that differentiate the process of selling to existing customers vs. selling to new/prospective customers.
 
-The comparison I am making is not to be confused with inbound vs. outbound sales in the sense of marketing & capturing potential customers. The comparison I am making is, once they are already established customers, how do the sales interactions go, what happens after the pitch, and how is this different from the first outbound SDR conversation with that same customer? It is difficult to generalize my ideas below to apply to all product structures & organizations, so to simplify this, the ideas below are specific to SASS (software as a service) organizations that have post-implementation add-on functionalities that can be sold at an additional cost.
+The comparison I am making is not to be confused with inbound vs. outbound sales in the sense of marketing & capturing potential customers. <u>The comparison I am making is, once they are already established customers, how do the sales interactions go, what happens after the pitch, and how is this different from the first outbound SDR conversation with that same customer?</u> It is difficult to generalize my ideas below to apply to all product structures & organizations, so to simplify this, the ideas below are specific to SASS (software as a service) organizations that have post-implementation add-on functionalities that can be sold at an additional cost.
 
 <div class="nb"></div>
 
@@ -75,7 +75,7 @@ This is my favourite, yet most simple idea: Even if they say no to your pitch, i
 
 When working with existing/established customers, understanding their current priorities are probably one of the most important things you can do when trying to make any upsells. Based on what they currently have going on, you can circle back and try and place it in their customer lifecycle appropriately. It should not matter if it is a personal initiative or a company wide initiative, the customers priorities always trump your priorities. As Edgar puts it: "... time with each customer is the most valuable resource you have", so don't waste it by pushing something that is not currently important for them!
 
-Hypothetically, let's say that after pitching a certain add-on, even to the perfect contacts, they are not extremely engaged and it is clear that there is not sense of urgency from their side, you can assume that they are just not looking for that solution at this time. As I stated earlier, your job here is to document everything you possibly can, and come back to it when the time is right - again, SDRs do NOT have it this way. As a CSM, if you always ask your customers to spend more, or market to them constantly, you are risking tainting the relationship you have worked so hard to build, so don't be that person.
+Hypothetically, let's say that after pitching a certain add-on, even to the perfect contacts, they are not extremely engaged and it is clear that there is not sense of urgency from their side, you can assume that they are just not looking for that solution <u>at this time.</u> As I stated earlier, your job here is to document everything you possibly can, and come back to it when the time is right - again, SDRs do NOT have it this way. As a CSM, if you always ask your customers to spend more, or market to them constantly, you are risking tainting the relationship you have worked so hard to build, so don't be that person.
 
 <h4 id="customer-facing-product-managers">Customer facing product managers</h4>
 
@@ -88,11 +88,11 @@ Lastly, it is important for you to understand in detail, what the Job-To-Be-Done
 <details>
 <summary>If you have not heard of the JTBD framework, click on the toggle to the left to see a funny figure I found in the "What is Jobs to be Done (JTBD)?" article sourced at the end of this post</summary>
 
-![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-37.webp)
+![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-41.webp)
 
 To visualize my point above, when you try to sell something to a customer that is not looking for that solution you get something like this:
 
-![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-38.webp)
+![image](/images/blog/what-you-should-consider-when-selling-to-established-customers-42.webp)
 
 Not very useful, huh?
 
@@ -107,7 +107,7 @@ Regardless of the product, the implementation time, resources required, etc. Pro
 <details>
 <summary>Here's a snippet of a great infographic from Invesp Consulting that summarizes the difference between selling to existing and prospective customers. I feel confident arguing that free trials are much more successful for existing clients based on the data shown.</summary>
 
-![Screenshot of an infographic complied & designed by Invesp Consulting](/images/blog/what-you-should-consider-when-selling-to-established-customers-39.webp)
+![Screenshot of an infographic complied & designed by Invesp Consulting](/images/blog/what-you-should-consider-when-selling-to-established-customers-43.webp)
 
 *Screenshot of an infographic complied & designed by Invesp Consulting*
 
@@ -166,5 +166,3 @@ Thank you if you made it this far, and please don't hesitate to reach out - feed
 [shayanmz12@gmail.com](mailto:shayanmz12@gmail.com)
 
 [https://www.linkedin.com/in/shayan-memarzadeh/](https://www.linkedin.com/in/shayan-memarzadeh/)
-
-<div class="nb"></div>

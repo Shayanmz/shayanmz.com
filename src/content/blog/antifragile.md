@@ -85,5 +85,3 @@ As I write this summary, though, and as you will see in the sections below, I do
 <div class="nb"></div>
 
 <span class="tc-gray">I found it funny how after having such a difficult time summarizing the book, I was able to pull such short quotes😅. They really do a good job of representing some key ideas though!</span>
-
-<div class="nb"></div>
