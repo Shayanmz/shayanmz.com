@@ -18,9 +18,12 @@ date: 2026-08-09
 
 ### GTM Engineer
 
-***[Gorgias](https://www.gorgias.com/)**, Toronto, Canada – (Dec 2024 - Present)*
+***[Gorgias](https://www.gorgias.com/)**, Toronto, Canada – (Dec 2024 - July 2026)*
 
-RevOps for our CX & sales teams
+- Built all product data -> activation -> CRM infra for our implementation team
+- Managed all reporting & data pipelines for all CX & sales teams
+- Technical admin, architect, and data eng for our GTM stack
+- All sorts of agentic workflows/tooling for internal needs
 
 ### Customer Success Manager (Bilingual)
 
