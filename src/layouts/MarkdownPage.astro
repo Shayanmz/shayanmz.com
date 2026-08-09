@@ -8,6 +8,17 @@ const { frontmatter } = Astro.props;
 const tabTitle = frontmatter.pageTitle ?? `Shayan Memarzadeh | ${frontmatter.title}`;
 const metaDescription =
   frontmatter.description ?? `${frontmatter.title} — Shayan Memarzadeh`;
+
+// "Last updated" comes from a date field, the same way the home page does it,
+// rather than being a line of body text the editor has to remember to change.
+const lastUpdated = frontmatter.date
+  ? new Date(frontmatter.date).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      timeZone: 'UTC',
+    })
+  : null;
 ---
 
 <Base title={tabTitle} description={metaDescription} active={frontmatter.active}>
@@ -21,6 +32,7 @@ const metaDescription =
   <main class="page">
     <h1 class="page-title">{frontmatter.title}</h1>
     <div class:list={['prose-site', { 'resume-page': frontmatter.active === 'resume' }]}>
+      {lastUpdated && <p class="last-updated">Last updated on {lastUpdated}.</p>}
       <slot />
     </div>
   </main>

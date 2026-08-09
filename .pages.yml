@@ -148,6 +148,16 @@ content:
     type: file
     path: src/pages/resume.md
     fields:
+      - name: date
+        label: Last updated
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: body
+        label: Body
+        type: rich-text
+      # plumbing — kept in the file, not shown in the form
       - name: layout
         label: Layout
         type: string
@@ -155,13 +165,11 @@ content:
       - name: title
         label: Title
         type: string
+        hidden: true
       - name: active
         label: Nav highlight
         type: string
         hidden: true
-      - name: body
-        label: Body
-        type: rich-text
 
 settings:
   content:

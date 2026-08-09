@@ -2,8 +2,8 @@
 layout: ../layouts/MarkdownPage.astro
 title: Resume
 active: resume
+date: 2025-03-05
 ---
-Last updated on March 5, 2025.
 
 > 8+ years across customer success, RevOps, and most recently, light data engineering. I'm at my best when I can sit at the intersection of business strategy and technical execution - building the systems, pipelines, and tools that make teams more effective. You'd get even more value from me if your organization sits in the Fitness, Healthcare, Business Insights, or Organizational Tools spaces, as these are where my interests and expertise run deepest. If you're looking for someone who thinks like an operator, builds like an engineer, and obsesses over understanding your customers - keep reading.
 
