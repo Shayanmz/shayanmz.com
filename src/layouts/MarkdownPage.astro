@@ -2,13 +2,15 @@
 import Base from './Base.astro';
 
 const { frontmatter } = Astro.props;
+
+// Browser-tab title and meta description are derived, so they don't have to
+// be typed into every page's frontmatter (or shown in the CMS).
+const tabTitle = frontmatter.pageTitle ?? `Shayan Memarzadeh | ${frontmatter.title}`;
+const metaDescription =
+  frontmatter.description ?? `${frontmatter.title} — Shayan Memarzadeh`;
 ---
 
-<Base
-  title={frontmatter.pageTitle ?? frontmatter.title}
-  description={frontmatter.description}
-  active={frontmatter.active}
->
+<Base title={tabTitle} description={metaDescription} active={frontmatter.active}>
   {
     frontmatter.cover && (
       <div class="resume-cover">

@@ -1,8 +1,6 @@
 ---
 layout: ../layouts/MarkdownPage.astro
 title: Resume
-pageTitle: Shayan Memarzadeh | Resume
-description: Shayan Memarzadeh's resume
 active: resume
 ---
 <span class="tc-gray">Last updated on March 5, 2025.</span>

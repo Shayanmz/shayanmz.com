@@ -15,18 +15,21 @@ export default function Header() {
   return (
     <>
       <header className="bg-[#272727]" style={{ height: '56px' }}>
-        {/* Desktop Navigation */}
-        <nav className="hidden md:flex gap-6 text-base justify-end items-center h-full" style={{ paddingRight: '44px' }}>
-          <a href="/" className="hover:scale-110 inline-block cursor-default" style={{ color: '#BEBEBE', transition: 'var(--transition)' }}>
+        {/* Desktop Navigation — same treatment as the rest of the site:
+            pointer cursor, and hover fades to 70% while scaling 1.1 over
+            0.1s. (These links previously set cursor-default, which is why
+            hovering them felt dead.) */}
+        <nav className="hidden md:flex text-base justify-end items-center h-full" style={{ paddingRight: '44px', gap: '24px' }}>
+          <a href="/" className="goodux-navlink" style={{ color: '#BEBEBE' }}>
             Home
           </a>
-          <a href="/resume" className="hover:scale-110 inline-block cursor-default" style={{ color: '#BEBEBE', transition: 'var(--transition)' }}>
+          <a href="/resume" className="goodux-navlink" style={{ color: '#BEBEBE' }}>
             Resume
           </a>
-          <a href="/blog" className="hover:scale-110 inline-block cursor-default" style={{ color: '#BEBEBE', transition: 'var(--transition)' }}>
+          <a href="/blog" className="goodux-navlink" style={{ color: '#BEBEBE' }}>
             Blog
           </a>
-          <span className="text-white font-semibold cursor-default hover:scale-110 inline-block" style={{ transition: 'var(--transition)' }}>
+          <span className="goodux-navlink" style={{ color: '#ffffff', fontWeight: 600 }}>
             Good UX
           </span>
         </nav>

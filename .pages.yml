@@ -3,14 +3,20 @@
 # Pages CMS commits straight to this repo; Cloudflare rebuilds on push.
 # There is no database: the markdown files here stay the source of truth.
 #
-# IMPORTANT — why post bodies are `code` and not `rich-text`:
-# The posts ported from Notion contain raw HTML that markdown can't express
-# (nested lists, toggles, callouts, tables, colour spans, and the heading
-# `id`s the table of contents links to). The rich-text editor round-trips
-# content through its own AST and DELETES all of it — one edit silently
-# strips a post's formatting and breaks its TOC. `code` preserves the file
-# byte-for-byte. Only `now/current.md` uses rich-text, because it is plain
-# markdown by design and carries no HTML.
+# Two kinds of content, two kinds of editor:
+#
+#   rich-text  — for files that are plain markdown (new blog posts, the home
+#                page). Nice WYSIWYG editing.
+#   code       — for files carrying raw HTML: the posts ported from Notion,
+#                the home archive, and the resume. Markdown can't express
+#                what Notion nests (toggles, tables, callouts, embeds, colour
+#                spans, the heading ids the table of contents links to), and
+#                the rich-text editor DELETES that HTML on save — one edit
+#                silently strips a post's formatting and breaks its TOC.
+#                `code` preserves the file byte-for-byte.
+#
+# New posts go in src/content/blog (rich-text). The ported ones live in
+# src/content/blog-notion and keep the same /blog/<name> URLs.
 
 media:
   input: public/images
@@ -48,7 +54,44 @@ content:
         type: image
         description: Wide banner behind the post title, and the blog card image.
       - name: body
-        label: Body (markdown + HTML — edited raw, see note at top)
+        label: Body
+        type: rich-text
+
+  # ── Blog posts ported from Notion ─────────────────────────────────
+  # These carry raw HTML for things markdown can't express (toggles,
+  # tables, callouts, embeds). The rich-text editor deletes that HTML on
+  # save, so they are edited raw. Same URLs as the posts above.
+  - name: posts-notion
+    label: Blog posts (from Notion)
+    type: collection
+    path: src/content/blog-notion
+    filename: '{fields.title}.md'
+    view:
+      primary: title
+      sort: [date, title]
+      order: desc
+      fields: [title, date]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: icon
+        label: Icon (emoji)
+        type: string
+        description: Shows on the blog card and above the post title, e.g. 📖
+      - name: cover
+        label: Cover image
+        type: image
+        description: Wide banner behind the post title, and the blog card image.
+      - name: body
+        label: Body (contains HTML — edit raw)
         type: code
         options:
           language: markdown
@@ -114,12 +157,6 @@ content:
       - name: title
         label: Title
         type: string
-      - name: pageTitle
-        label: Browser tab title
-        type: string
-      - name: description
-        label: Meta description
-        type: text
       - name: active
         label: Nav highlight
         type: string
