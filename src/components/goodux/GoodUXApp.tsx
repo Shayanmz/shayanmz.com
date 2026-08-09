@@ -23,7 +23,7 @@ export default function GoodUXApp() {
             Good UX
           </h1>
           <p style={{ fontSize: '16px', lineHeight: '24px', color: '#e1e1e1' }}>
-            An appreciation board for all the little things I've come across in life and on the internet that I thought were good UX.
+            An appreciation board for all the little things I've come across in life and on the internet that I thought were well done.
           </p>
         </div>
 
