@@ -1,13 +1,14 @@
 ---
 title: "'MVP' (Minimum Viable Phitness)"
 date: 2020-09-30
-icon: "🏋🏽"
+icon: 🏋🏽
 cover: /images/blog/cover-mvp-minimum-viable-phitness-0.webp
 ---
+<h4 id="mvp-minimum-viable-product">MVP (Minimum Viable Product)</h4>
+<blockquote><p>&quot;A version of a product with just enough features to satisfy early customers and provide feedback for future product development&quot;</p></blockquote>
 
-<h4 id="mvp-minimum-viable-product">MVP (Minimum Viable Product)</h4><h4 id="mvp-minimum-viable-phitness">MVP (Minimum Viable Phitness)</h4>
-
-<blockquote><p>&quot;A version of a product with just enough features to satisfy early customers and provide feedback for future product development&quot;</p></blockquote><blockquote><p>&quot;A version of yourself that allows you to satisfy your body and fulfill your daily activities/tasks without pain, discomfort, or the abolishment of your long-term health goals&quot;</p></blockquote>
+<h4 id="mvp-minimum-viable-phitness">MVP (Minimum Viable Phitness)</h4>
+<blockquote><p>&quot;A version of yourself that allows you to satisfy your body and fulfill your daily activities/tasks without pain, discomfort, or the abolishment of your long-term health goals&quot;</p></blockquote>
 
 ---
 
