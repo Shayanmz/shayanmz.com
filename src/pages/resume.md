@@ -2,9 +2,8 @@
 layout: ../layouts/MarkdownPage.astro
 title: Resume
 active: resume
-date: 2025-03-05
+date: 2026-08-09
 ---
-
 > 8+ years across customer success, RevOps, and most recently, light data engineering. I'm at my best when I can sit at the intersection of business strategy and technical execution - building the systems, pipelines, and tools that make teams more effective. You'd get even more value from me if your organization sits in the Fitness, Healthcare, Business Insights, or Organizational Tools spaces, as these are where my interests and expertise run deepest. If you're looking for someone who thinks like an operator, builds like an engineer, and obsesses over understanding your customers - keep reading.
 
 **Get in touch with me:**
@@ -21,7 +20,7 @@ date: 2025-03-05
 
 ***[Gorgias](https://www.gorgias.com/)**, Toronto, Canada – (Dec 2024 - Present)*
 
-Currently focused on RevOps for our CX & sales teams
+RevOps for our CX & sales teams
 
 ### Customer Success Manager (Bilingual)
 
@@ -140,30 +139,24 @@ Certified Associate Project Manager (**[CAPM](https://www.pmi.org/certifications
 
 ### Languages
 
-#### English 🇨🇦
+#### English 🇨🇦 (Native)
 
-Native speaker
+#### French 🇫🇷 (Bilingual/Native)
 
-#### French 🇫🇷
+#### Portuguese 🇧🇷 (Intermediate)
 
-Bilingual/Native speaker
+#### Farsi 🇮🇷 (Beginner)
 
-#### Farsi 🇮🇷
 
-Basic/conversational speaker
-
-#### Portuguese 🇧🇷
-
-Basic/conversational speaker
 
 ---
 
 ## 📅 What do I do in a day?
 
 - Sports & weightlifting
-- Read books (psychology, productivity, business, health)
+- Read books (health, psychology, philosophy, business)
 - Add content to my website
-- Speak... In 4 languages (English, French, Farsi, Portuguese)
+- Speak... In 4 languages (English, French, Portuguese, Farsi)
 - Learn about new & relevant tech
 - Cereal enthusiast (ask me about this one)
 
@@ -175,5 +168,6 @@ Basic/conversational speaker
 
 *University of Waterloo, 2015 - 2020*
 
-- Played 5 years on the Men's Varsity Soccer Team
-- Was an upper year mentor for the Economics Society
+- 4 years on the Men's Varsity Soccer Team
+- Upper year mentor for the Economics Society
+
