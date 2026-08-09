@@ -1,19 +1,19 @@
 ---
 date: 2026-08-08
 ---
-### Studying to write the [CSCS exam](https://www.nsca.com/certification/cscs/)
+### Studying to write the CSCS exam
 
 I don't have any true regrets in life, but if I could give my 17-year-old self one piece of advice, it would be to pursue human kinetics/kinesiology.
 
-For years I've told myself I wanted to get my CSCS but always made reasons to be too busy. I decided quit my full-time role at Gorgias to pivot into the fitness/health industry; I'll have more to share on the intents of this pivot soon.
+For years I've told myself I wanted to get my [CSCS](https://www.nsca.com/certification/cscs/) but always made reasons to be too busy. I decided quit my full-time role at Gorgias to pivot into the fitness/health industry; I'll have more to share on the intents of this pivot soon.
 
 For now, I'm enjoying learning much more deeply about exercise science and the human body.
 
-### [Shyops.com](https://shyops.com) consulting
+### Shyops.com consulting
 
-I'm still doing part-time random (and I mean, random) operations, forward deployed, and growth gigs while I transition.
+I'm still doing random part-time (and I mean, random) operations, forward deployed, and growth gigs while I transition. I still want some skin in the game.
 
-In this new age of software, it's never been more fun to help companies build.
+In this new age of software, it's also never been more fun to be a builder.
 
 ### My first (sprint) Triathalon
 
