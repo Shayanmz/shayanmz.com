@@ -61,9 +61,13 @@ RevOps for our CX & sales teams
 
 ***[Apple Store](https://www.apple.com/ca/retail/conestoga/)** (Conestoga Mall), Waterloo, ON – (Sept 2019 - Nov 2020)*
 
+Retail - still probably one of my favourite jobs I've had to date
+
 ### Sales Associate
 
 ***[American Eagle](https://storelocations.ae.com/ca/on/waterloo/00903-550-king-street-north.html)** (Conestoga Mall), Waterloo, ON – (Sept 2018 - Sept 2019)*
+
+Retail
 
 ### QA Analyst
 
@@ -141,19 +145,19 @@ Certified Associate Project Manager (**[CAPM](https://www.pmi.org/certifications
 
 #### English 🇨🇦
 
-#### (Native)
+(Native)
 
 #### French 🇫🇷
 
-#### (Bilingual/Native)
+(Bilingual/Native)
 
 #### Portuguese 🇧🇷
 
-#### (Intermediate)
+(Intermediate)
 
 #### Farsi 🇮🇷
 
-#### (Beginner)
+(Beginner)
 
 
 
