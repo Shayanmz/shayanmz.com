@@ -854,6 +854,22 @@ html {
   margin-bottom: 20px;
 }
 
+/* Resume: the "last updated" line and the company/location/date line under
+   each job title are gray. That's structural (always the paragraph right
+   after a job heading), so CSS owns it and the markdown stays clean —
+   no colour spans to be stripped by a rich-text editor. */
+.resume-page > p:first-child,
+.resume-page h3 + p,
+.resume-page h4 + p {
+  color: var(--text-gray);
+}
+
+/* links inside those gray lines keep the normal link blue */
+.resume-page h3 + p a,
+.resume-page h4 + p a {
+  color: var(--link);
+}
+
 /* resume cover strip, capped like the Super custom CSS did */
 .resume-cover {
   max-height: 80px;

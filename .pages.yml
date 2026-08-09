@@ -160,10 +160,8 @@ content:
         type: string
         hidden: true
       - name: body
-        label: Body (markdown + HTML — edited raw, see note at top)
-        type: code
-        options:
-          language: markdown
+        label: Body
+        type: rich-text
 
 settings:
   content:

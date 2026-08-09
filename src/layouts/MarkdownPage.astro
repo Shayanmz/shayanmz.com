@@ -20,7 +20,7 @@ const metaDescription =
   }
   <main class="page">
     <h1 class="page-title">{frontmatter.title}</h1>
-    <div class="prose-site">
+    <div class:list={['prose-site', { 'resume-page': frontmatter.active === 'resume' }]}>
       <slot />
     </div>
   </main>
