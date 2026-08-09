@@ -132,7 +132,7 @@ BigQuery, dbt, Omni, Hightouch, Tableau, Python, SQL, HTML, CSS
 
 #### CRM & GTM
 
-HubSpot, Vitally, Salesforce, Notion, Zapier/n8n/Cargo, Retool, Promptlayer
+HubSpot, Vitally, Salesforce, Notion, Zapier/n8n/Cargo, Promptlayer, Lemlist, Outreach
 
 #### Other Skills
 
