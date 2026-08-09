@@ -38,11 +38,36 @@ const {
   </head>
   <body>
     <nav class="site-nav" aria-label="Main">
-      <a href="/" aria-current={active === 'home' ? 'page' : undefined}>Home</a>
-      <a href="/resume" aria-current={active === 'resume' ? 'page' : undefined}>Resume</a>
-      <a href="/blog" aria-current={active === 'blog' ? 'page' : undefined}>Blog</a>
-      <a href="/good-ux">Good UX</a>
+      <div class="nav-links">
+        <a href="/" aria-current={active === 'home' ? 'page' : undefined}>Home</a>
+        <a href="/resume" aria-current={active === 'resume' ? 'page' : undefined}>Resume</a>
+        <a href="/blog" aria-current={active === 'blog' ? 'page' : undefined}>Blog</a>
+        <a href="/good-ux">Good UX</a>
+      </div>
+
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <line x1="3" y1="12" x2="21" y2="12" />
+          <line x1="3" y1="6" x2="21" y2="6" />
+          <line x1="3" y1="18" x2="21" y2="18" />
+        </svg>
+      </button>
     </nav>
+
+    <div class="mobile-menu" id="mobile-menu" hidden>
+      <button class="mobile-menu-close" aria-label="Close menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18" />
+          <line x1="6" y1="6" x2="18" y2="18" />
+        </svg>
+      </button>
+      <nav class="mobile-menu-nav" aria-label="Mobile">
+        <a href="/" aria-current={active === 'home' ? 'page' : undefined}>Home</a>
+        <a href="/resume" aria-current={active === 'resume' ? 'page' : undefined}>Resume</a>
+        <a href="/blog" aria-current={active === 'blog' ? 'page' : undefined}>Blog</a>
+        <a href="/good-ux">Good UX</a>
+      </nav>
+    </div>
 
     <slot />
 
@@ -66,5 +91,39 @@ const {
         </footer>
       )
     }
+
+    <script>
+      // Mobile menu — mirrors the Good UX board's header: slides down from the
+      // top of the screen, slides back up on close.
+      const toggle = document.querySelector('.nav-toggle');
+      const menu = document.querySelector('.mobile-menu');
+      const closeBtn = document.querySelector('.mobile-menu-close');
+
+      if (toggle && menu && closeBtn) {
+        const open = () => {
+          menu.hidden = false;
+          menu.classList.remove('is-closing');
+          menu.classList.add('is-opening');
+          toggle.setAttribute('aria-expanded', 'true');
+          closeBtn.focus();
+        };
+
+        const close = () => {
+          menu.classList.remove('is-opening');
+          menu.classList.add('is-closing');
+          toggle.setAttribute('aria-expanded', 'false');
+          setTimeout(() => {
+            menu.hidden = true;
+            menu.classList.remove('is-closing');
+          }, 300);
+        };
+
+        toggle.addEventListener('click', open);
+        closeBtn.addEventListener('click', close);
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape' && !menu.hidden) close();
+        });
+      }
+    </script>
   </body>
 </html>

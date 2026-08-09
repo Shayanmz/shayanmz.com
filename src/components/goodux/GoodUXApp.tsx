@@ -11,7 +11,8 @@ export default function GoodUXApp() {
     <div className="min-h-screen bg-[#272727] text-white">
       <Header />
 
-      <div className="mx-auto px-6 sm:px-12 lg:px-24" style={{ paddingTop: '46px', paddingBottom: '32px' }}>
+      {/* 40px top matches the gap every other page has below the nav */}
+      <div className="mx-auto px-6 sm:px-12 lg:px-24" style={{ paddingTop: '40px', paddingBottom: '32px' }}>
         <div className="mb-4">
           <h1 className="font-bold text-white mb-2" style={{ fontSize: '40px' }}>Good UX</h1>
           <p className="text-white" style={{ fontSize: '16px' }}>
