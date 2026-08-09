@@ -3,7 +3,7 @@ date: 2026-08-08
 ---
 ### Studying to write the [CSCS exam](https://www.nsca.com/certification/cscs/)
 
-I don't have any true regrets in life, but if I could give my 17-year-old self one piece of advice, it would be to pursue human kinetics/kinesiology. I love this shit.
+I don't have any true regrets in life, but if I could give my 17-year-old self one piece of advice, it would be to pursue human kinetics/kinesiology.
 
 For years I've told myself I wanted to get my CSCS but always made reasons to be too busy. I decided quit my full-time role at Gorgias to pivot into the fitness/health industry; I'll have more to share on the intents of this pivot soon.
 
