@@ -139,10 +139,8 @@ content:
           Optional. What happened since — shown in italics above this snapshot.
           e.g. "Hit the 90lb weighted pull-up for 5 ✅"
       - name: body
-        label: Body (markdown + HTML — edited raw, see note at top)
-        type: code
-        options:
-          language: markdown
+        label: Body
+        type: rich-text
 
   # ── Resume ────────────────────────────────────────────────────────
   - name: resume
