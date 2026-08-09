@@ -139,13 +139,21 @@ Certified Associate Project Manager (**[CAPM](https://www.pmi.org/certifications
 
 ### Languages
 
-#### English 🇨🇦 (Native)
+#### English 🇨🇦
 
-#### French 🇫🇷 (Bilingual/Native)
+#### (Native)
 
-#### Portuguese 🇧🇷 (Intermediate)
+#### French 🇫🇷
 
-#### Farsi 🇮🇷 (Beginner)
+#### (Bilingual/Native)
+
+#### Portuguese 🇧🇷
+
+#### (Intermediate)
+
+#### Farsi 🇮🇷
+
+#### (Beginner)
 
 
 
