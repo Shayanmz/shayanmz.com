@@ -13,7 +13,7 @@ For now, I'm enjoying learning much more deeply about exercise science and the h
 
 I'm still doing random part-time (and I mean, random) operations, forward deployed, and growth gigs while I transition. I still want some skin in the game.
 
-In this new age of software, it's also never been more fun to be a builder.
+It's also never been more fun to be a builder in this new age of software.
 
 ### My first (sprint) Triathalon
 
